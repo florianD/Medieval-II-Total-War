@@ -369,6 +369,7 @@ pool Arabia
 	unit Turkomans Mercs		exp 0 cost 740 replenish 0.06 - 0.18 max 3 initial 1 religions { islam }
 	unit Elephants Mercs			exp 0 cost 2375 replenish 0.04 - 0.08 max 2 initial 0  events { gunpowder_discovered }
 	unit Elephant Artillery Mercs	exp 0 cost 3125 replenish 0.04 - 0.08 max 2 initial 0  events { gunpowder_discovered }
+	unit Elephant Rocketeer		exp 0 cost 2840 replenish 0.02 - 0.04 max 1 initial 0  events { gunpowder_discovered }
 	unit Afghan Javelinmen Mercs	exp 0 cost 920 replenish 0.06 - 0.18 max 3 initial 1 religions { islam }
 
 ;================================================
