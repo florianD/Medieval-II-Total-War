@@ -180,3 +180,88 @@ effect arrow_whizz_sound
 }
 
 
+effect flamethrower_start_sound
+{
+    type sound
+    {    
+        evt_file sounds/Effect_EVT/flamethrower_start.evt
+    }
+}
+
+effect flamethrower_firing_sound
+{
+    type sound
+    {    
+        evt_file sounds/Effect_EVT/flamethrower_firing.evt
+    }
+}
+
+effect flamethrower_remains_sound
+{
+    type sound
+    {    
+        evt_file sounds/Effect_EVT/flamethrower_remains.evt
+    }
+}
+
+
+effect boiling_oil_sound
+{
+    type sound
+    {    
+        evt_file sounds/Effect_EVT/boiling_oil.evt
+    }
+}
+
+
+effect barrel_fly_sound
+{
+    type sound
+    {    
+        evt_file sounds/Effect_EVT/barrel_fly.evt
+    }
+}
+
+
+effect barrel_explode_sound
+{
+    type sound
+    {    
+        evt_file sounds/Effect_EVT/barrel_explode.evt
+    }
+}
+
+
+effect barrel_projectile_explode_sound
+{
+    type sound
+    {    
+        evt_file sounds/Effect_EVT/barrel_projectile_explode.evt
+    }
+}
+
+
+effect barrel_projectile_fly_sound
+{
+    type sound
+    {    
+        evt_file sounds/Effect_EVT/barrel_projectile_fly.evt
+    }
+}
+
+effect barrel_projectile_burn_sound
+{
+    type sound
+    {    
+        evt_file sounds/Effect_EVT/barrel_projectile_burn.evt
+    }
+}
+
+
+effect barrel_hit_ground_sound
+{
+    type sound
+    {    
+        evt_file sounds/Effect_EVT/barrel_hit_ground.evt
+    }
+}

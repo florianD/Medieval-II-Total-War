@@ -1793,8 +1793,8 @@ anim		raise_hand_1_to_crew_stand								data/animations/MTW2_Crew/MTW2_Crew_rais
 
 ;;;attacks
 
-anim		eager_attack_centre_overhead_c_stab_fail				data/animations/MTW2_2H_Axe/MTW2_2H_Axe_attack_centre_Hi_Stab_Fail.cas				-fr
-anim		eager_attack_centre_overhead_c_stab_success				data/animations/MTW2_2H_Axe/MTW2_2H_Axe_attack_centre_Hi_Stab_Success.cas			-fr	-id:0.202,0.839,1.552	-if:17
+anim		eager_attack_centre_overhead_c_stab_fail				data/animations/MTW2_2H_Axe/MTW2_2H_Axe_attack_centre_Hi_Stab_Fail.cas					-fr
+anim		eager_attack_centre_overhead_c_stab_success				data/animations/MTW2_2H_Axe/MTW2_2H_Axe_attack_centre_Hi_Stab_Success.cas				-fr	-id:0.202,0.839,1.552	-if:17
 
 anim		eager_attack_centre_mid_a_push_fail						data/animations/MTW2_2H_Axe/MTW2_2H_Axe_attack_push_fail.cas							-fr
 anim		eager_attack_centre_mid_a_push_success					data/animations/MTW2_2H_Axe/MTW2_2H_Axe_attack_push_success.cas							-fr	-id:-0.142,0.469,0.936	-if:13	-evt:data/animations/MTW2_2H_Axe/MTW2_2H_Axe_attack_push_success.evt
@@ -3139,6 +3139,100 @@ anim		run								data/animations/MTW2_Musket/MTW2_Fast_Musket_run.cas							-fr	
 
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+type		MTW2_Flamethrower
+reference_points		siege_engines/UnitModelsRefPoints/Flamethrower_Ref_Point.modelReferencePoints
+parent		MTW2_Musket
+;locomotion_table soldier
+anim		default							data/animations/MTW2_Musket/MTW2_Musket_basepose.cas
+
+;;;Reaction
+
+anim		knockback_from_front			data/animations/MTW2_Flamethrower/MTW2_Flamethrower_knockback_from_front.cas			-fr		; -evt:data/animations/MTW2_Musket/MTW2_Musket_knockback_from_front.evt
+anim		knockback_from_back				data/animations/MTW2_Flamethrower/MTW2_Flamethrower_knockback_from_back.cas				-fr		; -evt:data/animations/MTW2_Musket/MTW2_Musket_knockback_from_back.evt
+anim		knockback_from_right			data/animations/MTW2_Flamethrower/MTW2_Flamethrower_knockback_from_right.cas			-fr		; -evt:data/animations/MTW2_Musket/MTW2_Musket_knockback_from_right.evt
+anim		knockback_from_left				data/animations/MTW2_Flamethrower/MTW2_Flamethrower_knockback_from_left.cas				-fr		; -evt:data/animations/MTW2_Musket/MTW2_Musket_knockback_from_left.evt
+
+anim		knockback_move_from_front		data/animations/MTW2_Flamethrower/MTW2_Flamethrower_knockback_move_from_front.cas		-fr		; -evt:data/animations/MTW2_Musket/MTW2_Musket_knockback_move_from_front.evt
+anim		knockback_move_from_right		data/animations/MTW2_Flamethrower/MTW2_Flamethrower_knockback_move_from_right.cas		-fr		; -evt:data/animations/MTW2_Musket/MTW2_Musket_knockback_move_from_right.evt
+anim		knockback_move_from_back		data/animations/MTW2_Flamethrower/MTW2_Flamethrower_knockback_move_from_back.cas		-fr		; -evt:data/animations/MTW2_Musket/MTW2_Musket_knockback_move_from_back.evt
+anim		knockback_move_from_left		data/animations/MTW2_Flamethrower/MTW2_Flamethrower_knockback_move_from_left.cas		-fr		; -evt:data/animations/MTW2_Musket/MTW2_Musket_knockback_move_from_left.evt
+
+anim		knockdown_forward_launch		data/animations/MTW2_Flamethrower/MTW2_Flamethrower_knockdown_forward_launch.cas		-fr		; -evt:data/animations/MTW2_Musket/MTW2_Musket_knockdown_forward_launch.evt
+anim		knockdown_forward_lying			data/animations/MTW2_Flamethrower/MTW2_Flamethrower_knockdown_forward_lying.cas			-fr
+anim		knockdown_forward_recover		data/animations/MTW2_Flamethrower/MTW2_Flamethrower_knockdown_forward_recover.cas		-fr		; -evt:data/animations/MTW2_Musket/MTW2_Musket_knockdown_forward_recover.evt
+
+anim		knockdown_launch				data/animations/MTW2_Flamethrower/MTW2_Flamethrower_knockdown_launch.cas				-fr		; -evt:data/animations/MTW2_Musket/MTW2_Musket_knockdown_launch.evt
+anim		knockdown_recover				data/animations/MTW2_Flamethrower/MTW2_Flamethrower_knockdown_recover.cas				-fr		; -evt:data/animations/MTW2_Musket/MTW2_Musket_knockdown_recover.evt
+
+
+;;;Death
+
+anim		die_forward_1					data/animations/MTW2_Flamethrower/MTW2_Flamethrower_die_forward_1.cas					-fr		; -evt:data/animations/MTW2_Musket/MTW2_Musket_die_forward_1.evt
+anim		die_forward_2					data/animations/MTW2_Flamethrower/MTW2_Flamethrower_die_forward_2.cas					-fr		 ; -evt:data/animations/MTW2_Musket/MTW2_Musket_die_forward_2.evt
+anim		die_backward_1					data/animations/MTW2_Flamethrower/MTW2_Flamethrower_die_backward_1.cas					-fr		; -evt:data/animations/MTW2_Musket/MTW2_Musket_die_backward_1.evt
+anim		die_backward_2					data/animations/MTW2_Flamethrower/MTW2_Flamethrower_die_backward_2.cas					-fr		; -evt:data/animations/MTW2_Musket/MTW2_Musket_die_backward_2.evt
+anim		die_falling_cycle				data/animations/MTW2_Flamethrower/MTW2_Flamethrower_die_to_back_left_1.cas				-fr		; -evt:data/animations/MTW2_Musket/MTW2_Musket_die_flailing_cycle.evt
+anim		die_falling_end					data/animations/MTW2_Flamethrower/MTW2_Flamethrower_die_to_back_right_1.cas			-fr		; -evt:data/animations/MTW2_Musket/MTW2_Musket_die_flailing_cycle_end.evt
+
+
+
+;;;Non-Combat
+
+anim		stand_a_to_ready				data/animations/MTW2_Flamethrower/MTW2_Flamethrower_stand_A_to_ready.cas				-fr		; -evt:data/animations/MTW2_Musket/MTW2_Musket_stand_A_to_ready.evt
+anim		stand_b_to_ready				data/animations/MTW2_Flamethrower/MTW2_Flamethrower_stand_B_to_ready.cas				-fr		; -evt:data/animations/MTW2_Musket/MTW2_Musket_stand_B_to_ready.evt
+anim		stand_c_to_ready				data/animations/MTW2_Flamethrower/MTW2_Flamethrower_stand_C_to_ready.cas				-fr		; -evt:data/animations/MTW2_Musket/MTW2_Musket_stand_C_to_ready.evt
+
+;;;combat
+
+anim		ready												data/animations/MTW2_Flamethrower/MTW2_Flamethrower_ready.cas							-fr			;-evt:data/animations/MTW2_Musket/MTW2_Musket_ready.evt
+anim		ready_hf_idle_1										data/animations/MTW2_Flamethrower/MTW2_Flamethrower_ready_hf_idle_1.cas						-fr		;-evt:data/animations/MTW2_Musket/MTW2_Musket_ready_hf_idle_1.evt
+anim		ready_hf_idle_2										data/animations/MTW2_Flamethrower/MTW2_Flamethrower_ready_hf_idle_2.cas						-fr		; -evt:data/animations/MTW2_Musket/MTW2_Musket_ready_hf_idle_2.evt
+anim		ready_hf_idle_3										data/animations/MTW2_Flamethrower/MTW2_Flamethrower_ready_hf_idle_3.cas						-fr		; -evt:data/animations/MTW2_Musket/MTW2_Musket_ready_hf_idle_3.evt
+
+anim		ready_to_stand_a									data/animations/MTW2_Flamethrower/MTW2_Flamethrower_ready_to_stand_A.cas					-fr		; -evt:data/animations/MTW2_Musket/MTW2_Musket_ready_to_stand_A.evt
+anim		ready_to_advance									data/animations/MTW2_Flamethrower/MTW2_Flamethrower_ready_to_advance.cas					-fr		; -evt:data/animations/MTW2_Musket/MTW2_Musket_ready_to_advance.evt
+anim		ready_to_retreat									data/animations/MTW2_Flamethrower/MTW2_Flamethrower_ready_to_retreat.cas					-fr		; -evt:data/animations/MTW2_Musket/MTW2_Musket_ready_to_retreat.evt
+anim		ready_to_combat_jog									data/animations/MTW2_Flamethrower/MTW2_Flamethrower_ready_to_combat_jog.cas					-fr		; -evt:data/animations/MTW2_Musket/MTW2_Musket_ready_to_combat_jog.evt
+
+anim		ready_turn_cw_15									data/animations/MTW2_Flamethrower/MTW2_Flamethrower_ready_15_cw.cas		-mintd:5	-maxtd:30		; -evt:data/animations/MTW2_Musket/MTW2_Musket_ready_15_cw.evt
+anim		ready_turn_ccw_15									data/animations/MTW2_Flamethrower/MTW2_Flamethrower_ready_15_ccw.cas	-mintd:5	-maxtd:30		; -evt:data/animations/MTW2_Musket/MTW2_Musket_ready_15_ccw.evt
+anim		ready_turn_cw_45									data/animations/MTW2_Flamethrower/MTW2_Flamethrower_ready_45_cw.cas		-mintd:29	-maxtd:68		; -evt:data/animations/MTW2_Musket/MTW2_Musket_ready_45_cw.evt
+anim		ready_turn_ccw_45									data/animations/MTW2_Flamethrower/MTW2_Flamethrower_ready_45_ccw.cas	-mintd:29	-maxtd:68		; -evt:data/animations/MTW2_Musket/MTW2_Musket_ready_45_ccw.evt
+anim		ready_turn_cw_90									data/animations/MTW2_Flamethrower/MTW2_Flamethrower_ready_90_ccw.cas		-mintd:67	-maxtd:115	; -evt:data/animations/MTW2_Musket/MTW2_Musket_ready_90_cw.evt
+anim		ready_turn_ccw_90									data/animations/MTW2_Flamethrower/MTW2_Flamethrower_ready_90_cw.cas	-mintd:67	-maxtd:115			; -evt:data/animations/MTW2_Musket/MTW2_Musket_ready_90_ccw.evt
+
+anim		shuffle_forward										data/animations/MTW2_Flamethrower/MTW2_Flamethrower_shuffle_forward.cas						-fr		; -evt:data/animations/MTW2_Musket/MTW2_Musket_shuffle_forward.evt
+anim		shuffle_backward									data/animations/MTW2_Flamethrower/MTW2_Flamethrower_shuffle_backwards.cas					-fr		; -evt:data/animations/MTW2_Musket/MTW2_Musket_shuffle_backward.evt
+anim		shuffle_left										data/animations/MTW2_Flamethrower/MTW2_Flamethrower_shuffle_left.cas						-fr		; -evt:data/animations/MTW2_Musket/MTW2_Musket_shuffle_left.evt
+anim		shuffle_right										data/animations/MTW2_Flamethrower/MTW2_Flamethrower_shuffle_right.cas						-fr		; -evt:data/animations/MTW2_Musket/MTW2_Musket_shuffle_right.evt
+
+anim		combat_jog_to_ready									data/animations/MTW2_Flamethrower/MTW2_Flamethrower_combat_jog_to_ready.cas					-fr		; -evt:data/animations/MTW2_Musket/MTW2_Musket_combat_jog_to_ready.evt
+
+anim		advance_to_ready									data/animations/MTW2_Flamethrower/MTW2_Flamethrower_advance_to_ready.cas					-fr		; -evt:data/animations/MTW2_Musket/MTW2_Musket_advance_to_ready.evt
+
+anim		retreat_to_ready									data/animations/MTW2_Flamethrower/MTW2_Flamethrower_retreat_to_ready.cas					-fr		; -evt:data/animations/MTW2_Musket/MTW2_Musket_retreat_to_ready.evt		
+
+;;;Attack
+
+anim		attack_missile_ready								data/animations/MTW2_Flamethrower/MTW2_Flamethrower_attack_Ready.cas			-fr		; -evt:data/animations/MTW2_Musket/MTW2_Musket_attack_missile_ready.evt
+anim		attack_missile_hold									data/animations/MTW2_Flamethrower/MTW2_Flamethrower_attack_Hold.cas				-fr		; -evt:data/animations/MTW2_Musket/MTW2_Musket_attack_missile_hold.evt
+anim		attack_missile_release								data/animations/MTW2_Flamethrower/MTW2_Flamethrower_attack_Release.cas			-fr		-id:0.0, 1.5, 1.0	-if:3, 	; -evt:data/animations/MTW2_Musket/MTW2_Musket_attack_missile_release.evt
+
+anim		attack_missile_reload								data/animations/MTW2_Flamethrower/MTW2_Flamethrower_attack_Reload.cas			-fr		; -evt:data/animations/MTW2_Musket/MTW2_Musket_attack_missile_reload.evt
+
+
+;;;;;;;;;;;;;;;;;; Weapon
+
+
+type		MTW2_Flamethrower_Primary
+suppress_refpoints_warning
+
+anim		default							data/animations/MTW2_Musket/weapon/w_MTW2_Musket_default.cas
+anim		stand_a_idle					data/animations/MTW2_Musket/weapon/w_MTW2_Musket_default.cas
+
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 
@@ -3988,6 +4082,33 @@ anim		stand_a_idle								data/animations/MTW2_Crew/MTW2_Crew_crew_stand_idle.ca
 anim		crew_left									data/animations/siege_Crew/crew_rear_idle.CAS								-fr			;-evt:data/animations/carry_and_artillery/ballista_crew_left_crank_loop.evt
 anim		crew_left_to_crew_stand						data/animations/siege_Crew/crew_rear_idle.CAS								-fr			;-evt:data/animations/carry_and_artillery/ballista_crew_left_fire_idle.evt
 anim		crew_left_stoke_1							data/animations/siege_Crew/crew_left_treb.cas								-fr			;-evt:data/animations/carry_and_artillery/ballista_crew_left_fire_idle.evt
+anim		crew_left_stoke_2							data/animations/siege_Crew/crew_rear_idle.CAS								-fr			;-evt:data/animations/carry_and_artillery/ballista_crew_left_fire_commence.evt
+anim		crew_left_stoke_3cycle						data/animations/siege_Crew/crew_rear_idle.CAS								-fr			;-evt:data/animations/carry_and_artillery/ballista_crew_left_fire_recover.evt
+
+anim		crew_right									data/animations/siege_Crew/crew_right_idle.CAS								-fr			;-evt:data/animations/carry_and_artillery/ballista_crew_right_crank_loop.evt
+anim		crew_right_to_crew_stand					data/animations/siege_Crew/crew_right_idle.CAS								-fr			;-evt:data/animations/carry_and_artillery/ballista_crew_right_fire_idle.evt
+anim		crew_right_load_1							data/animations/siege_Crew/crew_right_treb.cas								-fr
+anim		crew_right_load_2							data/animations/siege_Crew/crew_right_idle.CAS								-fr
+anim		crew_right_load_3							data/animations/siege_Crew/crew_right_idle.CAS								-fr			;-evt:data/animations/carry_and_artillery/ballista_crew_right_fire_recover.evt
+
+anim		crew_rear									data/animations/siege_Crew/crew_rear_idle.CAS								-fr			;-evt:data/animations/carry_and_artillery/ballista_crew_right_crank_loop.evt
+anim		crew_rear_to_crew_stand						data/animations/siege_Crew/crew_rear_idle.CAS								-fr			;-evt:data/animations/carry_and_artillery/ballista_crew_right_fire_idle.evt
+anim		crew_rear_fire_idle							data/animations/siege_Crew/crew_rear_idle.CAS								-fr			;-evt:data/animations/carry_and_artillery/ballista_crew_right_fire_idle.evt
+anim		crew_rear_fire_commence						data/animations/siege_Crew/crew_rear_idle.CAS								-fr			;-evt:data/animations/carry_and_artillery/ballista_crew_right_fire_commence.evt
+anim		crew_rear_fire_recover						data/animations/siege_Crew/crew_right_cover.cas								-fr
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+
+type		MTW2_Mangonel
+parent		MTW2_Knifeman
+anim		default										data/animations/MTW2_Knifeman/MTW2_Knifeman_basepose.cas
+
+anim		stand_a_idle								data/animations/MTW2_Crew/MTW2_Crew_crew_stand_idle.cas
+
+anim		crew_left									data/animations/siege_Crew/crew_rear_idle.CAS								-fr			;-evt:data/animations/carry_and_artillery/ballista_crew_left_crank_loop.evt
+anim		crew_left_to_crew_stand						data/animations/siege_Crew/crew_rear_idle.CAS								-fr			;-evt:data/animations/carry_and_artillery/ballista_crew_left_fire_idle.evt
+anim		crew_left_stoke_1							data/animations/siege_Crew/Crew_Left_mangonel_2.cas							-fr			;-evt:data/animations/carry_and_artillery/ballista_crew_left_fire_idle.evt
 anim		crew_left_stoke_2							data/animations/siege_Crew/crew_rear_idle.CAS								-fr			;-evt:data/animations/carry_and_artillery/ballista_crew_left_fire_commence.evt
 anim		crew_left_stoke_3cycle						data/animations/siege_Crew/crew_rear_idle.CAS								-fr			;-evt:data/animations/carry_and_artillery/ballista_crew_left_fire_recover.evt
 

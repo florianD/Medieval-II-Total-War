@@ -25,6 +25,16 @@ effect bullet_model
 	}
 }
 
+effect grape_model
+{
+	type projectile
+	{
+		model		models_effects/grape.CAS
+		fade_time	0.01
+		view_dist  300
+		sort_for_speed
+	}
+}
 
 effect ballista_model_glow
 {
@@ -95,7 +105,7 @@ effect flaming_ballista_smoke
 {
 	type particle
  	{
-		texture			battlefield/fire/smoke0.tga
+		texture			battlefield/fire/smoke2.tga
 
 		size_range      0.1, 0.5
 		initial_size	1.5, 1
@@ -136,18 +146,17 @@ effect fiery_ballista_light
 		fade_out_time	0.1
 		keyframe_colour
 		{
-				0.05, 	240, 160,  90
-				0.1, 	234, 170, 90
-				0.15, 	246, 160,  90
-				0.2, 	236, 170, 90
-				0.25, 	244, 160, 90
-				0.3, 	234, 170, 90
+				0.05, 	170, 113,  63
+				0.1, 	175, 110, 65
+				0.15, 	170, 113,  63
+				0.2, 	175, 110, 65
+				0.25, 	170, 113,  63
+				0.3, 	175, 110, 65
 		}
 			
 		keyframe_radius
 		{
-				0.05, 	16
-				0.1, 	17
+				0.1, 	12
 		}
 	}
 }
@@ -474,7 +483,146 @@ effect flaming_boulder_smoke_trail
 	}
 }
 
+effect greek_fire
+{
+	type particle
+	{
+		texture				battlefield/fire/Oil_particle_2.tga		
+;		texture				models_effects/textures/checker_board.tga
+		sprite_origin		0.0, 0.0
+		sprite_size			1.0, 1.0
 
+		size_range       	0.5, 2.5
+		age_range        	1.8, 3.0
+	    grow_range		 	0.2, 0.4
+		vel_range  			-0.0, -0.0 
+;		die_size			0.3,0.4
+		fade_time 			0.2, 0.4
+		spin_rate			    -0.5, 0.5
+		acceleration			-0.05,-0.02,-0.0
+		sort_bias				-1
+		sort 					instance
+		
+			keyframe_colour
+		{
+;				0.0		255,	255, 255, 255
+				0.0, 	0,		255, 255, 255
+				0.2, 	40,		255, 255, 255
+				3.1, 	50,		255, 255, 255
+				3.5, 	0,  	255, 255, 255
+		}
+		
+	
+		alpha_max	   		255			 ; maximum alpha value
+		initial_size		0.4, 0.5
+		blend_type			additive
+		offset				0.5, -0.5, 0.3
+		max_particles       10000
+
+		emitter distance_time
+		{
+			density			       5	     	; how many particels per second
+			emitter_falloff_dist	100			; distance in meters to reduce emission over
+			emitter_falloff_bias	0.5			
+			distance_scale  		10
+			max_distance			6			
+		}
+
+		random_emit_radius		0.0, 0.0
+		system_radius			2.0			    ; radius used for culling
+		batched
+	}
+}
+
+effect greek_fire_smoke_trail
+{
+	type particle
+ 	{
+		texture			battlefield/fire/greek_burning_smoke.tga
+
+		size_range      0.1, 3.5
+		age_range       2.5, 4.0
+	    grow_range		2.5, 1.0
+		velocity   		0.0, 15.2
+		spin_rate			    -0.01, 0.01
+		acceleration			0,0.15,0
+		sort_bias				0
+		sort 					instance
+
+		
+		keyframe_colour
+		{
+				0.0, 	00,   80, 80,     80
+				1.5, 	100,   100, 100,    100
+				2.5, 	80,   100, 100,    100
+				4.0, 	0,   100, 100,     100
+
+		}
+
+
+
+		alpha_max	   	255		 ; maximum alpha value
+		initial_size		4.3, 1.8
+		offset				0.4, -0.4, -0.1
+		max_particles       10000
+		emitter distance
+		{
+			density			2 	     ; how many particels per meter
+		}
+		
+		fade_time		0.5		
+
+		clr_adjust_by_ambient_intensity		
+	}
+}
+effect greek_fire_drip
+{
+	type particle
+	{
+		texture				battlefield/fire/#flame_wheel.tga	
+;		texture				models_effects/textures/checker_board.tga
+		sprite_origin		0.0, 0.0
+		sprite_size			1.0, 1.0
+
+		size_range       	0.1, 0.5
+		age_range        	0.8, 2.0
+	    grow_range		 	0.2, 0.3
+		vel_range  			-0.0, -0.0 
+		die_size			0.2,0.5
+		spin_rate			    -0.1, 0.1
+		acceleration			-0.05,-0.20,-0.2
+		sort_bias				-1
+		sort 					instance
+		
+		keyframe_colour
+		{
+;				0.0		255, 255, 255, 255
+				0.0, 	0,    222, 191,   185
+				0.2, 	80,  222, 191,   185
+				1.8, 	35,    222, 191,   185
+				2.2, 	0,     222, 191,   185
+		}
+		
+		alpha_max	   		255		 ; maximum alpha value
+		initial_size		1.5, 0.8
+		blend_type			additive
+		offset				0.4, -0.6, -0.1
+		max_particles       10000
+
+		emitter distance_time
+		{
+			density			       4	     	; how many particels per second
+			emitter_falloff_dist	100			; distance in meters to reduce emission over
+			emitter_falloff_bias	0.5			
+			distance_scale  		10
+			max_distance			6			
+		}
+
+		random_emit_radius		0.2, 0.4
+		system_radius			2.0			    ; radius used for culling
+		batched
+	}
+}
 
 effect_set arrows_fire_new_set
 {
@@ -506,5 +654,218 @@ effect_set bullet_model_set
 	{
 		bullet_model
 		very_small_shockwave
+	}
+}
+
+effect_set grape_model_set
+{
+	lod 1000
+	{
+		grape_model
+		very_small_shockwave
+	}
+}
+
+effect_set greek_fire_set
+{
+	lod 1000
+	{
+		greek_fire
+		greek_fire_drip
+		greek_fire_smoke_trail
+		flamethrower_start_sound
+		flamethrower_firing_sound
+
+	}
+}
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; Mangonel effects
+
+effect mangonel_fire
+{
+	type particle
+	{
+		texture				battlefield/fire/Oil_particle_2.tga		
+;		texture				models_effects/textures/checker_board.tga
+		sprite_origin		0.0, 0.0
+		sprite_size			1.0, 1.0
+
+		size_range       	1.0, 2.5
+		age_range        	0.3, 0.1
+	    grow_range		 	0.5, 1.2
+		vel_range  			-0.0, -0.0 
+;		die_size			0.3,0.4
+		fade_time 			0.1, 0.2
+		spin_rate			    -0.2, 0.2
+		acceleration			0.00,0.1,0.0
+		sort_bias				-1
+		sort 					instance
+		
+			keyframe_colour
+		{
+;				0.0		100,	255, 255, 255
+				0.0, 	150,	200, 180, 100
+				0.1, 	120,	200, 180, 100
+				0.3, 	0,	236, 165, 13
+		}
+		
+	
+		alpha_max	   		255			 ; maximum alpha value
+		initial_size		1.0, 0.2
+		blend_type			additive
+		offset				0.0, -0.0, 0.0
+		max_particles       15000
+
+		emitter distance_time
+		{
+			density			       2	     	; how many particels per second
+			emitter_falloff_dist	1000			; distance in meters to reduce emission over
+			emitter_falloff_bias	0.5			
+			distance_scale  		10
+			max_distance			800			
+		}
+
+		random_emit_radius		0.4, 0.2
+		system_radius			20.0			    ; radius used for culling
+		batched
+		clr_adjust_by_ambient_intensity		
+	}
+}
+
+effect mangonel_fire_smoke_trail
+{
+	type particle
+ 	{
+		texture			battlefield/fire/smoke6_greek.tga
+
+		size_range      1.5, 4.5
+		age_range       0.3, 0.7
+	    grow_range		2.5, 1.0
+		velocity   		0.0, 0.0
+		spin_rate			    -0.01, 0.01
+		acceleration			0,-10.10,0
+		initial_size		2.3, 2.8
+		sort_bias				0
+		sort 					instance
+
+		
+		keyframe_colour
+		{
+				0.0, 	5,   80, 80,     80
+				0.2, 	13,   150, 150,    150
+				0.7, 	0,   100, 100,    100
+
+		}
+
+
+
+		alpha_max	   	255		 ; maximum alpha value
+		offset				0.0, 0.0, -0.0
+		max_particles       10000
+		emitter distance_time
+		{
+			density			       1	     	; how many particels per second
+			emitter_falloff_dist	1000			; distance in meters to reduce emission over
+			emitter_falloff_bias	0.5			
+			distance_scale  		10
+			max_distance			800			
+		}
+		
+		fade_time		0.5	
+		random_emit_radius		0.5, 0.5	
+		system_radius			20.0			    ; radius used for culling
+		batched
+		clr_adjust_by_ambient_intensity		
+	}
+}
+effect mangonel_fire_drip
+{
+	type particle
+	{
+		texture				battlefield/fire/#flame_wheel.tga	
+;		texture				models_effects/textures/checker_board.tga
+		sprite_origin		0.0, 0.0
+		sprite_size			1.0, 1.0
+
+		size_range       	0.1, 0.5
+		age_range        	0.8, 2.0
+	    grow_range		 	0.2, 0.3
+		vel_range  			-0.0, -0.0 
+		die_size			0.2,0.5
+		spin_rate			    -0.1, 0.1
+		acceleration			-0.05,-0.20,-0.2
+		sort_bias				-1
+		sort 					instance
+		
+		keyframe_colour
+		{
+;				0.0		255, 255, 255, 255
+				0.0, 	0,    222, 191,   185
+				0.2, 	80,  222, 191,   185
+				1.8, 	35,    222, 191,   185
+				2.2, 	0,     222, 191,   185
+		}
+		
+		alpha_max	   		255		 ; maximum alpha value
+		initial_size		1.5, 0.8
+		blend_type			additive
+		offset				0.4, -0.6, -0.1
+		max_particles       10000
+
+		emitter distance_time
+		{
+			density			       4	     	; how many particels per second
+			emitter_falloff_dist	100			; distance in meters to reduce emission over
+			emitter_falloff_bias	0.5			
+			distance_scale  		10
+			max_distance			6			
+		}
+
+		random_emit_radius		0.2, 0.4
+		system_radius			2.0			    ; radius used for culling
+		batched
+	}
+}
+effect fiery_barrel_debris_light
+{
+	type light
+	{
+		fade_out_time	0.1
+		keyframe_colour
+		{
+				0.05, 	170, 113,  63
+				0.1, 	175, 110, 65
+				0.15, 	170, 113,  63
+				0.2, 	175, 110, 65
+				0.25, 	170, 113,  63
+				0.3, 	175, 110, 65
+		}
+			
+		keyframe_radius
+		{
+				0.1, 	4
+		}
+	}
+}
+effect barrel_debris
+{
+	type projectile
+	{
+		model			models_effects/debris_fire.CAS
+		fade_time	0.01
+		sort_for_speed
+	}
+}
+
+; mini barrel projectiles flying through air
+effect_set mangonel_fire_set
+{
+	lod 1000
+	{
+		;barrel_debris
+		fiery_barrel_debris_light
+		mangonel_fire
+		;mangonel_fire_drip
+		mangonel_fire_smoke_trail
+		barrel_projectile_fly_sound
 	}
 }

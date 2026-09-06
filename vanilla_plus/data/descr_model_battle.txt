@@ -11250,3 +11250,42 @@ texture_attachments		england, unit_models/AttachmentSets/Final Heater_england_di
 texture_attachments		france, unit_models/AttachmentSets/Final Heater_france_diff.texture, unit_models/AttachmentSets/Final Heater_france_norm.texture
 torch				16, -0.09, 0, 0, -0.35, 0.8, 0.6
 
+type				greek_firethrower
+skeleton			MTW2_Flamethrower, MTW2_Swordsman
+skeleton_attachment_primary	MTW2_Arquebus_Primary
+skeleton_attachment_secondary	MTW2_Sword_Primary
+mesh				unit_models/_Units/ES_Mail/greek_firethrower_lod0.mesh, 11
+mesh				unit_models/_Units/ES_Mail/greek_firethrower_lod1.mesh, 30
+mesh				unit_models/_Units/ES_Mail/greek_firethrower_lod2.mesh, 50
+mesh				unit_models/_Units/ES_Mail/greek_firethrower_lod3.mesh, 80
+texture				byzantium, unit_models/_Units/ES_Mail/textures/mtw2_ES_Mail_byzantium.texture, unit_models/_Units/ES_Mail/textures/mtw2_ES_Mail_normal.texture, unit_sprites/byzantium_Greek_Firethrower_sprite.spr
+texture				merc, unit_models/_Units/ES_Mail/textures/mtw2_ES_Mail_byzantium.texture, unit_models/_Units/ES_Mail/textures/mtw2_ES_Mail_normal.texture, unit_sprites/byzantium_Greek_Firethrower_sprite.spr
+texture_attachments		byzantium, unit_models/AttachmentSets/Final Greek_byzantium_diff.texture, unit_models/AttachmentSets/Final Greek_byzantium_norm.texture
+texture_attachments		merc, unit_models/AttachmentSets/Final Greek_merc_diff.texture, unit_models/AttachmentSets/Final Greek_merc_norm.texture
+torch				16, -0.09, 0, 0, -0.35, 0.8, 0.6
+
+type				greek_firethrower_ug1
+skeleton			MTW2_Flamethrower, MTW2_Swordsman
+skeleton_attachment_primary	MTW2_Arquebus_Primary
+skeleton_attachment_secondary	MTW2_Sword_Primary
+mesh				unit_models/_Units/ES_Greek_Greek_Heavy/greek_firethrower_ug1_lod0.mesh, 11
+mesh				unit_models/_Units/ES_Greek_Greek_Heavy/greek_firethrower_ug1_lod1.mesh, 35
+mesh				unit_models/_Units/ES_Greek_Greek_Heavy/greek_firethrower_ug1_lod2.mesh, 80
+texture				byzantium, unit_models/_Units/ES_Greek_Greek_Heavy/textures/mtw2_es_greek_byzantium.texture, unit_models/_Units/ES_Greek_Greek_Heavy/textures/mtw2_es_greek_normal.texture, unit_sprites/byzantium_Greek_Firethrower_ug1_sprite.spr
+texture				merc, unit_models/_Units/ES_Greek_Greek_Heavy/textures/mtw2_es_greek_byzantium.texture, unit_models/_Units/ES_Greek_Greek_Heavy/textures/mtw2_es_greek_normal.texture, unit_sprites/byzantium_Greek_Firethrower_ug1_sprite.spr
+texture_attachments		byzantium, unit_models/AttachmentSets/Final Greek_byzantium_diff.texture, unit_models/AttachmentSets/Final Greek_byzantium_norm.texture
+texture_attachments		merc, unit_models/AttachmentSets/Final Greek_merc_diff.texture, unit_models/AttachmentSets/Final Greek_merc_norm.texture
+torch				16, -0.09, 0, 0, -0.35, 0.8, 0.6
+
+type				byzantine_gunners
+skeleton			MTW2_Handgun, MTW2_Non_Shield
+skeleton_attachment_primary	MTW2_Handgun_Primary
+skeleton_attachment_secondary	MTW2_Sword_Primary
+mesh				unit_models/_Units/ES_Mail/byzantine_gunners_lod0.mesh, 11
+mesh				unit_models/_Units/ES_Mail/byzantine_gunners_lod1.mesh, 30
+mesh				unit_models/_Units/ES_Mail/byzantine_gunners_lod2.mesh, 50
+mesh				unit_models/_Units/ES_Mail/byzantine_gunners_lod3.mesh, 80
+texture				byzantium, unit_models/_Units/ES_Mail/textures/mtw2_ES_Mail_byzantium.texture, unit_models/_Units/ES_Mail/textures/mtw2_ES_Mail_normal.texture, unit_sprites/byzantium_Byzantine_gunners_sprite.spr
+texture_attachments		byzantium, unit_models/AttachmentSets/Final European CB Gun_byzantium_diff.texture, unit_models/AttachmentSets/Final European CB Gun_byzantium_norm.texture
+torch				16, -0.09, 0, 0, -0.35, 0.8, 0.6
+

@@ -332,6 +332,7 @@ pool Greece
 	unit Ghazis					exp 0 cost 100 replenish 0.18 - 0.5 max 6 initial 1 religions { islam } crusading
 	unit Turkomans Mercs				exp 0 cost 740 replenish 0.02 - 0.10 max 2 initial 1 religions { islam orthodox }
 	unit Mercenary Monster Bombard		exp 0 cost 1900 replenish 0.04 - 0.08 max 2 initial 0  start_year 1300 events { gunpowder_discovered }
+	unit Greek Firethrower	exp 0 cost 1080 replenish 0.04 - 0.13 max 2 initial 1  start_year 1110
 	
 pool Anatolia
 	regions Smyrna_Province Iconium_Province Isle_of_Cyprus Trebizond_Province Caesarea_Province Nicaea_Province
@@ -346,6 +347,7 @@ pool Anatolia
 	unit Akinjis				exp 0 cost 620 replenish 0.18 - 0.5 max 6 initial 1 religions { islam }
 	unit Mutatawwi'a			exp 0 cost 60 replenish 0.08 - 0.25 max 4 initial 1 religions { islam } crusading
 	unit Turkomans Mercs		exp 0 cost 740 replenish 0.06 - 0.18 max 3 initial 1 religions { islam orthodox }
+	unit Greek Firethrower	exp 0 cost 1080 replenish 0.04 - 0.13 max 2 initial 1  start_year 1110
 
 pool Armenia
 	regions Adana_Province Tbilisi_Province Yerevan_Province

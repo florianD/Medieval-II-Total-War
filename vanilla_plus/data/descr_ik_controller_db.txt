@@ -42,7 +42,7 @@ default_skeleton                    ; default skeleton data required as all skel
     {
         damping             0.85
         damping_ref_time    0.04
-	    falloff_dist        10
+	    falloff_dist        -10
 	    falloff_bias        0.2
         yaw_min             -60
         yaw_min_ref         -60
@@ -122,4 +122,35 @@ MTW2_Swordsman                        ; example of a specific skeleton override.
         yaw_max             10
         yaw_max_ref         20
     }
+}
+
+MTW2_Flamethrower
+{
+    bone_head 
+    {
+        yaw_min             -45
+        yaw_min_ref         -45
+        yaw_max             45
+        yaw_max_ref         45
+	    falloff_dist        -2
+	    falloff_bias        0.2
+	}
+    bone_torso 
+    {
+        yaw_min             -90
+        yaw_min_ref         -10
+        yaw_max             90
+        yaw_max_ref         10
+	    falloff_dist        -2
+	    falloff_bias        0.2
+	}
+    bone_abs
+    {
+        yaw_min             -90
+        yaw_min_ref         -10
+        yaw_max             90
+        yaw_max_ref         10
+    	falloff_dist        -2
+	    falloff_bias        0.2
+	}
 }

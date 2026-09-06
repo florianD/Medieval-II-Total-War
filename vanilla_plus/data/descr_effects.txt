@@ -15,3 +15,4 @@ descr_tower_crumble_effects.txt
 descr_chimney_smoke.txt
 descr_campfires_brasiers.txt
 descr_water_effects.txt
+descr_boiling_oil.txt
