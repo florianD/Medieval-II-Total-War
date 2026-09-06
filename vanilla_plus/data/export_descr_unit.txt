@@ -9143,7 +9143,7 @@ banner holy      crusade_cavalry
 soldier          Camel_Gunners, 32, 0, 1
 mount            camel
 mount_effect     elephant -4, horse +2
-attributes       sea_faring, hide_forest, very_hardy, can_withdraw, frighten_mounted, gunpowder_unit, guncavalry
+attributes       sea_faring, hide_forest, very_hardy, can_withdraw, frighten_mounted, gunpowder_unit, guncavalry, mercenary_unit
 formation        3, 4, 5, 5, 2, square
 stat_health      1, 0
 stat_pri         16, 3, camel_gun_bullet, 180, 20, missile, missile_gunpowder, piercing, none, musket_shot_set, 25, 1
@@ -9164,7 +9164,7 @@ stat_food        60, 300
 stat_cost        1, 1180, 300, 120, 95, 1180, 4, 290
 armour_ug_levels 0, 1
 armour_ug_models Camel_Gunners, Camel_Gunners_ug1
-ownership        moors
+ownership        moors, slave
 era 2            moors
 ;unit_info        8, 16, 6
  

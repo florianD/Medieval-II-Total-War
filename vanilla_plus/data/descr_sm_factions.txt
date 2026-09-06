@@ -320,7 +320,7 @@ standard_index				14
 logo_index					FACTION_LOGO_POLAND
 small_logo_index			SMALL_FACTION_LOGO_POLAND
 triumph_value				5
-custom_battle_availability	yes
+custom_battle_availability	no
 can_sap						no
 prefers_naval_invasions		no
 can_have_princess				yes
@@ -507,8 +507,8 @@ standard_index				20
 logo_index					FACTION_LOGO_REBELS
 small_logo_index			SMALL_FACTION_LOGO_REBELS
 triumph_value				5
-custom_battle_availability	no
+custom_battle_availability	yes
 can_sap						yes
 prefers_naval_invasions		no
-can_have_princess				no
+can_have_princess				yes
 has_family_tree					no

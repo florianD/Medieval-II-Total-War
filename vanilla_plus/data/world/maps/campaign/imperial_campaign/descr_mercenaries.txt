@@ -385,6 +385,7 @@ pool North_Africa
 	unit Ghazis				exp 0 cost 100 replenish 0.06 - 0.10 max 2 initial 1 religions { islam } crusading
 	unit Mutatawwi'a		exp 0 cost 60 replenish 0.08 - 0.25 max 4 initial 1 religions { islam } crusading
 	unit Turkomans Mercs	exp 0 cost 740 replenish 0.04 - 0.13 max 2 initial 1 religions { islam }
+	unit Camel Gunners		exp 0 cost 1340 replenish 0.04 - 0.08 max 2 initial 0 start_year 1300 events { gunpowder_discovered }
 
 pool Levant
 	regions Edessa_Province Antioch_Province Aleppo_Province Acre_Province Damascus_Province Jerusalem_Province							
@@ -411,6 +412,7 @@ pool Egypt
 	unit Mutatawwi'a			exp 0 cost 60 replenish 0.08 - 0.25 max 4 initial 1 religions { islam } crusading
 	unit Turkomans Mercs			exp 0 cost 740 replenish 0.04 - 0.13 max 2 initial 1 religions { islam }
 	unit Sudanese Tribesmen Mercs	exp 0 cost 440 replenish 0.04 - 0.13 max 2 initial 1
+	unit Camel Gunners		exp 0 cost 1340 replenish 0.04 - 0.08 max 2 initial 0 start_year 1300 events { gunpowder_discovered }
 
 pool West_Africa
 	regions Timbuktu_Province Arguin_Province

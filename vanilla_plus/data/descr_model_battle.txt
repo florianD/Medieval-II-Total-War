@@ -7748,7 +7748,9 @@ mesh				unit_models/_Units/ME_Burmous_Padded/camel_gunners_lod1.mesh, 30
 mesh				unit_models/_Units/ME_Burmous_Padded/camel_gunners_lod2.mesh, 50
 mesh				unit_models/_Units/ME_Burmous_Padded/camel_gunners_lod3.mesh, 80
 texture				moors, unit_models/_Units/ME_Burmous_Padded/textures/ME_burmous_moors.texture, unit_models/_Units/ME_Burmous_Padded/textures/ME_burmous_normal.texture, unit_sprites/moors_Camel_Gunners_sprite.spr
+texture				merc, unit_models/_Units/ME_Burmous_Padded/textures/ME_burmous_moors.texture, unit_models/_Units/ME_Burmous_Padded/textures/ME_burmous_normal.texture, unit_sprites/moors_Camel_Gunners_sprite.spr
 texture_attachments		moors, unit_models/AttachmentSets/Final ME Heavy_moors_diff.texture, unit_models/AttachmentSets/Final ME Heavy_moors_norm.texture
+texture_attachments		slave, unit_models/AttachmentSets/Final ME Heavy_moors_diff.texture, unit_models/AttachmentSets/Final ME Heavy_moors_norm.texture
 torch				16, -0.09, 0, 0, -0.35, 0.8, 0.6
 
 type				camel_gunners_ug1
