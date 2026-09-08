@@ -1636,7 +1636,8 @@ building missiles
                 recruit_pool "ME Peasant Crossbowmen"  1   0.7   6  0  requires factions { moors, } 
                 recruit_pool "Nubian Archers"  1   0.7   6  0  requires factions { egypt, } 
                 recruit_pool "Ottoman Infantry"  1   0.7   6  0  requires factions { turks, } 
-                recruit_pool "Longbowmen"  1   0.7   6  0  requires factions { england, } 
+                recruit_pool "Greek Firethrower"  1   0.7   6  0  requires factions { byzantium, } 
+				recruit_pool "Longbowmen"  1   0.7   6  0  requires factions { england, } 
                 recruit_pool "Highland Archers"  1   0.7   6  0  requires factions { scotland, } 
                 recruit_pool "Peasant Crossbowmen"  1   0.7   6  0  requires factions { france, hre, spain, portugal, milan, venice, papal_states, } 
                 recruit_pool "Norse Archers"  1   0.7   6  0  requires factions { denmark, } 
@@ -1663,14 +1664,15 @@ building missiles
                 marksmans_range
             }
         }
-        marksmans_range castle requires factions { denmark, hre, france, england, egypt, turks, moors, southern_european, } 
+        marksmans_range castle requires factions { denmark, hre, france, england, egypt, turks, moors, southern_european, greek, } 
         {
             capability
             {
                 recruit_pool "Dismounted Longbowmen"  1   0.7   6  0  requires factions { england, } 
                 recruit_pool "Aventurier"  1   0.7   6  0  requires factions { france, } 
                 recruit_pool "Mounted Crossbowmen"  1   0.7   6  0  requires factions { hre, denmark, spain, portugal, milan, venice, papal_states, sicily, } 
-                recruit_pool "Granadine CB Cav"  1   0.7   6  0  requires factions { moors, } 
+                recruit_pool "Byzantine Gunners"  1   0.7   6  0  requires factions { byzantium, }  and event_counter gunpowder_discovered 1
+				recruit_pool "Granadine CB Cav"  1   0.7   6  0  requires factions { moors, } 
                 recruit_pool "Yeoman Archers"  1   0.7   6  0  requires factions { england, } 
                 recruit_pool "Noble Highland Archers"  1   0.7   6  0  requires factions { scotland, } 
                 recruit_pool "Crossbowmen"  1   0.7   6  0  requires factions { france, denmark, hungary, } 
@@ -1682,7 +1684,8 @@ building missiles
                 recruit_pool "ME Peasant Crossbowmen"  1   0.7   6  0  requires factions { moors, } 
                 recruit_pool "Nubian Archers"  1   0.7   6  1  requires factions { egypt, } 
                 recruit_pool "Ottoman Infantry"  1   0.7   6  1  requires factions { turks, } 
-                recruit_pool "Longbowmen"  1   0.7   6  0  requires factions { england, } 
+                recruit_pool "Greek Firethrower"  1   0.7   6  0  requires factions { byzantium, } 
+				recruit_pool "Longbowmen"  1   0.7   6  0  requires factions { england, } 
                 recruit_pool "Highland Archers"  1   0.7   6  0  requires factions { scotland, } 
                 recruit_pool "Peasant Crossbowmen"  1   0.7   6  0  requires factions { france, hre, spain, portugal, milan, venice, papal_states, } 
                 recruit_pool "Norse Archers"  1   0.7   6  0  requires factions { denmark, } 
