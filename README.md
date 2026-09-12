@@ -1,9 +1,17 @@
-Create a shortcut with this target: "C:\Program Files (x86)\Steam\steamapps\common\Medieval II Total War\M2EX.exe" --features.mod=mods/vanilla_plus
+# Setup
+* Create a **vanilla_plus** folder inside the **mods** folder
+* Copy/paste the **data** folder from the root installation of the game inside the **vanilla_plus** folder
+* Extract and replace all existing files with the files from this archive
+* Create a shortcut with this target: ```"<GameFolder>\Medieval II Total War\M2EX.exe" --features.mod=mods/vanilla_plus```
 
-Changelog:
-* More frequent mercenary elephants, ribault, monster ribault, rocket launcher, monster bombard
-* Mercenary arquebusiers, swiss pikemen, monster bombard, monster ribault, condottieri are recruitable earlier
-* Add camel gunners as recruitable merc (North Africa, Egypt pools)
-* Add elephant rocketeer as recruitable merc (Arabia pool)
-* Add greek firethrower as recruitable merc (Greece, Anatolia pools)
-* Add greek firethrower and byzantine gunners to Byzantines
+# Changelog
+* More frequent Mercenary elephants, Ribault, Monster ribault, Rocket launcher, Monster bombard
+* Mercenary Arquebusiers, Swiss pikemen, Monster bombard, Monster ribault, Condottieri are recruitable earlier
+* Add Camel gunners as recruitable merc (North Africa, Egypt pools)
+* Add Elephant rocketeer as recruitable merc (Arabia pool)
+* Add Greek firethrower as recruitable merc (Greece, Anatolia pools)
+* Add Greek firethrower and byzantine gunners to Byzantines
+* Add Musketeers to France, HRE, England, Poland, Hungary, Denmark, Sicily, Papal states
+* Add Musketeers as recruitable merc (15 pools)
+* Add ME hand gunners, Tuareg camel spearmen and Camel gunners to Egypt
+* Add Reiters as recruitable merc (Northern Germany, Southern Germany pools)
