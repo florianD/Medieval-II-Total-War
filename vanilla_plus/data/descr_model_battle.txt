@@ -3689,11 +3689,25 @@ texture				portugal, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_p
 texture				milan, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_milan.texture, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_normal.texture, unit_sprites/milan_Musketeers_sprite.spr
 texture				venice, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_venice.texture, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_normal.texture, unit_sprites/venice_Musketeers_sprite.spr
 texture				france, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_portugal.texture, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_normal.texture, unit_sprites/portugal_Musketeers_sprite.spr
+texture				hre, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_milan.texture, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_normal.texture, unit_sprites/milan_Musketeers_sprite.spr
+texture				england, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_venice.texture, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_normal.texture, unit_sprites/venice_Musketeers_sprite.spr
+texture				poland, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_venice.texture, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_normal.texture, unit_sprites/venice_Musketeers_sprite.spr
+texture				hungary, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_venice.texture, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_normal.texture, unit_sprites/venice_Musketeers_sprite.spr
+texture				denmark, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_venice.texture, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_normal.texture, unit_sprites/venice_Musketeers_sprite.spr
+texture				sicily, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_portugal.texture, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_normal.texture, unit_sprites/portugal_Musketeers_sprite.spr
+texture				papal_states, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_portugal.texture, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_normal.texture, unit_sprites/portugal_Musketeers_sprite.spr
 texture_attachments		spain, unit_models/AttachmentSets/Final European CB Gun_spain_diff.texture, unit_models/AttachmentSets/Final European CB Gun_spain_norm.texture
 texture_attachments		portugal, unit_models/AttachmentSets/Final European CB Gun_portugal_diff.texture, unit_models/AttachmentSets/Final European CB Gun_portugal_norm.texture
 texture_attachments		milan, unit_models/AttachmentSets/Final European CB Gun_milan_diff.texture, unit_models/AttachmentSets/Final European CB Gun_milan_norm.texture
 texture_attachments		venice, unit_models/AttachmentSets/Final European CB Gun_venice_diff.texture, unit_models/AttachmentSets/Final European CB Gun_venice_norm.texture
 texture_attachments		france, unit_models/AttachmentSets/Final European CB Gun_portugal_diff.texture, unit_models/AttachmentSets/Final European CB Gun_portugal_norm.texture
+texture_attachments		hre, unit_models/AttachmentSets/Final European CB Gun_milan_diff.texture, unit_models/AttachmentSets/Final European CB Gun_milan_norm.texture
+texture_attachments		england, unit_models/AttachmentSets/Final European CB Gun_venice_diff.texture, unit_models/AttachmentSets/Final European CB Gun_venice_norm.texture
+texture_attachments		poland, unit_models/AttachmentSets/Final European CB Gun_venice_diff.texture, unit_models/AttachmentSets/Final European CB Gun_venice_norm.texture
+texture_attachments		hungary, unit_models/AttachmentSets/Final European CB Gun_venice_diff.texture, unit_models/AttachmentSets/Final European CB Gun_venice_norm.texture
+texture_attachments		denmark, unit_models/AttachmentSets/Final European CB Gun_venice_diff.texture, unit_models/AttachmentSets/Final European CB Gun_venice_norm.texture
+texture_attachments		sicily, unit_models/AttachmentSets/Final European CB Gun_portugal_diff.texture, unit_models/AttachmentSets/Final European CB Gun_portugal_norm.texture
+texture_attachments		papal_states, unit_models/AttachmentSets/Final European CB Gun_portugal_diff.texture, unit_models/AttachmentSets/Final European CB Gun_portugal_norm.texture
 torch				16, -0.09, 0, 0, -0.35, 0.8, 0.6
 
 type				musketeers_ug1
@@ -3709,11 +3723,25 @@ texture				portugal, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_p
 texture				milan, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_milan.texture, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_normal.texture, unit_sprites/milan_Musketeers_ug1_sprite.spr
 texture				venice, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_venice.texture, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_normal.texture, unit_sprites/venice_Musketeers_ug1_sprite.spr
 texture				france, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_portugal.texture, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_normal.texture, unit_sprites/portugal_Musketeers_ug1_sprite.spr
+texture				hre, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_milan.texture, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_normal.texture, unit_sprites/milan_Musketeers_ug1_sprite.spr
+texture				england, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_venice.texture, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_normal.texture, unit_sprites/venice_Musketeers_ug1_sprite.spr
+texture				poland, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_venice.texture, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_normal.texture, unit_sprites/venice_Musketeers_ug1_sprite.spr
+texture				hungary, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_venice.texture, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_normal.texture, unit_sprites/venice_Musketeers_ug1_sprite.spr
+texture				denmark, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_venice.texture, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_normal.texture, unit_sprites/venice_Musketeers_ug1_sprite.spr
+texture				sicily, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_portugal.texture, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_normal.texture, unit_sprites/portugal_Musketeers_ug1_sprite.spr
+texture				papal_states, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_portugal.texture, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_normal.texture, unit_sprites/portugal_Musketeers_ug1_sprite.spr
 texture_attachments		spain, unit_models/AttachmentSets/Final European CB Gun_spain_diff.texture, unit_models/AttachmentSets/Final European CB Gun_spain_norm.texture
 texture_attachments		portugal, unit_models/AttachmentSets/Final European CB Gun_portugal_diff.texture, unit_models/AttachmentSets/Final European CB Gun_portugal_norm.texture
 texture_attachments		milan, unit_models/AttachmentSets/Final European CB Gun_milan_diff.texture, unit_models/AttachmentSets/Final European CB Gun_milan_norm.texture
 texture_attachments		venice, unit_models/AttachmentSets/Final European CB Gun_venice_diff.texture, unit_models/AttachmentSets/Final European CB Gun_venice_norm.texture
 texture_attachments		france, unit_models/AttachmentSets/Final European CB Gun_portugal_diff.texture, unit_models/AttachmentSets/Final European CB Gun_portugal_norm.texture
+texture_attachments		hre, unit_models/AttachmentSets/Final European CB Gun_milan_diff.texture, unit_models/AttachmentSets/Final European CB Gun_milan_norm.texture
+texture_attachments		england, unit_models/AttachmentSets/Final European CB Gun_venice_diff.texture, unit_models/AttachmentSets/Final European CB Gun_venice_norm.texture
+texture_attachments		poland, unit_models/AttachmentSets/Final European CB Gun_venice_diff.texture, unit_models/AttachmentSets/Final European CB Gun_venice_norm.texture
+texture_attachments		hungary, unit_models/AttachmentSets/Final European CB Gun_venice_diff.texture, unit_models/AttachmentSets/Final European CB Gun_venice_norm.texture
+texture_attachments		denmark, unit_models/AttachmentSets/Final European CB Gun_venice_diff.texture, unit_models/AttachmentSets/Final European CB Gun_venice_norm.texture
+texture_attachments		sicily, unit_models/AttachmentSets/Final European CB Gun_portugal_diff.texture, unit_models/AttachmentSets/Final European CB Gun_portugal_norm.texture
+texture_attachments		papal_states, unit_models/AttachmentSets/Final European CB Gun_portugal_diff.texture, unit_models/AttachmentSets/Final European CB Gun_portugal_norm.texture
 torch				16, -0.09, 0, 0, -0.35, 0.8, 0.6
 
 type				trebizond_archers
