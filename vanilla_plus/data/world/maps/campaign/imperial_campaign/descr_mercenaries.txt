@@ -147,6 +147,7 @@ pool Northern_Germany
 	unit Crusader Knights		exp 0 cost 220 replenish 0.15 - 0.35 max 4 initial 1  end_year 1300 religions { catholic } crusading
 	unit Crusader Sergeants		exp 0 cost 110 replenish 0.15 - 0.35 max 4 initial 1  end_year 1300 religions { catholic } crusading
 	unit Musketeers		exp 0 cost 910 replenish 0.04 - 0.13 max 2 initial 0 start_year 1320 events { gunpowder_discovered }
+	unit Reiters		exp 0 cost 1040 replenish 0.04 - 0.08 max 2 initial 0 start_year 1300 events { gunpowder_discovered }
 
 pool Southern_Germany
 	regions Innsbruck_Province Prague_Province Vienna_Province Nuremburg_Province Hohenstauffen_Province
@@ -163,6 +164,7 @@ pool Southern_Germany
 	unit Crusader Sergeants		exp 0 cost 110 replenish 0.15 - 0.35 max 4 initial 1  end_year 1300 religions { catholic } crusading
 	unit Mercenary Ribault		exp 0 cost 600 replenish 0.04 - 0.08 max 2 initial 0  events { gunpowder_discovered }
 	unit Musketeers		exp 0 cost 910 replenish 0.04 - 0.13 max 2 initial 0 start_year 1320 events { gunpowder_discovered }
+	unit Reiters		exp 0 cost 1040 replenish 0.04 - 0.08 max 2 initial 0 start_year 1300 events { gunpowder_discovered }
 
 pool Poland
 	regions Cracow_Province Vilnius_Province Thorn_Province Halych_Province Riga_Province

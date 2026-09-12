@@ -2042,7 +2042,11 @@ mesh				unit_models/_Units/RN_Half_3Q_Plate/reiters_lod1.mesh, 30
 mesh				unit_models/_Units/RN_Half_3Q_Plate/reiters_lod2.mesh, 50
 mesh				unit_models/_Units/RN_Half_3Q_Plate/reiters_lod3.mesh, 80
 texture				hre, unit_models/_Units/RN_Half_3Q_Plate/textures/rn_half_3q_plate_hre.texture, unit_models/_Units/RN_Half_3Q_Plate/textures/rn_half_3q_plate_normal.texture, unit_sprites/hre_Reiters_sprite.spr
+texture				slave, unit_models/_Units/RN_Half_3Q_Plate/textures/rn_half_3q_plate_hre.texture, unit_models/_Units/RN_Half_3Q_Plate/textures/rn_half_3q_plate_normal.texture, unit_sprites/hre_Reiters_sprite.spr
+texture				merc, unit_models/_Units/RN_Half_3Q_Plate/textures/rn_half_3q_plate_hre.texture, unit_models/_Units/RN_Half_3Q_Plate/textures/rn_half_3q_plate_normal.texture, unit_sprites/hre_Reiters_sprite.spr
 texture_attachments		hre, unit_models/AttachmentSets/Final European CB Gun_hre_diff.texture, unit_models/AttachmentSets/Final European CB Gun_hre_norm.texture
+texture_attachments		slave, unit_models/AttachmentSets/Final European CB Gun_hre_diff.texture, unit_models/AttachmentSets/Final European CB Gun_hre_norm.texture
+texture_attachments		merc, unit_models/AttachmentSets/Final European CB Gun_hre_diff.texture, unit_models/AttachmentSets/Final European CB Gun_hre_norm.texture
 torch				16, -0.09, 0, 0, -0.35, 0.8, 0.6
 
 type				reiters_ug1
@@ -2054,7 +2058,11 @@ mesh				unit_models/_Units/RN_Half_3Q_Plate/reiters_ug1_lod1.mesh, 30
 mesh				unit_models/_Units/RN_Half_3Q_Plate/reiters_ug1_lod2.mesh, 50
 mesh				unit_models/_Units/RN_Half_3Q_Plate/reiters_ug1_lod3.mesh, 80
 texture				hre, unit_models/_Units/RN_Half_3Q_Plate/textures/rn_half_3q_plate_hre.texture, unit_models/_Units/RN_Half_3Q_Plate/textures/rn_half_3q_plate_normal.texture, unit_sprites/hre_Reiters_ug1_sprite.spr
+texture				slave, unit_models/_Units/RN_Half_3Q_Plate/textures/rn_half_3q_plate_hre.texture, unit_models/_Units/RN_Half_3Q_Plate/textures/rn_half_3q_plate_normal.texture, unit_sprites/hre_Reiters_ug1_sprite.spr
+texture				merc, unit_models/_Units/RN_Half_3Q_Plate/textures/rn_half_3q_plate_hre.texture, unit_models/_Units/RN_Half_3Q_Plate/textures/rn_half_3q_plate_normal.texture, unit_sprites/hre_Reiters_ug1_sprite.spr
 texture_attachments		hre, unit_models/AttachmentSets/Final European CB Gun_hre_diff.texture, unit_models/AttachmentSets/Final European CB Gun_hre_norm.texture
+texture_attachments		slave, unit_models/AttachmentSets/Final European CB Gun_hre_diff.texture, unit_models/AttachmentSets/Final European CB Gun_hre_norm.texture
+texture_attachments		merc, unit_models/AttachmentSets/Final European CB Gun_hre_diff.texture, unit_models/AttachmentSets/Final European CB Gun_hre_norm.texture
 torch				16, -0.09, 0, 0, -0.35, 0.8, 0.6
 
 type				stradiots

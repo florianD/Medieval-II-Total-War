@@ -2729,7 +2729,7 @@ banner holy      crusade_cavalry
 soldier          Reiters, 32, 0, 1
 mount            heavy horse
 mount_effect     elephant -4, camel -4
-attributes       sea_faring, hide_forest, hardy, can_withdraw, can_formed_charge, cantabrian_circle, gunpowder_unit, start_not_skirmishing, guncavalry
+attributes       sea_faring, hide_forest, hardy, can_withdraw, can_formed_charge, cantabrian_circle, gunpowder_unit, start_not_skirmishing, guncavalry, mercenary_unit
 formation        2, 4.4, 3, 6, 4, square
 stat_health      1, 0
 stat_pri         20, 3, pistol_bullet, 45, 20, missile, missile_gunpowder, piercing, none, musket_shot_set, 25, 1
@@ -2750,7 +2750,7 @@ stat_food        60, 300
 stat_cost        1, 920, 250, 120, 95, 920, 4, 230
 armour_ug_levels 3, 4
 armour_ug_models Reiters, Reiters_ug1
-ownership        hre
+ownership        hre, slave
 era 2            hre
 ;unit_info        11, 20, 13
  
