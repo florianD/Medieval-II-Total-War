@@ -9164,8 +9164,8 @@ stat_food        60, 300
 stat_cost        1, 1180, 300, 120, 95, 1180, 4, 290
 armour_ug_levels 0, 1
 armour_ug_models Camel_Gunners, Camel_Gunners_ug1
-ownership        moors, slave
-era 2            moors
+ownership        moors, egypt, slave
+era 2            moors, egypt
 ;unit_info        8, 16, 6
  
  
@@ -9200,9 +9200,9 @@ stat_food        60, 300
 stat_cost        1, 600, 300, 120, 95, 600, 4, 150
 armour_ug_levels 0, 1
 armour_ug_models Tuareg_Camel_Spearmens, Tuareg_Camel_Spearmens_ug1
-ownership        moors, slave
-era 0            moors
-era 1            moors
+ownership        moors, egypt, slave
+era 0            moors, egypt
+era 1            moors, egypt
 ;unit_info        11, 0, 10
  
  

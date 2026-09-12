@@ -4337,11 +4337,11 @@ building caravan
 {
     levels caravan_stop caravanersary 
     {
-        caravan_stop castle requires factions { moors, } 
+        caravan_stop castle requires factions { moors, egypt, } 
         {
             capability
             {
-                recruit_pool "Tuareg Camel Spearmens"  1   0.5   4  0  requires factions { moors, } 
+                recruit_pool "Tuareg Camel Spearmens"  1   0.5   4  0  requires factions { moors, egypt, } 
                 trade_level_bonus bonus 2
             }
             material wooden
@@ -4353,12 +4353,12 @@ building caravan
                 caravanersary
             }
         }
-        caravanersary castle requires factions { moors, } 
+        caravanersary castle requires factions { moors, egypt, } 
         {
             capability
             {
-                recruit_pool "Tuareg Camel Spearmens"  1   0.5   4  0  requires factions { moors, } 
-                recruit_pool "Camel Gunners"  1   0.4   3  0  requires factions { moors, }  and event_counter gunpowder_discovered 1 
+                recruit_pool "Tuareg Camel Spearmens"  1   0.5   4  0  requires factions { moors, egypt, } 
+                recruit_pool "Camel Gunners"  1   0.4   3  0  requires factions { moors, egypt, }  and event_counter gunpowder_discovered 1 
                 trade_level_bonus bonus 4
             }
             material wooden
