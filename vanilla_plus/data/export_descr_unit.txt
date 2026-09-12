@@ -4441,7 +4441,7 @@ voice_type       Light
 banner faction   main_missile
 banner holy      crusade
 soldier          Musketeers, 48, 0, 0.8
-attributes       sea_faring, hide_forest, can_withdraw, gunpowder_unit, fire_by_rank, start_not_skirmishing, gunmen
+attributes       sea_faring, hide_forest, can_withdraw, gunpowder_unit, fire_by_rank, start_not_skirmishing, gunmen, mercenary_unit
 formation        1.2, 1.2, 2.4, 2.4, 3, square
 stat_health      1, 0
 stat_pri         14, 1, musket_bullet, 180, 20, missile, missile_gunpowder, piercing, none, musket_shot_set, 25, 1
@@ -4462,7 +4462,7 @@ stat_food        60, 300
 stat_cost        1, 540, 150, 65, 50, 540, 4, 130
 armour_ug_levels 0, 2
 armour_ug_models Musketeers, Musketeers_ug1
-ownership        spain, portugal, milan, venice, france, hre, england, poland, hungary, sicily, denmark, papal_states
+ownership        spain, portugal, milan, venice, france, hre, england, poland, hungary, sicily, denmark, papal_states, slave
 era 2            spain, portugal, milan, venice, france, hre, england, poland, hungary, sicily, denmark, papal_states
 ;unit_info        6, 14, 3
  

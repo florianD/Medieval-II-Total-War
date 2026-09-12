@@ -86,6 +86,7 @@ pool England_Wales
 	unit Welsh Longbowmen Mercs	exp 0 cost 810 replenish 0.04 - 0.13 max 2 initial 0 start_year 1300
 	unit Welsh Spearmen Mercs	exp 0 cost 470 replenish 0.06 - 0.18 max 3 initial 2 end_year 1450
 	unit Mercenary Ribault		exp 0 cost 600 replenish 0.04 - 0.08 max 2 initial 0  events { gunpowder_discovered }
+	unit Musketeers		exp 0 cost 910 replenish 0.04 - 0.08 max 2 initial 0 start_year 1320 events { gunpowder_discovered }
 
 pool Scandinavia
 	regions Oslo_Province Stockholm_Province Helsinki_Province Arhus_Province
@@ -99,6 +100,7 @@ pool Scandinavia
 	unit Pilgrims				exp 0 cost 35 replenish 0.18 - 0.5 max 6 initial 1 religions { catholic } crusading
 	unit Crusader Sergeants		exp 0 cost 110 replenish 0.08 - 0.17 max 2 initial 1  end_year 1300 religions { catholic } crusading
 	unit Mercenary Ribault		exp 0 cost 600 replenish 0.04 - 0.08 max 2 initial 0  events { gunpowder_discovered }
+	unit Musketeers		exp 0 cost 910 replenish 0.04 - 0.08 max 2 initial 0 start_year 1320 events { gunpowder_discovered }
 
 
 pool Russia
@@ -112,6 +114,7 @@ pool Russia
 	unit Mercenary Spearmen		exp 0 cost 660 replenish 0.08 - 0.25 max 4 initial 2 end_year 1480
 	unit Mercenary Ribault		exp 0 cost 600 replenish 0.04 - 0.08 max 2 initial 0  events { gunpowder_discovered }
 	unit Mercenary Rocket Launcher	exp 0 cost 1650 replenish 0.04 - 0.08 max 2 initial 0  events { gunpowder_discovered mongols_invasion_warn }
+	unit Musketeers		exp 0 cost 910 replenish 0.04 - 0.08 max 2 initial 0 start_year 1320 events { gunpowder_discovered }
 
 pool Netherlands
 	regions Antwerp_Province Bruges_Province
@@ -126,6 +129,7 @@ pool Netherlands
 	unit Flemish Pikemen Mercs	exp 0 cost 470 replenish 0.06 - 0.18 max 3 initial 0 start_year 1300
 	unit Mercenary Ribault		exp 0 cost 600 replenish 0.04 - 0.08 max 2 initial 0  events { gunpowder_discovered }
 	unit Crusader Sergeants		exp 0 cost 110 replenish 0.15 - 0.35 max 4 initial 1  end_year 1300 religions { catholic } crusading
+	unit Musketeers		exp 0 cost 910 replenish 0.04 - 0.08 max 2 initial 0 start_year 1320 events { gunpowder_discovered }
 
 
 pool Northern_Germany
@@ -142,6 +146,7 @@ pool Northern_Germany
 	unit Pilgrims				exp 0 cost 35 replenish 0.36 - 1.0 max 4 initial 1 religions { catholic } crusading
 	unit Crusader Knights		exp 0 cost 220 replenish 0.15 - 0.35 max 4 initial 1  end_year 1300 religions { catholic } crusading
 	unit Crusader Sergeants		exp 0 cost 110 replenish 0.15 - 0.35 max 4 initial 1  end_year 1300 religions { catholic } crusading
+	unit Musketeers		exp 0 cost 910 replenish 0.04 - 0.13 max 2 initial 0 start_year 1320 events { gunpowder_discovered }
 
 pool Southern_Germany
 	regions Innsbruck_Province Prague_Province Vienna_Province Nuremburg_Province Hohenstauffen_Province
@@ -157,6 +162,7 @@ pool Southern_Germany
 	unit Crusader Knights		exp 0 cost 220 replenish 0.15 - 0.35 max 4 initial 1  end_year 1300 religions { catholic } crusading
 	unit Crusader Sergeants		exp 0 cost 110 replenish 0.15 - 0.35 max 4 initial 1  end_year 1300 religions { catholic } crusading
 	unit Mercenary Ribault		exp 0 cost 600 replenish 0.04 - 0.08 max 2 initial 0  events { gunpowder_discovered }
+	unit Musketeers		exp 0 cost 910 replenish 0.04 - 0.13 max 2 initial 0 start_year 1320 events { gunpowder_discovered }
 
 pool Poland
 	regions Cracow_Province Vilnius_Province Thorn_Province Halych_Province Riga_Province
@@ -170,6 +176,7 @@ pool Poland
 	unit Mercenary Spearmen		exp 0 cost 660 replenish 0.08 - 0.25 max 4 initial 1 end_year 1480
 	unit Flagellants			exp 0 cost 90 replenish 0.18 - 0.5 max 5 initial 1 start_year 1260 end_year 1370 religions { catholic } crusading
 	unit Crusader Knights		exp 0 cost 220 replenish 0.12 - 0.28 max 3 initial 1  end_year 1300 religions { catholic } crusading
+	unit Musketeers		exp 0 cost 910 replenish 0.04 - 0.08 max 2 initial 0 start_year 1320 events { gunpowder_discovered }
 
 pool Steppes
 	regions Volga-Bulgar_Province Sarkel_Province Kiev_Province Caffa_Province Ryazan_Province
@@ -198,6 +205,7 @@ pool France
 	unit Crusader Knights		exp 0 cost 220 replenish 0.15 - 0.35 max 3 initial 1  end_year 1300 religions { catholic } crusading
 	unit Crusader Sergeants		exp 0 cost 110 replenish 0.15 - 0.35 max 3 initial 1  end_year 1300 religions { catholic } crusading
 	unit Mercenary Ribault		exp 0 cost 600 replenish 0.04 - 0.08 max 2 initial 0  events { gunpowder_discovered }
+	unit Musketeers		exp 0 cost 910 replenish 0.04 - 0.13 max 2 initial 0 start_year 1320 events { gunpowder_discovered }
 
 pool Burgundy	
 	regions Dijon_Province Metz_Province Rheims_Province
@@ -214,6 +222,7 @@ pool Burgundy
 	unit Crusader Knights		exp 0 cost 220 replenish 0.08 - 0.17 max 2 initial 1  end_year 1300 religions { catholic } crusading
 	unit Crusader Sergeants		exp 0 cost 110 replenish 0.08 - 0.17 max 2 initial 1  end_year 1300 religions { catholic } crusading
 	unit Swiss Pikemen Mercs	exp 0 cost 690 replenish 0.04 - 0.13 max 2 initial 0 start_year 1300
+	unit Musketeers		exp 0 cost 910 replenish 0.04 - 0.08 max 2 initial 0 start_year 1320 events { gunpowder_discovered }
 
 pool Switzerland
 	regions Bern_Province
@@ -241,6 +250,7 @@ pool West Balkans
 	unit Ghazis					exp 0 cost 100 replenish 0.06 - 0.18 max 3 initial 1 religions { islam } crusading
 	unit Akinjis				exp 0 cost 620 replenish 0.06 - 0.18 max 3 initial 1 religions { islam }
 	unit Mercenary Monster Bombard	exp 0 cost 1900 replenish 0.04 - 0.08 max 2 initial 0  start_year 1300 events { gunpowder_discovered }
+	unit Musketeers		exp 0 cost 910 replenish 0.04 - 0.08 max 2 initial 0 start_year 1320 events { gunpowder_discovered }
 
 pool East Balkans
 	regions Bucharest_Province Sofia_Province Iasi_Province Bran_Province
@@ -257,6 +267,7 @@ pool East Balkans
 	unit Akinjis				exp 0 cost 620 replenish 0.18 - 0.5 max 6 initial 1 religions { islam }
 	unit Bulgarian Brigands Mercs	exp 0 cost 660 replenish 0.06 - 0.18 max 3 initial 1
 	unit Mercenary Monster Bombard	exp 0 cost 1900 replenish 0.04 - 0.08 max 2 initial 0  start_year 1300 events { gunpowder_discovered }
+	unit Musketeers		exp 0 cost 910 replenish 0.04 - 0.08 max 2 initial 0 start_year 1320 events { gunpowder_discovered }
 
 pool Spain
 	regions Lisbon_Province Toledo_Province Cordoba_Province Granada_Province Pamplona_Province Valencia_Province Zaragoza_Province Leon_Province
@@ -275,6 +286,7 @@ pool Spain
 	unit Crusader Sergeants		exp 0 cost 110 replenish 0.15 - 0.35 max 3 initial 1  end_year 1300 religions { catholic } crusading
 	unit Ghazis					exp 0 cost 100 replenish 0.18 - 0.5 max 6 initial 1 religions { islam } crusading
 	unit Mutatawwi'a			exp 0 cost 60 replenish 0.08 - 0.25 max 4 initial 1 religions { islam } crusading
+	unit Musketeers		exp 0 cost 910 replenish 0.04 - 0.13 max 2 initial 0 start_year 1320 events { gunpowder_discovered }
 
 pool Northern_Italy
 	regions Bologna_Province Florence_Province Roman_Province Genoa_Province Milan_Province Venice_Province
@@ -294,6 +306,7 @@ pool Northern_Italy
 	unit Great Cross			exp 0 cost 300 replenish 0.03 - 0.07 max 1 initial 0  end_year 1300 religions { catholic } crusading
 	unit Swiss Pikemen Mercs		exp 0 cost 690 replenish 0.06 - 0.18 max 3 initial 0 start_year 1300
 	unit Mercenary Monster Ribault		exp 0 cost 1370 replenish 0.04 - 0.08 max 2 initial 0  start_year 1300 events { gunpowder_discovered }
+	unit Musketeers		exp 0 cost 910 replenish 0.04 - 0.13 max 2 initial 0 start_year 1320 events { gunpowder_discovered }
 
 pool Sicily
 	regions Palermo_Province  Naples_Province
@@ -310,6 +323,7 @@ pool Sicily
 	unit Crusader Knights		exp 0 cost 220 replenish 0.15 - 0.35 max 2 initial 1  end_year 1300 religions { catholic } crusading
 	unit Great Cross				exp 0 cost 300 replenish 0.03 - 0.07 max 1 initial 0  end_year 1300 religions { catholic } crusading
 	unit Mercenary Monster Ribault	exp 0 cost 1370 replenish 0.04 - 0.08 max 2 initial 0  start_year 1300 events { gunpowder_discovered }
+	unit Musketeers		exp 0 cost 910 replenish 0.04 - 0.08 max 2 initial 0 start_year 1320 events { gunpowder_discovered }
 
 pool Sardinia
 	regions	Cagliari_Province Ajaccio_Province		
@@ -318,6 +332,7 @@ pool Sardinia
 	unit Mercenary Pavise Crossbowmen		exp 0 cost 930 replenish 0.04 - 0.13 max 2 initial 0 start_year 1300 end_year 1400
 	unit Mercenary Arquebusiers			exp 0 cost 830 replenish 0.04 - 0.13 max 2 initial 0 start_year 1300 events { gunpowder_discovered }
 	unit Catalans			exp 0 cost 980 replenish 0.04 - 0.13 max 2 initial 0 start_year 1300 end_year 1400
+	unit Musketeers		exp 0 cost 910 replenish 0.04 - 0.08 max 2 initial 0 start_year 1320 events { gunpowder_discovered }
 
 pool Greece
 	regions Isle_of_Rhodes Isle_of_Crete Corinth_Province Durazzo_Province Thessalonica_Province Constantinople_Province
