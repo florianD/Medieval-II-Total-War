@@ -9845,9 +9845,9 @@ stat_food        60, 300
 stat_cost        1, 850, 150, 90, 70, 850, 4, 210
 armour_ug_levels 2, 3
 armour_ug_models ME_Hand_Gunners, ME_Hand_Gunners_ug1
-ownership        moors, turks, timurids
-era 1            moors, turks, timurids
-era 2            moors, turks, timurids
+ownership        moors, egypt, turks, timurids
+era 1            moors, egypt, turks, timurids
+era 2            moors, egypt, turks, timurids
 ;unit_info        11, 13, 13
  
  

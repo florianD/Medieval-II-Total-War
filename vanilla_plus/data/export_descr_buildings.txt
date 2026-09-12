@@ -1089,7 +1089,7 @@ building barracks
                 recruit_pool "Berdiche Axemen"  1   0.5   4  0  requires factions { russia, } 
                 recruit_pool "Arquebusiers"  1   0.5   4  0  requires factions { hungary, }  and event_counter gunpowder_discovered 1 
                 recruit_pool "Varangian Guard"  1   0.5   4  0  requires factions { byzantium, } 
-                recruit_pool "ME Hand Gunners"  1   0.5   4  0  requires factions { moors, turks, timurids, }  and event_counter gunpowder_discovered 1 
+                recruit_pool "ME Hand Gunners"  1   0.5   4  0  requires factions { moors, egypt, turks, timurids, }  and event_counter gunpowder_discovered 1 
                 recruit_pool "Tabardariyya"  1   0.5   4  0  requires factions { egypt, } 
                 recruit_pool "Hand Gunners"  1   0.5   4  0  requires factions { hre, spain, portugal, milan, venice, papal_states, sicily, }  and event_counter gunpowder_discovered 1 
                 recruit_pool "Bill Militia"  1   0.7   6  0  requires factions { england, } 
@@ -1158,7 +1158,7 @@ building barracks
                 recruit_pool "Berdiche Axemen"  1   0.7   6  0  requires factions { russia, } 
                 recruit_pool "Arquebusiers"  1   0.7   6  0  requires factions { hungary, }  and event_counter gunpowder_discovered 1 
                 recruit_pool "Varangian Guard"  1   0.7   6  0  requires factions { byzantium, } 
-                recruit_pool "ME Hand Gunners"  1   0.7   6  0  requires factions { moors, turks, timurids, }  and event_counter gunpowder_discovered 1 
+                recruit_pool "ME Hand Gunners"  1   0.7   6  0  requires factions { moors, egypt, turks, timurids, }  and event_counter gunpowder_discovered 1 
                 recruit_pool "Tabardariyya"  1   0.7   6  0  requires factions { egypt, } 
                 recruit_pool "Hand Gunners"  1   0.7   6  0  requires factions { hre, spain, portugal, milan, venice, papal_states, sicily, }  and event_counter gunpowder_discovered 1 
                 recruit_pool "Bill Militia"  1   0.7   6  0  requires factions { england, } 
@@ -1229,7 +1229,7 @@ building barracks
                 recruit_pool "Berdiche Axemen"  1   0.7   6  0  requires factions { russia, } 
                 recruit_pool "Arquebusiers"  1   0.7   6  0  requires factions { hungary, }  and event_counter gunpowder_discovered 1 
                 recruit_pool "Varangian Guard"  1   0.7   6  0  requires factions { byzantium, } 
-                recruit_pool "ME Hand Gunners"  1   0.7   6  0  requires factions { moors, turks, timurids, }  and event_counter gunpowder_discovered 1 
+                recruit_pool "ME Hand Gunners"  1   0.7   6  0  requires factions { moors, egypt, turks, timurids, }  and event_counter gunpowder_discovered 1 
                 recruit_pool "Tabardariyya"  1   0.7   6  0  requires factions { egypt, } 
                 recruit_pool "Hand Gunners"  1   0.7   6  0  requires factions { hre, spain, portugal, milan, venice, papal_states, sicily, }  and event_counter gunpowder_discovered 1 
                 recruit_pool "Bill Militia"  1   0.7   6  0  requires factions { england, } 

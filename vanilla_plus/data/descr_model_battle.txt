@@ -8274,9 +8274,11 @@ mesh				unit_models/_Units/ME_Light_Mail_Heavy_Mail/me_hand_gunners_lod0.mesh, 1
 mesh				unit_models/_Units/ME_Light_Mail_Heavy_Mail/me_hand_gunners_lod1.mesh, 35
 mesh				unit_models/_Units/ME_Light_Mail_Heavy_Mail/me_hand_gunners_lod2.mesh, 80
 texture				moors, unit_models/_Units/ME_Light_Mail_Heavy_Mail/textures/mtw2_ME_light_mail_moors.texture, unit_models/_Units/ME_Light_Mail_Heavy_Mail/textures/mtw2_ME_light_mail_normal.texture, unit_sprites/moors_ME_Hand_Gunners_sprite.spr
+texture				egypt, unit_models/_Units/ME_Light_Mail_Heavy_Mail/textures/mtw2_ME_light_mail_moors.texture, unit_models/_Units/ME_Light_Mail_Heavy_Mail/textures/mtw2_ME_light_mail_normal.texture, unit_sprites/moors_ME_Hand_Gunners_sprite.spr
 texture				turks, unit_models/_Units/ME_Light_Mail_Heavy_Mail/textures/mtw2_ME_light_mail_turks.texture, unit_models/_Units/ME_Light_Mail_Heavy_Mail/textures/mtw2_ME_light_mail_normal.texture, unit_sprites/turks_ME_Hand_Gunners_sprite.spr
 texture				timurids, unit_models/_Units/ME_Light_Mail_Heavy_Mail/textures/mtw2_ME_light_mail_timurids.texture, unit_models/_Units/ME_Light_Mail_Heavy_Mail/textures/mtw2_ME_light_mail_normal.texture, unit_sprites/timurids_ME_Hand_Gunners_sprite.spr
 texture_attachments		moors, unit_models/AttachmentSets/Final Middle Eastern_moors_diff.texture, unit_models/AttachmentSets/Final Middle Eastern_moors_norm.texture
+texture_attachments		egypt, unit_models/AttachmentSets/Final Middle Eastern_moors_diff.texture, unit_models/AttachmentSets/Final Middle Eastern_moors_norm.texture
 texture_attachments		turks, unit_models/AttachmentSets/Final Middle Eastern_turks_diff.texture, unit_models/AttachmentSets/Final Middle Eastern_turks_norm.texture
 texture_attachments		timurids, unit_models/AttachmentSets/Final Middle Eastern_timurids_diff.texture, unit_models/AttachmentSets/Final Middle Eastern_timurids_norm.texture
 torch				16, -0.09, 0, 0, -0.35, 0.8, 0.6
@@ -8289,9 +8291,11 @@ mesh				unit_models/_Units/ME_Light_Mail_Heavy_Mail/me_hand_gunners_ug1_lod0.mes
 mesh				unit_models/_Units/ME_Light_Mail_Heavy_Mail/me_hand_gunners_ug1_lod1.mesh, 35
 mesh				unit_models/_Units/ME_Light_Mail_Heavy_Mail/me_hand_gunners_ug1_lod2.mesh, 80
 texture				moors, unit_models/_Units/ME_Light_Mail_Heavy_Mail/textures/mtw2_ME_light_mail_moors.texture, unit_models/_Units/ME_Light_Mail_Heavy_Mail/textures/mtw2_ME_light_mail_normal.texture, unit_sprites/moors_ME_Hand_Gunners_ug1_sprite.spr
+texture				egypt, unit_models/_Units/ME_Light_Mail_Heavy_Mail/textures/mtw2_ME_light_mail_moors.texture, unit_models/_Units/ME_Light_Mail_Heavy_Mail/textures/mtw2_ME_light_mail_normal.texture, unit_sprites/moors_ME_Hand_Gunners_ug1_sprite.spr
 texture				turks, unit_models/_Units/ME_Light_Mail_Heavy_Mail/textures/mtw2_ME_light_mail_turks.texture, unit_models/_Units/ME_Light_Mail_Heavy_Mail/textures/mtw2_ME_light_mail_normal.texture, unit_sprites/turks_ME_Hand_Gunners_ug1_sprite.spr
 texture				timurids, unit_models/_Units/ME_Light_Mail_Heavy_Mail/textures/mtw2_ME_light_mail_timurids.texture, unit_models/_Units/ME_Light_Mail_Heavy_Mail/textures/mtw2_ME_light_mail_normal.texture, unit_sprites/timurids_ME_Hand_Gunners_ug1_sprite.spr
 texture_attachments		moors, unit_models/AttachmentSets/Final Middle Eastern_moors_diff.texture, unit_models/AttachmentSets/Final Middle Eastern_moors_norm.texture
+texture_attachments		egypt, unit_models/AttachmentSets/Final Middle Eastern_moors_diff.texture, unit_models/AttachmentSets/Final Middle Eastern_moors_norm.texture
 texture_attachments		turks, unit_models/AttachmentSets/Final Middle Eastern_turks_diff.texture, unit_models/AttachmentSets/Final Middle Eastern_turks_norm.texture
 texture_attachments		timurids, unit_models/AttachmentSets/Final Middle Eastern_timurids_diff.texture, unit_models/AttachmentSets/Final Middle Eastern_timurids_norm.texture
 torch				16, -0.09, 0, 0, -0.35, 0.8, 0.6
