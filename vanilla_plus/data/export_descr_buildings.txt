@@ -1211,12 +1211,12 @@ building barracks
                 royal_armoury
             }
         }
-        royal_armoury city requires factions { turks, venice, milan, portugal, spain, } 
+        royal_armoury city requires factions { turks, venice, milan, portugal, spain, france, } 
         {
             convert_to 4
             capability
             {
-                recruit_pool "Musketeers"  1   0.5   4  0  requires factions { spain, portugal, milan, venice, }  and event_counter gunpowder_discovered 1 
+                recruit_pool "Musketeers"  1   0.5   4  0  requires factions { spain, portugal, milan, venice, france, }  and event_counter gunpowder_discovered 1 
                 recruit_pool "Janissary Musketeers"  1   0.5   4  0  requires factions { turks, }  and event_counter gunpowder_discovered 1 
                 recruit_pool "Arquebusiers"  1   0.7   6  0  requires factions { england, france, hre, denmark, spain, milan, venice, papal_states, sicily, poland, russia, }  and event_counter gunpowder_discovered 1 
                 recruit_pool "Portuguese Arquebusiers"  1   0.7   6  0  requires factions { portugal, }  and event_counter gunpowder_discovered 1 

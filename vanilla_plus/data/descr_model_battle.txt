@@ -3688,10 +3688,12 @@ texture				spain, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_spai
 texture				portugal, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_portugal.texture, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_normal.texture, unit_sprites/portugal_Musketeers_sprite.spr
 texture				milan, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_milan.texture, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_normal.texture, unit_sprites/milan_Musketeers_sprite.spr
 texture				venice, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_venice.texture, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_normal.texture, unit_sprites/venice_Musketeers_sprite.spr
+texture				france, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_portugal.texture, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_normal.texture, unit_sprites/portugal_Musketeers_sprite.spr
 texture_attachments		spain, unit_models/AttachmentSets/Final European CB Gun_spain_diff.texture, unit_models/AttachmentSets/Final European CB Gun_spain_norm.texture
 texture_attachments		portugal, unit_models/AttachmentSets/Final European CB Gun_portugal_diff.texture, unit_models/AttachmentSets/Final European CB Gun_portugal_norm.texture
 texture_attachments		milan, unit_models/AttachmentSets/Final European CB Gun_milan_diff.texture, unit_models/AttachmentSets/Final European CB Gun_milan_norm.texture
 texture_attachments		venice, unit_models/AttachmentSets/Final European CB Gun_venice_diff.texture, unit_models/AttachmentSets/Final European CB Gun_venice_norm.texture
+texture_attachments		france, unit_models/AttachmentSets/Final European CB Gun_portugal_diff.texture, unit_models/AttachmentSets/Final European CB Gun_portugal_norm.texture
 torch				16, -0.09, 0, 0, -0.35, 0.8, 0.6
 
 type				musketeers_ug1
@@ -3706,10 +3708,12 @@ texture				spain, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_spai
 texture				portugal, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_portugal.texture, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_normal.texture, unit_sprites/portugal_Musketeers_ug1_sprite.spr
 texture				milan, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_milan.texture, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_normal.texture, unit_sprites/milan_Musketeers_ug1_sprite.spr
 texture				venice, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_venice.texture, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_normal.texture, unit_sprites/venice_Musketeers_ug1_sprite.spr
+texture				france, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_portugal.texture, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_normal.texture, unit_sprites/portugal_Musketeers_ug1_sprite.spr
 texture_attachments		spain, unit_models/AttachmentSets/Final European CB Gun_spain_diff.texture, unit_models/AttachmentSets/Final European CB Gun_spain_norm.texture
 texture_attachments		portugal, unit_models/AttachmentSets/Final European CB Gun_portugal_diff.texture, unit_models/AttachmentSets/Final European CB Gun_portugal_norm.texture
 texture_attachments		milan, unit_models/AttachmentSets/Final European CB Gun_milan_diff.texture, unit_models/AttachmentSets/Final European CB Gun_milan_norm.texture
 texture_attachments		venice, unit_models/AttachmentSets/Final European CB Gun_venice_diff.texture, unit_models/AttachmentSets/Final European CB Gun_venice_norm.texture
+texture_attachments		france, unit_models/AttachmentSets/Final European CB Gun_portugal_diff.texture, unit_models/AttachmentSets/Final European CB Gun_portugal_norm.texture
 torch				16, -0.09, 0, 0, -0.35, 0.8, 0.6
 
 type				trebizond_archers
