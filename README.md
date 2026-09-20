@@ -12,7 +12,7 @@
 * Add Reiters as recruitable merc (Northern Germany, Southern Germany pools)
 * Add Camel gunners as recruitable merc (North Africa, Egypt pools)
 * Add Greek firethrower as recruitable merc (Greece, Anatolia pools)
-* Add Mercenary Musketeers as recruitable merc (15 pools)
+* Add Mercenary musketeers as recruitable merc (15 pools)
 * Add ME hand gunners, Tuareg camel spearmen and Camel gunners to Egypt
 * Add Greek firethrower and byzantine gunners to Byzantines
 * Add Musketeers to France, HRE, England, Poland, Hungary, Denmark, Sicily, Papal states

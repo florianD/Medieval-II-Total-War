@@ -4493,7 +4493,7 @@ stat_mental      3, normal, trained
 stat_charge_dist 30
 stat_fire_delay  0
 stat_food        60, 300
-stat_cost        1, 540, 150, 65, 50, 540, 4, 130
+stat_cost        1, 700, 210, 65, 50, 700, 4, 170
 armour_ug_levels 0, 2
 armour_ug_models Mercenary_Musketeers, Mercenary_Musketeers_ug1
 ownership        slave
