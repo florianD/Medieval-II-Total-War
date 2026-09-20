@@ -21,17 +21,29 @@
 {AS_Rocket_Launcher_descr}The Mongolian rocket launcher resembles a wooden, fire-spitting demon-wagon. Inspired by the rockets fired at them during the invasion of China, the Mongols have fiendishly mounted 36 of them on one frame. Although very inaccurate the rockets are fired in a great barrage, capable of hitting multiple units simultaneously.
 {AS_Rocket_Launcher_descr_short}Rocket Launcher capable of delivering a great, if inaccurate salvo, over a large area.
 {AS_Trebuchet}Trebuchet
-{AS_Trebuchet_descr}The counter-weight Trebuchet is an evolution of the man-powered mangonel and catapults dating back before the 11th century. It has quickly spread throughout the world as an effective siege engine capable of lobbing large wall- crushing boulders. The Trebuchet is also able to fling such things as burning missiles and rotten animal remains to devastate enemy units.
+{AS_Trebuchet_descr}The counter-weight Trebuchet is an evolution of the man-powered mangonel and catapults dating back before the 11th century. It has quickly spread throughout the world as an effective siege engine capable of lobbing large wall-crushing boulders. The Trebuchet is also able to fling such things as burning missiles and rotten animal remains to devastate enemy units.
 {AS_Trebuchet_descr_short}Giant rock flinging artillery piece. Capable of flaming and normal shot. Also able to fling diseased cows!
+{Abid_al_Shira}Abid al-Shira
+{Abid_al_Shira_descr}The Abid al-Shira, 'purchased slaves' are units made of Sudanese slaves. Used in regiments based in the bigger cities as infantry and more commonly missile troops. These troops are armed with a composite bow, and have only a knife to fight with. This and their light armour makes them poorly suited to melee. 
+{Abid_al_Shira_descr_short}Sudanese bowmen armed with a composite bow, and light armour. Good missile troops that should be kept out of melee.
 {Afghan_Javelinmen}Afghan Javelinmen
 {Afghan_Javelinmen_Mercs}Afghan Javelinmen
 {Afghan_Javelinmen_Mercs_descr}Afghan Javelinmen, are hardy and fierce tribesmen from tribes either allied or captured by the Timirids. Used to a harsh existence, these wild warriors are excellent skirmishers. They excel at hurling javelins at their foes, weakening units and breaking up formations, but can fight in close combat when the situation demands.
 {Afghan_Javelinmen_Mercs_descr_short}Made up from fierce Afghan tribesmen, these excellent skirmishers hurl javelins at their foes, but can fight at close quarters if necessary.
 {Afghan_Javelinmen_descr}Afghan Javelinmen, are hardy and fierce tribesmen from tribes either allied or captured by the Timirids. Used to a harsh existence, these wild warriors are excellent skirmishers. They excel at hurling their javelins at their foes, weakening units and breaking up formations, but can fight in close combat when the situation demands.
 {Afghan_Javelinmen_descr_short}Made up from fierce Afghan tribesmen, these excellent skirmishers hurl javelins at their foes, but can fight at close quarters if necessary.
+{Ahdath}Ahdath
+{Ahdath_descr}The Ahdath are local militias formed from young men who are then given training in the use of long spears, to better combat the Crusading states cavalry.  Whilst given basic training these men are prone to morale problems due to the fact that they are often not issued with any armour at all.  Some of the lucky Ahdath gain minor protection from cloth armour
+{Ahdath_descr_short}Longspear armed militia.
 {Akinjis}Akinjis
 {Akinjis_descr}Akinjis, meaning 'raiders', are light cavalry serving in Muslim forces. These Akinjis fight unarmoured for speed and are armed with a bow. Able to adopt a shooting circle formation, which provides constant fire against the enemy. While useful for harassing flanks and enemy archers, this unit will quickly dissolve in melee combat.
 {Akinjis_descr_short}Light cavalry used as mercenaries by Muslim forces. These Akinjis fight unarmoured for speed and are armed with a bow.
+{Al_Haqa_Infantry}Al-Haqa Infantry
+{Al_Haqa_Infantry_descr}The Al-Haqa are made up of Egyptians and Arabs, as well as the sons of Mamluks. Egyptians and Arabs are not permitted to become Mamluks, while the sons of Mamluks are considered second class, as they were not born on the Steppes as "true Turks". Nevertheless the Al-Haqa are important troops, often in service to their amir alongside the Mamluks.
+{Al_Haqa_Infantry_descr_short}These quality troops are made up from Egyptians, Arabs and the sons of Mamluks. Equipped with good armour, shield and a scimitar.
+{Alamanoi}Alamanoi
+{Alamanoi_descr}There are two types of mercenaries in the Byzantine army. Most common are the irregular mercenaries hired for specific periods or campaigns, and secondly are those that are kept on full time. The Alamanoi belong to the former and are made up of Germans and Flemings. Hailing from Northern central Europe, it is not surprising to see these troops armed with mighty Zweihanders.
+{Alamanoi_descr_short}Mercenaries from northern-central Europe, in the employ of the Byzantine Army, equipped with zweihanders and mail armour.
 {Alan_Light_Cavalry}Alan Light Cavalry
 {Alan_Light_Cavalry_descr}Alan Light Cavalry are hardy horsemen, accustomed to the plains and steppes of Eastern Europe and the Black Sea region. Having fought against the Byzantine Empire previously, now ironically they are highly valued as mercenaries by their former enemy. They are equipped with spear and light armour, useful for skirmishing, raiding and ambushing tactics or for covering flanks.
 {Alan_Light_Cavalry_descr_short}Hardy horsemen accustomed to the plains and steppes of Eastern Europe and the Black Sea region. Excellent light cavalry.
@@ -41,18 +53,27 @@
 {Almughavars}Almughavars
 {Almughavars_descr}The name Almughavar comes from Arabic, 'al mughavir' meaning raiders. Originating from Aragon, from both Christian and Muslim backgrounds, these professional warriors are elite light infantry skirmishers armed with javelins and spears, and sometimes armour. Despite their light equipment, they have a fearsome reputation.
 {Almughavars_descr_short}Elite light infantry skirmishers armed with javelins and spears, and sometimes armour.
+{Antioch_Militia}Antioch Militia
+{Antioch_Militia_descr}Drawn from both commoners amongst the native Christians and Franks alike, these troops are charged with garrison duty to protect Antioch's interests. Better trained then most militias in Europe, these troops are deployed to garrison towns and outposts, as well as bolstering Antioch's armies . Equipped with mace and the most basic armour if any 
+{Antioch_Militia_descr_short}Professional garrison troops, sometimes used to bolster armies. Equipped with little to no armour and wielding a mace.
 {Arab_Cavalry}Arab Cavalry
 {Arab_Cavalry_descr}Recruited from the many Arabs settled across North Africa and the Middle East, these men make useful light cavalry, able to chase off horse archers, run down light infantry, and to get round enemy flanks. Their armour can be also be upgraded, allowing them to take on heavier cavalry. Although used to a hot climate, they are not desert troops.
 {Arab_Cavalry_descr_short}Light cavalry recruited from settled areas, and well suited to taking on archers, light infantry and other light cavalry.
 {Archer_Militia}Archer Militia
 {Archer_Militia_descr}Archer Militia are bow-equipped peasants called upon to provide a settlement with a garrison of missile troops. Whilst poorly armoured, these troops are expected to shoot at an enemy from the safety of their own walls. 
 {Archer_Militia_descr_short}Archer Militia are peasant archers called up to defend settlements.
+{Archontopoulai}Archontopoulai
+{Archontopoulai_descr}Formed by King Alexius at the end of the 11th century, the Archontopoulai, 'sons of leaders', are cavalry drawn from officers' orphans. Well trained and disciplined these elite cavalry are capable of deadly charges against enemy formations. As befitting their elite status, these troops are protected by good quality heavy armour and fight with a lance and sword.REQUIRES CONSTANTINOPLE
+{Archontopoulai_descr_short}Elite heavy cavalry drawn from officers' orphans. Equipped with heavy armour, shield, lance and a sword.REQUIRES CONSTANTINOPLE
 {Armenian_Archers}Armenian Archers
 {Armenian_Archers_descr}After the Seljuk Turks invaded Armenia, many Christians fled south, where they formed the Christian Kingdom of Cilicia. Many Armenian troops from there earn their living as mercenaries fighting for anyone who can pay them. Feisty men from the mountains, they are lightly armed, but still effective.
 {Armenian_Archers_descr_short}Armenian mercenaries from the mountains. Lightly armed, but still effective.
 {Armenian_Cavalry}Armenian Cavalry
 {Armenian_Cavalry_descr}After the Seljuk Turks invaded Armenia, many Christians fled south, where they formed the Christian Kingdom of Cilicia. Many Armenian troops from there serve as mercenaries fighting for anyone who can pay them. This unit of noble heavy cavalry, fights in the style of Western Knights, and is equipped with lance and heavy mail.
 {Armenian_Cavalry_descr_short}Armenian mercenaries equipped in a western style, armed with lances and protected by mail.
+{Armenians_of_Celicia}Armenians of Cilicia
+{Armenians_of_Celicia_descr}Armenians are arguably the most numerous native Christians in Outremer, and therefore the most important to the soldier starved Crusader States. Often fighting under their own chieftains and lords, Armenian troops have a fierce reputation in Outremer, making them excellent troops. These bowmen are protected by armour and wield a composite bow and an axe.
+{Armenians_of_Celicia_descr_short}Fierce armoured bowmen from Outremer's most numerous native Christians, armed with composite bow and an axe.
 {Armored_Clergy}Norse War Clerics
 {Armored_Clergy_descr}Scandinavian Bishops are not your average men of the cloth. These clerics when roused to righteous anger would ritually place upon their altar their cassock and mitre and gird themselves with the accoutrements of war. Leading a retinue to rival a king, these clerics are outlawed in Sweden but still deliver holy chastisement to the foes of Denmark
 {Armored_Clergy_descr_short}Heavily armoured Bishop and cavalry retinue. Encased in plate armour and wielding foe-crushing maces
@@ -146,6 +167,9 @@
 {Byzantine_Guard_Archers}Byzantine Guard Archers
 {Byzantine_Guard_Archers_descr}Byzantine guard troops are financed by the Emperor himself and unlike many Byzantine units consist purely of Greek troops. Skilled in the use of the composite bow, these troops issue a challenge to all Byzantium's enemies at range. Also equipped with a sword and wearing mail, the Guard Archers can withstand more combat than many other missile units.
 {Byzantine_Guard_Archers_descr_short}Byzantium Guard Archers are well trained missile troops equipped with composite bow, sword, mail and a shield.
+{Byzantine_Gunners}Byzantine Gunners
+{Byzantine_Gunners_descr}These are the earliest form of personal firearm. Consisting of a rudimentary metal tube mounted on a wooden pole and awkwardly ignited, this basic design left little room for aiming. Causing more panic than actual damage, enemy troops are shaken by the noise and smoke made when firing. Given their short range, their firers need to be well armoured.
+{Byzantine_Gunners_descr_short}Earliest hand-held firearm unit. Causes more fear than actual damage. The short range of these weapons means these troops need to be well protected.
 {Byzantine_Infantry}Byzantine Infantry
 {Byzantine_Infantry_descr}Made up of soldiers recruited with small 'pronoiai', land grants, these Infantry "made up of peoples from all lands", fight for the Byzantine Empire more for profit than any sense of loyalty. These soldiers are equipped with a sword and large shield and wear mail armour for protection.
 {Byzantine_Infantry_descr_short}Byzantine infantry unit equipped with sword, shield and mail armour.
@@ -161,6 +185,9 @@
 {Camel_Gunners}Camel Gunners
 {Camel_Gunners_descr}These gunners use a type of heavy matchlock musket, which fires a powerful shot. Combine this firepower with a camel and the end result is a powerful and very mobile missile unit that is ideal for desert warfare. As an added bonus the camels scare horses.
 {Camel_Gunners_descr_short}Mounted on a camel this unit fires a powerful musket called a "jezail'.
+{Canons_of_the_Holy_Sepulcher}Canons of the Holy Sepulcher
+{Canons_of_the_Holy_Sepulcher_descr}"Deliverance" of the Church of the Holy Sepulchre was one of the key objectives of the First Crusade. Begun by Godfrey of Bouillon, primary leader of the First Crusade, the Canons were formed to "protect" this most holy of places. In time the Canons became associated with the Order of St. John, and while retaining their name, these elite soldiers are no longer locationally tied to the actual Church.UNIQUE UNIT
+{Canons_of_the_Holy_Sepulcher_descr_short}Elite heavy infantry originally created to guard the Church of the Holy Sepulchre. These units a well armoured and equipped with a sword.UNIQUE UNIT 
 {Carroccio_Standard_M}Carroccio Standard
 {Carroccio_Standard_M_descr}The Carroccio is a wagon bearing the city's standard. It acts as an inspirational focal point for the entire army, driving the men to new heights of bravery. It is guarded by an elite unit, who protect it with their lives. 
 {Carroccio_Standard_M_descr_short}Wagon bearing Milan's standard to inspire the army, pushed by elite troops armed with spears and light armour.
@@ -182,6 +209,9 @@
 {Conquistadores}Conquistadores
 {Conquistadores_descr}These men are the hardy pioneers that set out to conquer America. Although driven primarily by greed, they have exhibited exceptional bravery, cunning and resilience. With their horses, steel half plate armour, lances, and razor sharp steel swords, these men are absolutely devastating against the indigenous warriors of Mexico. They can only be recruited in America.
 {Conquistadores_descr_short}Well trained and armed with lance and sword, they make superb heavy cavalry capable of devastating attacks. 
+{Constable_of_Jerusalem}Constable of Jerusalem
+{Constable_of_Jerusalem_descr}The Constable of Jerusalem is responsible for justice, payment and the command of mercenaries in battle, both the King's and those of Feudal Lords. In battle the Constable and his double strength, (he had first choice of men after the King), unit of elite knights rode in the vanguard of the army. This is one of the most formidable units in all Outremer.UNIQUE UNIT
+{Constable_of_Jerusalem_descr_short}Elite Heavy cavalry protected by heavy armour, equipped with lance and a mace for when things get up close and personal.UNIQUE UNIT
 {Cossack_Cavalry}Cossack Cavalry
 {Cossack_Cavalry_descr}Russian Cossacks spend much of their time on horseback, and as such are accustomed to the tasks of guarding and protecting towns, roads, forts and settlements. Renown for their bravery and hardiness, Cossacks are equipped with a sword and composite bow which they use from horseback.
 {Cossack_Cavalry_descr_short}Fierce and hardy, although lacking in armour, Cossacks are equipped with a sword and composite bow which they use from horseback.
@@ -219,7 +249,7 @@
 {Desert_Archers_descr}Hardy men from the desert used to the hardships of sun and sand. They are adept with the bow, but lack the equipment for close combat. A wise general will use this unit to pepper the enemy with arrows, but will keep them out of harm's way.
 {Desert_Archers_descr_short}Hardy men from the desert, adept with the bow, but lacking the equipment for close combat.
 {Desert_Cavalry}Desert Cavalry
-{Desert_Cavalry_descr}The Desert Cavalry are a mixture of Moors and Arabs living in the arid and desert regions of North Africa and the Middle East. The heat of the desert makes armour unpopular with these men, but their loose-fitting robes give them protection both from the sun, and spent missiles or light blows. Armed with javelins these fast moving units are best against other light troops, or harassing enemy flanks where they can stay out of harm's way. 
+{Desert_Cavalry_descr}The Desert Cavalry are a mixture of Moors and Arabs living in the arid and desert regions of North Africa and the Middle East. The heat of the desert makes armour unpopular with these men, but their loose-fitting robes give them protection both from the sun, and spent missiles or light blows. Armed with javelins these fast moving units are best against other light troops, or harassing enemy flanks where can stay out of harm's way. 
 {Desert_Cavalry_descr_short}Fast skirmishers with javelins, best used to harass enemy flanks and fend off archers.
 {Dismounted_Arab_Cavalry}Dismounted Arab Cavalry
 {Dismounted_Arab_Cavalry_descr}Recruited from the many Arabs settled across North Africa and the Middle East, usually fighting mounted, they will dismount for duties that demand it. Although used to a hot climate, they are not desert troops.
@@ -269,9 +299,15 @@
 {Dismounted_French_Archers}Dismounted French Archers
 {Dismounted_French_Archers_descr}Professional soldiers of the French ordinance reforms, these men are modelled on the English style longbowmen. Their powerful bows give them punch, while their horses give them strategic mobility. They often enter battle dismounted as their bow is much more potent when used on foot. Well armed and armoured by the King.
 {Dismounted_French_Archers_descr_short}Protected by brigandine armour, these archers have a horse to ride to battle on, but still fight on foot.
+{Dismounted_Ghulams}Dismounted Ghulams
+{Dismounted_Ghulams_descr}Precursors to the Mamluks, the Ghulams are soldiers largely drawn from African slaves. Trained and kept at their "master's"" expense, these soldiers are given their freedom once they reach a certain standard and are kept on as their "master's" personal guard. Ghulams are well trained and protected by heavy mail and equipped with a mace.
+{Dismounted_Ghulams_descr_short}Precursors to the Mamluks, these slave soldiers make excellent infantry, equipped with heavy mail and a mace.
 {Dismounted_Gothic_Knights}Dismounted Gothic Knights
 {Dismounted_Gothic_Knights_descr}These distinctive looking knights are the Holy Roman Empire's elite warriors. Encased in splendid gothic plate armour, including the distinctive visored sallet helmet, these knights can take on anyone on the battlefield even when fighting dismounted.
 {Dismounted_Gothic_Knights_descr_short}Impressive looking knights, well protected by armour and armed with a two-handed sword.
+{Dismounted_Hasham}Dismounted Hasham
+{Dismounted_Hasham_descr}The Hasham, 'Guards', are Mamluks selected to be the Sultan's bodyguards and personal regiment. Only kept by Sultans rich and powerful enough to field them, these elite and loyal troops are protected by heavy mail and are armed with a wicked scimitar for slaying their Sultan's foes.REQUIRES BAGHDAD
+{Dismounted_Hasham_descr_short}Elite warriors chosen from amongst the Mamluks to be the Sultan's personal regiment and bodyguard.REQUIRES BAGHDAD
 {Dismounted_Heavy_Archers}Dismounted Heavy Archers
 {Dismounted_Heavy_Archers_descr}The main weapon of the Mongol army is the bow. These archers have chosen to fight on foot, making them no less dangerous. They have exchanged the mobility of light armour for the protection of heavy lamellar armour, allowing them to take a little more punishment from both ranged and melee weapons.
 {Dismounted_Heavy_Archers_descr_short}Despite preferring to fight on horseback, these heavily armoured archers have dismounted to fight on foot.
@@ -287,6 +323,12 @@
 {Dismounted_Italian_MAA}Dismounted Men at Arms
 {Dismounted_Italian_MAA_descr}Composed of nobility and commoners alike, these men can fight equally well on horseback, or on foot. Well protected in their plate armour, and armed with swords, they are a tough fighters, whether on the offence or defence. Although extremely effective, they nevertheless don't quite have the elan of true knights.
 {Dismounted_Italian_MAA_descr_short}Dismounted, these men are effective and well protected infantry.
+{Dismounted_Knights_Of_Jerusalem}Dismounted Knights of Jerusalem
+{Dismounted_Knights_Of_Jerusalem_descr}The survival of the Crusader States depends almost entirely on their military capabilities, and as such all vassals, under 60 years of age are expected to serve mounted and fully armed whenever summoned by the King of Jerusalem. These Knights are protected by mail armour and armed with swords and are amongst the best infantry Outremer has to offer.REQUIRES JERUSALEM
+{Dismounted_Knights_Of_Jerusalem_descr_short}Vassal knights who owe service to the Kingdom of Jerusalem, equipped with sword and wearing mail armour.REQUIRES JERUSALEM
+{Dismounted_Knights_of_Antioch}Dismounted Knights of Antioch
+{Dismounted_Knights_of_Antioch_descr}The survival of the Crusader States depends almost entirely on their military capabilities, and as such all vassals, under 60 years of age are expected to serve mounted and fully armed whenever summoned by the Prince of Antioch. Protected by mail armour and armed with swords, these knights are amongst the best infantry Outremer has to offer.
+{Dismounted_Knights_of_Antioch_descr_short}Vassal knights who owe service to the Principality of Antioch, equipped with sword and wearing mail armour.
 {Dismounted_Latinkon}Dismounted Latinkon
 {Dismounted_Latinkon_descr}Latinkon is the collective term in Latin for western European troops, mostly mercenaries, in the Byzantine army. Despite fluctuating numbers, there are enough of them to warrant the position of Megas Konostabllos being created to oversee them. Wearing heavy armour these experienced and well trained fighters are armed with swords and are effective even when fighting on foot.
 {Dismounted_Latinkon_descr_short}Western European troops fighting for the Byzantine Empire, these experienced fighters are effective even on foot.
@@ -393,7 +435,7 @@
 {EE_Town_Militia_descr}These men are commoners and peasants who have been levied into local militias to defend towns, roads and bolster armies. Given some training and equipped with a short spear and shield, though little armour, these units are useful in defence, but cannot be expected to endure for long on an open battlefield.
 {EE_Town_Militia_descr_short}Town Militia are commoners and peasants levied into local militias to defend settlements and bolster armies, armed with spears.
 {EE_Trebuchet}Trebuchet
-{EE_Trebuchet_descr}The counter-weight Trebuchet is an evolution of the man-powered mangonel and catapults dating back before the 11th century. It has quickly spread throughout the world as an effective siege engine capable of lobbing large wall- crushing boulders. The Trebuchet is also able to fling such things as burning missiles and rotten animal remains to devastate enemy units.
+{EE_Trebuchet_descr}The counter-weight Trebuchet is an evolution of the man-powered mangonel and catapults dating back before the 11th century. It has quickly spread throughout the world as an effective siege engine capable of lobbing large wall-crushing boulders. The Trebuchet is also able to fling such things as burning missiles and rotten animal remains to devastate enemy units.
 {EE_Trebuchet_descr_short}Giant rock flinging artillery piece. Capable of flaming and normal shot. Also able to fling diseased cows!
 {E_Chivalric_Knights}Chivalric Knights
 {E_Chivalric_Knights_descr}These nobles are trained since childhood in the art of war. They have abandoned traditional ways, and adopted the latest western techniques and equipment. Equipped with good plate armour, and armed with lance and sword, these elite warriors are a force to be reckoned with, despite their tendency to act impetuously in battle. 
@@ -401,6 +443,12 @@
 {Eagle_Warriors}Eagle Warriors
 {Eagle_Warriors_descr}After capturing four enemies in combat, these fearsome warriors are entitled to wear outfits bedecked in feathers to resemble a bird, with an open-faced helmet that is a representation of an eagle’s head. They are equipped with ichcahuipilli armour, and wield their obsidian-edged maquahuitl clubs two-handed.
 {Eagle_Warriors_descr_short}Fearsome warriors garbed in an outfit to resemble an eagle. Armoured with ichcahuipilli, and wielding maquahuitl clubs two-handed.
+{Edessan_Guard}Edessan Guard
+{Edessan_Guard_descr}Crusader States are on a hostile frontier and exist in an almost constant state of war. Because of this, Crusader States need full time troops, that do not need to be hired or levied, such as the Edessan Guard. Hardy troops armed with vicious two-hand axes. 
+{Edessan_Guard_descr_short}Good quality heavy infantry protected by armour and equipped with foe rending two-handed axes.
+{Edessan_Squires}Edessan Squires
+{Edessan_Squires_descr}A Squire is a knight in training. These young men hail from the County of Edessa, their task being to learn the military arts and see to their Knightly Lord's needs. A squire's equipment depends on what his Lord can afford. Light amour a, shield and a mace are the most common equipment of the average squire in Outremer. 
+{Edessan_Squires_descr_short}Knights in training hailing from the County of Edessa. Equipped with light armour, shield and a mace. Reliable heavy infantry.
 {Elephant_Artillery}Elephant Artillery
 {Elephant_Artillery_Mercs}Elephant Artillery
 {Elephant_Artillery_Mercs_descr}These fearsome beasts have small cannons, comparable to serpentines, mounted on their backs. Elephants are capable of trampling men and horses into the dust, and if the elephant goes berserk that includes friendly troops as well. In such an event, the riders are equipped with a special hammer and chisel they can use on their mount's head to kill it. 
@@ -416,6 +464,9 @@
 {Elephants_Mercs_descr_short}Armed with deadly arquebuses these riders fire from atop these fearsome beasts, which can trample men into the dust.
 {Elephants_descr}Armed with deadly arquebuses these riders fire from atop these fearsome beasts, which can trample men and horses into the dust. Elephants occasionally go berserk in battle, trampling over friend and foe alike, therefore their riders have a special hammer and chisel they can use on their mount's head to kill it should they need to.
 {Elephants_descr_short}Armed with deadly arquebuses these riders fire from atop these fearsome beasts, which can trample men into the dust.
+{Emperor_Manuel}Emperor Manuel
+{Emperor_Manuel_descr}Manuel, Emperor of Byzantium and his retinue. HERO ABILITY (BYZANTINE POLITICS): Emperor Manuel, through skilful use of bribery, can paralyse some enemy units once per battle. These units, paralysed due to certain bribed members starting a ruckus, remain stationary until the argument ends or until attacked.
+{Emperor_Manuel_descr_short}Manuel, Emperor of Byzantium and his bodyguard
 {English_Huscarls}Huscarls
 {English_Huscarls_descr}These Axe-wielding Saxons are an elite body of professional troops loyal to the Saxon royal family. Armed with a two-handed axe and mail they present stiff opposition to all who would invade England.
 {English_Huscarls_descr_short}Formidable Saxon warriors armed with two-handed axes and protected by mail armour.
@@ -440,6 +491,12 @@
 {Forlorn_Hope}Forlorn Hope
 {Forlorn_Hope_descr}The 'Verlorene Haufe' or Forlorn Hope as they are known, are comprised of prisoners and volunteers desperate for glory. Their job is to lead the first and usually fatal charge used to break up enemy pike formations. The Forlorn Hope are heavily armoured and wield massive "zweihander" swords. These units are vicious assault troops who can chop a man into bloody pieces.
 {Forlorn_Hope_descr_short}These desperate men are armed with a massive two-handed sword and thick armour.
+{Frankish_Axemen}Frankish Axemen
+{Frankish_Axemen_descr}Some vassals in Outremer owe not only personal military service but are required to provide, 'service de compaignons', a number of men hired as mercenaries for a period of time, and payed for by the vassal himself. Frankish Axemen are usually drawn from pilgrims turned soldiers or from the poorer professional soldiers and hired by vassals unable to hire more expensive troops.
+{Frankish_Axemen_descr_short}Light troops armed with an axe and little armour, often maintained by vassals as part of their feudal service.
+{Frankish_Swordsmen}Frankish swordsmen
+{Frankish_Swordsmen_descr}Some vassals in Outremer owe not only personal military service but are required to provide, 'service de compaignons', men hired as mercenaries for a period of time, and payed for by the vassal himself. Hired by vassals unable to hire more expensive troops, Frankish Swordsmen commonly originate from the Holy Roman Empire and are usually either pilgrims turned soldiers or poorer professional soldiers.
+{Frankish_Swordsmen_descr_short}Light troops armed with a sword and little armour, often maintained by vassals as part of their feudal service.
 {Free_Company_Longbowmen}Free Company Longbowmen
 {Free_Company_Longbowmen_descr}These longbowmen are mercenaries of English origin. Willing to sell themselves and their skills to the highest bidder, they provide an opportunity to bolster an army that is weak in missile troops. Protected with light mail and a sword, they prefer to stay out of melee if they can. Like other longbowmen they can lay defensive stakes.
 {Free_Company_Longbowmen_descr_short}Mercenary Longbowmen armoured with light mail. Able to lay defensive stakes.
@@ -459,7 +516,7 @@
 {GR_Catapult_descr}Constructed of wood and capable of flinging stones large enough to crush a man's head, the catapult was a common site on the ancient Roman battlefield. Now in the medieval era, the catapult is being replaced by newer and more powerful weapons.
 {GR_Catapult_descr_short}Older style rock-flinging wooden artillery piece. Can throw flaming and normal shots.
 {GR_Trebuchet}Trebuchet
-{GR_Trebuchet_descr}The counter-weight Trebuchet is an evolution of the man-powered mangonel and catapults dating back before the 11th century. It has quickly spread throughout the world as an effective siege engine capable of lobbing large wall- crushing boulders. The Trebuchet is also able to fling such things as burning missiles and rotten animal remains to devastate enemy units.
+{GR_Trebuchet_descr}The counter-weight Trebuchet is an evolution of the man-powered mangonel and catapults dating back before the 11th century. It has quickly spread throughout the world as an effective siege engine capable of lobbing large wall-crushing boulders. The Trebuchet is also able to fling such things as burning missiles and rotten animal remains to devastate enemy units.
 {GR_Trebuchet_descr_short}Giant rock flinging artillery piece. Capable of flaming and normal shot. Also able to fling diseased cows!
 {Galloglaich}Galloglaich
 {Galloglaich_Mercs}Galloglaich
@@ -479,6 +536,9 @@
 {Ghazis}Ghazis
 {Ghazis_descr}Ghazis are wild religious warriors seeking to find paradise through combat. Armed with a large axe and fiery fanaticism, these troops recklessly throw themselves into combat no matter the odds, caring little about their general's orders. Armed with a one-handed axe, these troops will try to hack and slash their way through anything.
 {Ghazis_descr_short}Reckless and fanatical religious warriors armed with an axe, capable of devastating attacks.
+{Ghulams}Ghulams
+{Ghulams_descr}Precursors to the Mamluks, the Ghulams are soldiers largely drawn from African slaves. Trained and kept at their "master's" expense, Ghulams are given their freedom once they reach a certain standard and are then kept on as their "master's" personal guard. These troops are well trained heavy cavalry, protected by heavy plate mail and equipped with a lance and a mace.
+{Ghulams_descr_short}Precursors to the Mamluks, these slave soldiers are reliable heavy cavalry, equipped with heavy plate mail, lance and a mace.
 {Gothic_Knights}Gothic Knights
 {Gothic_Knights_descr}These distinctive looking knights are the Holy Roman Empire's elite warriors. Their armour is in the distinctive fluted gothic style produced by the finest German armourers, and include the popular visored sallet helmet. Riding an armoured warhorse and wielding a lance and mace, Gothic knights have little to fear on the battlefield. Well practiced in heavy cavalry tactics these knights make a fearsome addition to any Imperial army.
 {Gothic_Knights_descr_short}Impressive looking heavy cavalry, well protected by armour for both rider and mount. Equipped with lance and mace.
@@ -495,11 +555,23 @@
 {Grand_Master_Ulrich_descr}Grand Master Ulrich and his bodyguard.
 {Grand_Master_Ulrich_descr_short}Grand Master Ulrich and his bodyguard.
 {Great_Cross}Great Cross
+{Great_Cross_Antioch}Great Cross Of Antioch
+{Great_Cross_Antioch_descr}The Great Cross sits on a wagon, and acts as a beacon of inspiration to the army, and a reminder that they are on God's mission. The cross is guarded by an elite unit of infantry, who would rather die than let it fall into enemy hands. This unit can only be used by crusading armies.
+{Great_Cross_Antioch_descr_short}Golden cross to inspire the troops, and remind them that they are on God's mission.
+{Great_Cross_Jerusalem}Great Cross Of Jerusalem
+{Great_Cross_Jerusalem_descr}The Great Cross sits on a wagon, and acts as a beacon of inspiration to the army, and a reminder that they are on God's mission. The cross is guarded by an elite unit of infantry, who would rather die than let it fall into enemy hands. This unit can only be used by crusading armies.
+{Great_Cross_Jerusalem_descr_short}Golden cross to inspire the troops, and remind them that they are on God's mission.
 {Great_Cross_descr}The Great Cross sits on a wagon, and acts as a beacon of inspiration to the army, and a reminder that they are on God's mission. The cross is guarded by an elite unit of infantry, who would rather die than let it fall into enemy hands. This unit can only be used by crusading armies.
 {Great_Cross_descr_short}Golden cross to inspire the troops, and remind them that they are on God's mission.
 {Greek_Bodyguard}General's Bodyguard
 {Greek_Bodyguard_descr}These truly formidable troops are the general's personal bodyguard who accompany him on the battlefield. Selected for their loyalty and martial prowess these elite warriors fear little and shrug off odds that would crush many other units. Wearing heavy mail or partial plate and wielding lances this unit is capable of devastating charges and riding down most foes.
 {Greek_Bodyguard_descr_short}Well armed and equipped these elite troops have the task of guarding and fighting alongside the army's general.
+{Greek_Firethrower}Greek Firethrower
+{Greek_Firethrower_descr}Greek Fire is one of the most terrifying weapons available in the Medieval World. The Byzantines first used it in naval battles, but soon found applications for its use on land. Consisting of a small hand pump connected to a container, it is capable of burning even underwater and sticks to its target, while being almost impossible to put out.REQUIRES CONSTANTINOPLE
+{Greek_Firethrower_descr_short}A devastating and terrifying weapon shooting spurts of liquid fire. Consisting of a small hand pump connected to a container.REQUIRES CONSTANTINOPLE
+{Greek_Mangonel}Mangonel
+{Greek_Mangonel_descr}The original Mangonel was first used in roman times to fling large rocks at enemies.  This Mangonel, though bearing some resemblance to its forebear, is far larger than its roman counterparts.  One other surprising addition is that this Mangonel throws burning barrels of oil! These barrels often explode in mid air, unleashing a torrent of fire down on its poor victims below. 
+{Greek_Mangonel_descr_short}Great siege engine capable of throwing exploding barrels of oil
 {Greek_Militia_Cavalry}Militia Cavalry
 {Greek_Militia_Cavalry_descr}Used throughout the Byzantine Empire to protect merchants, provincial towns and roads, Militia Cavalry are armoured in light mail and equipped with a spear. Though poorly trained, these men are good at chasing down archers and other light troops.
 {Greek_Militia_Cavalry_descr_short}Poorly trained, these units fight with a spear and sword.
@@ -512,11 +584,14 @@
 {Hand_Gunners}Hand Gunners
 {Hand_Gunners_descr}Called "hand guns" to distinguish them from cannons, these are the earliest form of personal firearm. Consisting of a rudimentary metal tube mounted on a wooden pole and awkwardly ignited, this basic design left little room for aiming. These weapons caused more panic than actual damage to enemy troops who were shaken by the noise and smoke made when firing. Given their short range, their firers need to be well armoured and able to look after themselves in close combat.
 {Hand_Gunners_descr_short}Earliest hand-held firearm unit. Causes more fear than actual damage. These soldiers need to be capable in close combat due to the short range of their weapons.
-{Hashishim}Hashashim
-{Hashishim_descr}The Hashashim are a semi-religious sect of assassins dedicated to stealth, and murder, thought to have originated somewhere in Persia. Highly disciplined and trained, these troops fear little and are masters of ambushes. On the battlefield they fight with sword and shield, as opposed to the daggers of their trade. Having no fear of death makes these men especially deadly.
-{Hashishim_descr_short}The Hashashim are a semi-religious sect of stealthy assassins. On the battlefield they fight with sword and shield. 
+{Hasham}Hasham
+{Hasham_descr}The Hasham, 'Guards', are Mamluks selected to be the Sultan's bodyguards and personal regiment. Only kept by Sultans rich and powerful enough to field them, these elite and loyal troops are protected by heavy mail and are armed with a lance for charging and a wicked scimitar for when things get close and personal.REQUIRES BAGHDAD
+{Hasham_descr_short}Elite warriors chosen from amongst the Mamluks to be the Sultan's personal regiment and bodyguard.REQUIRES BAGHDAD
+{Hashishim}Hashshashin
+{Hashishim_descr}The Hashshashin are a semi-religious sect of assassins dedicated to stealth, and murder, thought to have originated somewhere in Persia. Highly disciplined and trained, these troops fear little and are masters of ambushes. On the battlefield they fight with sword and shield, as opposed to the daggers of their trade. Having no fear of death makes these men especially deadly.
+{Hashishim_descr_short}The Hashshashin are a semi-religious sect of stealthy assassins. On the battlefield they fight with sword and shield. 
 {Heavy_Bill_Militia}Heavy Bill Militia
-{Heavy_Bill_Militia_descr}These are citizen soldiers from the more affluent sections of society, called up to fight in times of need. Although part time soldiers, they are well armoured, and have some training in war. Couple this their effective and versatile bill hook, and you have a capable unit that can hold the line of battle. 
+{Heavy_Bill_Militia_descr}These are citizen soldiers from the more affluent sections of society, called up to fight in times of need. Although part time soldiers, they are well armoured, and have some training in war. Couple this with their effective and versatile bill hook, and you have a capable unit that can hold the line of battle. 
 {Heavy_Bill_Militia_descr_short}Superior Bill militia, armed with a billhook and heavy armour.
 {Heavy_Billmen}Heavy Billmen
 {Heavy_Billmen_descr}The pinnacle of English commoner infantry, the Heavy Billman is equally comfortable in both attack and defence. Wielding the billhook allows Heavy Billmen to hack, stab and chop if needed and being encased in anything from half to three quarter plate armour means they can shrug off considerable damage.
@@ -545,6 +620,15 @@
 {Hobilars}Hobilars
 {Hobilars_descr}It is thought the term 'Hobilars' comes from the Norman name 'hobby' for the small horses that Gaelic troops rode in Scotland and Ireland. In medieval warfare Hobilars are the lighter cavalry who support the knights. They shouldn't be relied on too far in battle, but can be valuable for chasing down fleeing enemy.
 {Hobilars_descr_short}Light cavalry with spears. Useful for chasing down light infantry, and pursuing fleeing enemy
+{Hospitaller_Crossbowmen}Hospitaller Crossbowmen
+{Hospitaller_Crossbowmen_descr}Mercenaries play a large role in providing troops in Outremer, including providing troops for the Knightly Orders .The Hospitallers hired and retained for long periods of service experienced and trained crossbowmen. These troops swear an oath to the Order that is binding for as long as their service is required and payed for.REQUIRES KRAK DE CHEVALIERS
+{Hospitaller_Crossbowmen_descr_short}Elite mercenaries equipped with crossbows, fighting for the knights Hospitaller Equipped with crossbows and light mail armour.REQUIRES KRAK DE CHEVALIERS
+{Hospitaller_Gunner}Hospitaller Gunners
+{Hospitaller_Gunner_descr}These are the earliest form of personal firearm. Consisting of a rudimentary metal tube mounted on a wooden pole and awkwardly ignited, this basic design left little room for aiming. Causing more panic than actual damage, enemy troops are shaken by the noise and smoke made when firing. Given their short range, their firers need to be well armoured.REQUIRES KRAK DE CHEVALIERS
+{Hospitaller_Gunner_descr_short}Earliest hand-held firearm unit. Causes more fear than actual damage. The short range of these weapons means these troops need to be well protected.REQUIRES KRAK DE CHEVALIERS
+{Hospitaller_Sergeant}Hospitaller Sergeant
+{Hospitaller_Sergeant_descr}To be a Hospitaller Knight one has to be the son or descendant of a knight. Hospitaller Sergeants are professional soldiers unable to become Knights, and unlike the Templars, Christian Arabs were permitted to become Sergeants. Armed with a spear and light armour, these Hospitaller brethren are very effective against cavalry and no less belligerent on the battlefield than their knightly brothers.REQUIRES KRAK DE CHEVALIERS
+{Hospitaller_Sergeant_descr_short}Hospitaller Sergeants are professional soldiers unable to become Knights. Armed with a spear and light armour, very effective against cavalry.REQUIRES KRAK DE CHEVALIERS
 {Hungarian_Nobles}Hungarian Nobles
 {Hungarian_Nobles_descr}Unable to afford the expensive heavy armour of a western style knight, many nobles stick to their nomadic roots as heavy horse archers. Their light mail or brigandine armour gives them adequate protection while firing their bows, and their aristocratic upbringing gives them the stomach for close combat if required.
 {Hungarian_Nobles_descr_short}Well equipped with light armour and composite bows, these warriors are good horse archers who are also capable in close combat.
@@ -605,6 +689,12 @@
 {Khan's_Guard}Khan's Guard
 {Khan's_Guard_descr}Only nobles and freemen are eligible for the Khan's guard. Those selected can look forward to being magnificently equipped. Even ordinary soldiers in the guard have superiority over commanders in the rest of the army. The Khan's bodyguard also acts as a type of military academy with future generals living, fighting and learning alongside the Khan.
 {Khan's_Guard_descr_short}Magnificently equipped elite troops loyal to the Khan, and willing to protect him at all costs. 
+{Khassaki}Khassaki
+{Khassaki_descr}The Khassaki are the Sultan's own elite troops. Given the best horses and equipment, the Khassaki are fiercely loyal and are the only troops allowed to carry weapons at all times. Besides ceremonial duties these hardened warriors are charged with protecting the Sultan, as well as often taking on the most important missions or tasks within the Sultan's army.REQUIRES CAIRO 
+{Khassaki_descr_short}These elite troops are the Sultan's own bodyguard, given the best horses and equipped with the best armour and weapons available.REQUIRES CAIRO 
+{Khasseki}Khasseki infantry
+{Khasseki_descr}The Khasseki are drawn from nomadic Kurds and Bedouins who hire themselves out as mercenaries. Used extensively as auxiliaries throughout Egypt, these troops are equipped with an axe and shield, as well as wearing basic armour.
+{Khasseki_descr_short}Nomadic Kurdish and Bedouin mercenaries, equipped with an axe, a shield and wearing basic armour.
 {King_Francis}King Francis
 {King_Francis_descr}King Francis of France, and his bodyguard.
 {King_Francis_descr_short}King Francis and his bodyguard.
@@ -617,9 +707,6 @@
 {King_Henry}King Henry V
 {King_Henry_descr}King Henry and his bodyguard of hand-picked knights.
 {King_Henry_descr_short}King Henry and his bodyguard.
-{King_Richard}King Richard
-{King_Richard_descr}King Richard the Lionhearted and his bodyguard of hand-picked knights.
-{King_Richard_descr_short}King Richard and his bodyguard.
 {King_Wladyslaw}King Wladyslaw
 {King_Wladyslaw_descr}King Wladyslaw and his bodyguard of hand-picked knights.
 {King_Wladyslaw_descr_short}King Wladyslaw and his bodyguard.
@@ -629,9 +716,24 @@
 {Knights_Templar}Knights Templar
 {Knights_Templar_descr}The Knights Templar, a fearsome and uncompromising order, were formed shortly after the First Crusade to protect pilgrims. Despite their origins, the order became hugely wealthy and operated the first banking system in Europe. They were disbanded in 1307, after hundreds of Templars were simultaneously arrested and tortured in France on orders from the Pope and the King. Heresy being the main charge. Politics aside, they were famed warriors. 
 {Knights_Templar_descr_short}Elite and some say reckless knights formed to protect Christian pilgrims in the Holy Lands.
+{Knights_of_Antioch}Knights of Antioch
+{Knights_of_Antioch_descr}The survival of the Crusader States depends almost entirely on their military capabilities, and as such all vassals, under 60 years of age are expected to serve mounted and fully armed whenever needed by the Principality of Antioch. These Knights are protected by mail armour and are armed with lances for charging and a sword for dealing with enemies up close.
+{Knights_of_Antioch_descr_short}Vassal knights who owe service to the Principality of Antioch, equipped with lance, sword and wearing mail armour.
+{Knights_of_Edessa}Knights of Edessa
+{Knights_of_Edessa_descr}The survival of the Crusader States depends almost entirely on their military capabilities, and as such all vassals, under 60 years of age are expected to serve mounted and fully armed whenever summoned by the Count of Edessa or the Prince of Antioch. These Knights are protected by mail armour and are armed with lances for charging and an axe for when combat is up close and personal.
+{Knights_of_Edessa_descr_short}Vassal knights who owe service to the  County of Edessa and the Principality of Antioch, equipped with lance, axe and wearing mail armour.
+{Knights_of_Jerusalem}Knights of Jerusalem
+{Knights_of_Jerusalem_descr}The survival of the Crusader States depends almost entirely on their military capabilities, and as such all vassals, under 60 years of age are expected to serve mounted and fully armed whenever summoned by the King of Jerusalem. These Knights are protected by mail armour and are armed with lances for charging and an axe for when combat is up close and personal.REQUIRES JERUSALEM
+{Knights_of_Jerusalem_descr_short}Vassal knights who owe service to the Kingdom of Jerusalem, equipped with lance, axe and wearing mail armour.REQUIRES JERUSALEM
 {Knights_of_Santiago}Knights of Santiago
 {Knights_of_Santiago_descr}Based in Spain, the Knights of Santiago, formally the Order of Saint James of Compostela, are charged with fighting in the Reconquista to drive the Moors from Iberia. Well trained, armed with lances and well armoured, this order of elite knights are more than a match for most on the battlefield.
 {Knights_of_Santiago_descr_short}Based in Spain, the Knights of Santiago are charged with driving the Moors from Iberia. 
+{Knights_of_Tripoli}Knights of Tripoli
+{Knights_of_Tripoli_descr}In the Crusader States military strength is vital, therefore all vassals, under 60 years of age are expected to serve mounted and fully armed whenever summoned by their Lord, in this case the Count of Tripoli or the King of Jerusalem. These Knights are equipped with mail armour, lances for charging and an sword for when combat is up close and personal.
+{Knights_of_Tripoli_descr_short}Vassal knights from the County of Tripoli who owe service to the Kingdom of Jerusalem, equipped with lance, sword and wearing mail armour.
+{Kurdish_Auxiliaries}Kurdish Auxiliaries
+{Kurdish_Auxiliaries_descr}Kurdish soldiers make up a large number of the auxiliaries in Turkish armies, sometimes fighting in mixed units, other times in units made up entirely of Kurds. Being accustomed to their rugged homelands, Kurds tend to make for hardy, if somewhat ill-disciplined, soldiers. A common sight in Seljuk armies, these troops are armed with axes and protected by light armour and a shield.
+{Kurdish_Auxiliaries_descr_short}Both hardy and rowdy these Kurdish troops are armed with an axe and are protected by light armour and a shield.
 {Kurdish_Javelinmen}Kurdish Javelinmen
 {Kurdish_Javelinmen_descr}Kurdish troops are well respected in the east, and often entire tribes would be hired to maintain and guard borders around Syria. These troops are tough mountain men found fighting throughout the Middle East. They soften an enemy with their javelins, then finish them with the sword.
 {Kurdish_Javelinmen_descr_short}Hardy troops who soften the enemy with their javelins, then finish them off with their swords.
@@ -701,6 +803,9 @@
 {ME_Levy_Spearmen}Levy Spearmen
 {ME_Levy_Spearmen_descr}These men have been forcibly drafted into the service of their masters to do the dirty work in sieges, perform garrison duties, or just to make their armies more impressive in size. Given a long spear and shield, but little training or armour, they are only of use in defensive roles or as cannon fodder. When their fear of the enemy surpasses their fear of their masters, they will flee.
 {ME_Levy_Spearmen_descr_short}Levied troops, comprised of people from captured territories and the bottom rung of nomadic society, armed with spears.
+{ME_Mangonel}Mangonel
+{ME_Mangonel_descr}The original Mangonel was first used in roman times to fling large rocks at enemies.  This Mangonel, though bearing some resemblance to its forebear, is far larger than its roman counterparts.  One other surprising addition is that this Mangonel throws burning barrels of oil! These barrels often explode in mid air, unleashing a torrent of fire down on its poor victims below. 
+{ME_Mangonel_descr_short}Great siege engine capable of throwing exploding barrels of oil
 {ME_Monster_Bombard}Monster Bombard
 {ME_Monster_Bombard_descr}The Gun to end all Guns. The Monster Bombard is made for one purpose only, the utter destruction of enemy defences. This massive Bombard fires a stone ball weighing well over half a ton, obliterating any but the most massive walls in one shot. Unfortunately the down side of all this firepower is that it takes an eternity to reload.
 {ME_Monster_Bombard_descr_short}Massive Siege-Gun. Can destroy nearly any wall in one shot. Has very long range but slow reload time.
@@ -720,7 +825,7 @@
 {ME_Town_Militia_descr}Armed with a short spear but little armour, these troops are city dwellers usually called up to defend their homes in time of need, but sometimes pressed into action on foreign campaigns. Although useful for city defence, they should not be relied on in the field.
 {ME_Town_Militia_descr_short}Armed with a spear but little armour, these troops are made up of locals who have been organised to defend their town.
 {ME_Trebuchet}Trebuchet
-{ME_Trebuchet_descr}The counter-weight Trebuchet is an evolution of the man-powered mangonel and catapults dating back before the 11th century. It has quickly spread throughout the world as an effective siege engine capable of lobbing large wall- crushing boulders. The Trebuchet is also able to fling such things as burning missiles and rotten animal remains to devastate enemy units.
+{ME_Trebuchet_descr}The counter-weight Trebuchet is an evolution of the man-powered mangonel and catapults dating back before the 11th century. It has quickly spread throughout the world as an effective siege engine capable of lobbing large wall-crushing boulders. The Trebuchet is also able to fling such things as burning missiles and rotten animal remains to devastate enemy units.
 {ME_Trebuchet_descr_short}Giant rock flinging artillery piece. Capable of flaming and normal shot. Also able to fling diseased cows!
 {Magyar_Cavalry}Magyar Cavalry
 {Magyar_Cavalry_descr}When the originally nomadic Magyar people settled in the plains of Hungary, some held on to their nomadic roots and continued life on the saddle. This cultural disposition makes Magyars excellent horse archers. Able to rain arrows upon their foes and stay out of trouble, these natural horsemen are armed with a composite bow and wear light armour.
@@ -731,9 +836,24 @@
 {Mamluk_Archers}Mamluk Archers
 {Mamluk_Archers_descr}Mamluks are the elite professional cavalry of the Egyptian Army. Bought as slaves from the hardy Turkish steppe peoples, they are trained from boyhood to be men of the sword. When their training is finished, they are freed and enrolled in the army. Although cavalry archers, these are no light skirmishers. Instead they operate in close formation to lay down a heavy barrage of fire. They have maces for use on anyone who gets too close.
 {Mamluk_Archers_descr_short}Bought as slaves, and trained from boyhood, these formidable soldiers excel at archery, but can also hold their own in melee.
+{Mamluk_Handgunners}Mamluk Handgunners
+{Mamluk_Handgunners_descr}These are the earliest form of personal firearm. Consisting of a rudimentary metal tube mounted on a wooden pole and awkwardly ignited, this basic design left little room for aiming. Causing more panic than actual damage, enemy troops are shaken by the noise and smoke made when firing. Given their short range, their firers need to be well armoured.
+{Mamluk_Handgunners_descr_short}Earliest hand-held firearm unit. Causes more fear than actual damage. The short range of these weapons means these troops need to be well protected.
 {Mamluks}Mamluks
 {Mamluks_descr}Mamluks are the elite professional cavalry of the Egyptian Army. Bought as slaves from the hardy Turkish steppe peoples, they are trained from boyhood in the ways of the warrior. When their training is finished, they are freed and enrolled in the army. These men are equipped for close fighting with spears, maces and shields.
 {Mamluks_descr_short}Bought as slaves, and trained from boyhood and well equipped, these soldiers make formidable heavy cavalry.
+{Mangonel}Mangonel
+{Mangonel_descr}The original Mangonel was first used in Roman times to fling large rocks at enemies.  This Mangonel, though bearing some resemblance to its forebear, is far larger than its Roman counterparts.  One other surprising addition is that this Mangonel throws burning barrels of oil! These barrels often explode in mid air, unleashing a torrent of fire down on its poor victims below. 
+{Mangonel_descr_short}Great siege engine capable of throwing exploding barrels of oil
+{Maronites_of_Lebanon}Maronites of Lebanon
+{Maronites_of_Lebanon_descr}The Maronites of Lebanon are Arabic troops from the County of Edessa. Renown for their swiftness and skill, these superior bowmen fight under their own chiefs called, Muqaddam. Wearing basic padded armour these troops use composite bows and are capable of unleashing devastating volleys of arrows.
+{Maronites_of_Lebanon_descr_short}Arabic archers from the County of Edessa. These reliable ranged troops can devastate the enemy with volleys of arrows.
+{Marshall_of_the_Hospitallers}Marshall of the Hospitallers
+{Marshall_of_the_Hospitallers_descr}These formidable troops are charged with guarding the Marshall of the Hospitallers, commander of the Hospitallers in battle and second only to the Master of the Order. These experienced and hardy veterans are well armoured and fight with lance and sword.UNIQUE UNIT
+{Marshall_of_the_Hospitallers_descr_short}Elite Hospitaller Knights chosen to be the Marshall's bodyguard to protect the Hospitaller commander on and off the field of battle.UNIQUE UNIT
+{Marshall_of_the_Templars}Marshall of the Templars
+{Marshall_of_the_Templars_descr}These formidable troops are charged with guarding the Marshall of the Templars, commander of the Templars in battle, and second only to the Master of the Templars. These experienced and hardy veterans are well armoured and fight with lance and sword.UNIQUE UNIT
+{Marshall_of_the_Templars_descr_short}Elite Templar Knights chosen to be the Marshall's bodyguard to protect the Templar commander on and off the field of battle.UNIQUE UNIT
 {Mercenary_Arquebusiers}Mercenary Arquebusiers
 {Mercenary_Arquebusiers_descr}Fired at close range and quite accurate, with only a little chance of exploding and killing the person firing it. This early type of firearm is capable of firing deadly volleys that can pierce most armour. This noisy, smokey and lethal weapon is so intimidating it can cause its targets to run in fear.
 {Mercenary_Arquebusiers_descr_short}Fired at close range, this noisy, Smokey and lethal weapon causes morale damage as well as physical hurt.
@@ -846,7 +966,7 @@
 {NE_Serpentine_descr}The serpentine is so named, because its long slender barrel resembles a snake. This piece is designed for attacking enemy troops, rather than walls. Its long thin barrel gives it good range and accuracy, and its small calibre ammunition makes it quicker to reload than heavier pieces.
 {NE_Serpentine_descr_short}Light cannon designed for use against troops rather than walls.
 {NE_Trebuchet}Trebuchet
-{NE_Trebuchet_descr}The counter-weight Trebuchet is an evolution of the man-powered mangonel and catapults dating back before the 11th century. It has quickly spread throughout the world as an effective siege engine capable of lobbing large wall- crushing boulders. The Trebuchet is also able to fling such things as burning missiles and rotten animal remains to devastate enemy units.
+{NE_Trebuchet_descr}The counter-weight Trebuchet is an evolution of the man-powered mangonel and catapults dating back before the 11th century. It has quickly spread throughout the world as an effective siege engine capable of lobbing large wall-crushing boulders. The Trebuchet is also able to fling such things as burning missiles and rotten animal remains to devastate enemy units.
 {NE_Trebuchet_descr_short}Giant rock flinging artillery piece. Capable of flaming and normal shot. Also able to fling diseased cows!
 {Naffatun}Naffatun
 {Naffatun_descr}Naphtha is a mixture of chemicals that become a fiery liquid that is difficult to put out. These men throw deadly ceramic pots of flaming Naphtha that burst into flames on impact spilling a sticky molten mess that can seep through any armour. The prospect of a fiery death can unnerve even the bravest warrior.
@@ -893,6 +1013,9 @@
 {Nubian_Spearmen}Nubian Spearmen
 {Nubian_Spearmen_descr}Nubian Spearmen are African slaves from the lands south of the Sahara desert, trained and formed into standing military units. They are brave and resilient, but lightly armed with short spears, shields, and lacking armour. While useful at defending flanks and dealing with light cavalry, these troops won't hold up in a prolonged melee.
 {Nubian_Spearmen_descr_short}Useful for guarding flanks, these light troops are armed with a spear but little to no armour. 
+{Nur_adDin}Sultan Nur ad-Din
+{Nur_adDin_descr}Sultan Nur ad-Din and his handpicked bodyguard. HERO ABILITY (LIGHT OF THE FAITH): Once per battle, Sultan Nur ad-Din can call upon the passion and faith of his warriors to drive their hated enemies to defeat! This uplifting call fills the warriors with zeal and increases both their combat effectiveness and morale for a period of time.
+{Nur_adDin_descr_short}Nur ad-Din, Sultan of the Turks and his bodyguard
 {Obudshaer}Obudshaer
 {Obudshaer_descr}Obudshaer are units consisting of single men created for use in foreign service. Armed with a halberd and bedecked in plate armour, these men provide stiff and bloody opposition to all who wish to do them harm. Their long halberds can fend off cavalry, and crush armour.
 {Obudshaer_descr_short}Skilled Danish halberd unit armoured in plate armour. 
@@ -926,6 +1049,9 @@
 {Peasants}Peasants
 {Peasants_descr}Life at the bottom rung of medieval society is not easy or healthy. In times of war peasants are forced from their farms and drafted into levies, and if they are lucky, given some kind of simple weapon to fight with. Unsurprisingly, peasants are undisciplined troops who are better at fleeing than they are fighting. 
 {Peasants_descr_short}In times of war peasants are forced from their farms and drafted into levies. Good cannon fodder.
+{Philip_King_of_France}Philip King of France
+{Philip_King_of_France_descr}Philip, the King of France, and his bodyguard. HERO ABILITY (THE FLOWER OF CHIVALRY): Reigning over France, the home of chivalry, Philip can inspire his men to follow the tenets of chivalry. Once per battle, Phillip can give a magnificent call to arms, which greatly increases the staying power of his soldiers, raising both their combat ability and stamina for a short time.
+{Philip_King_of_France_descr_short}Philip the King of France and his bodyguard
 {Pike_Militia}Pike Militia
 {Pike_Militia_descr}The pikeman is a staple of the late Medieval army, and the arms of militia mirror those of professional soldiers. Pike armed militia with a modest amount of training can hold a defensive position very well, though they need good support. Initially lacking armour and thus vulnerable to shooting, this unit can be upgraded to be much better protected.
 {Pike_Militia_descr_short}Pike Militias range from armed peasants to semi-professional well trained and equipped soldiers.
@@ -935,6 +1061,9 @@
 {Pilgrims}Pilgrims
 {Pilgrims_descr}Pilgrims are civilians, common folk, priests etc. who are undertaking a pilgrimage to the Holy Land. The undertaking of such a journey is signified by wearing a cross, normally sewn on to the right shoulder or chest. As non-combatants, 'unwilling civilians caught in a battle', these folk are poorly equipped with only simple weapons for protection.
 {Pilgrims_descr_short}Civilians making a pilgrimage to the Holy Lands, armed with simple bludgeoning objects.
+{Pisan_and_Geonese_sailors}Pisan and Geonese Sailors
+{Pisan_and_Geonese_sailors_descr}Existing in the coastal cities of Outremer are the Italian communes who provide essential naval support for the Crusader States. Belonging to the various Italian trading states these self governing communes were granted to the Italian States in return for naval support. These sailors can be called upon to help defend their city and often take part in offensive campaigns as allies.
+{Pisan_and_Geonese_sailors_descr_short}Sailors from the Italian communes in Crusader cities. Armed with whatever they can afford to own, usually little to no armour and a simple handweapon.
 {Polish_Guard}Polish Guard
 {Polish_Guard_descr}The Polish Guard are elite heavy cavalry who enjoy the benefits of superb training and improvements made in armour and weapons throughout the Medieval period. These highly respected and feared troops wear plate armour and are mounted on well armoured horses. These units are armed with a lance and a sword.
 {Polish_Guard_descr_short}These highly respected and feared troops wear plate armour and are armed with a lance and a sword.
@@ -956,6 +1085,9 @@
 {Portuguese_Knights}Portuguese Knights
 {Portuguese_Knights_descr}Experienced in battle, thanks to the Reconquista, these elite knights are protected by plate armour, ride horses protected by thick felt barding, and are armed with lances and swords. Excellent in the charge, they are more than capable of dishing out a very unpleasant experience to any unit they choose to fight. 
 {Portuguese_Knights_descr_short}Elite and experienced knights protected by plate armour, barding and armed with lances and swords.
+{Pronoia_Infantry}Pronoia Infantry
+{Pronoia_Infantry_descr}The Pronoia are provincial soldiers who provide military service in exchange for land grants in manner much like the European Feudal system. While cavalry are the most common Pronoia soldiers, various infantry and missile troops are also raised this way. Probably holders of small land fiefs, these light troops are equipped with basic armour, shield and a mace.
+{Pronoia_Infantry_descr_short}Basic light infantry equipped with basic armour, a shield and a mace. Useful melee troops, but susceptible to heavier infantry and cavalry.
 {Qilich_Arslan}Qilich Arslan
 {Qilich_Arslan_descr}The Sultan Qilich Arslan and his bodyguard.
 {Qilich_Arslan_descr_short}Qilich Arslan and his bodyguard.
@@ -968,6 +1100,9 @@
 {Religious_Fanatics}Religious Fanatics
 {Religious_Fanatics_descr}Religious fanatics are a motley assortment of zealots and maniacs from amongst the common folk of Europe. Banding together with other like-minded militant pilgrims, armed with clubs and other simple weapons, these undisciplined and unruly mobs flock to the Holy Lands, often tagging along behind armies.
 {Religious_Fanatics_descr_short}A motley assortment of zealots and maniacs from amongst the common folk of Europe, travelling to the Holy Land.
+{Richard_the_Lionheart}Richard the Lionheart
+{Richard_the_Lionheart_descr}King Richard the Lionhearted and his bodyguard of hand-picked knights. HERO ABILITY (HEART OF THE LION):  Richard is such an inspiring leader that once per battle he can send out a tremendous call, rallying all his fleeing men on the battlefield! These men return to battle with a renewed hope and uplifted morale.
+{Richard_the_Lionheart_descr_short}King Richard and his bodyguard.
 {Royal_Banderium}Royal Banderium
 {Royal_Banderium_descr}Banderium are troops that make up baronial retinues, the 'bandiera'. The elite of these bandeiras, usually nobles, exceptional mercenaries and high ranking members from other bandieras, make up the retinues and bodyguards of members of the royal family, the Royal Banderium. Armed with lances and encased in plate armour they are fierce and loyal warriors.
 {Royal_Banderium_descr_short}Armed with lances and encased in plate armour these loyal warriors act as retinues and bodyguards for royalty.
@@ -999,8 +1134,8 @@
 {Sabadar_Militia_descr}Equipped with an axe and composite bow, these excellent, though quite unruly warriors, are Shi-ite militia from Central Asia, whose homelands have come under Timurid domination, and now fight in Timur's armies. Reasonably armoured, these warriors are able to weaken their enemy with missile fire before moving in to finish them off.
 {Sabadar_Militia_descr_short}Equipped with axe and composite bow, these excellent, though quite unruly warriors, are Shi-ite militia from Central Asia.
 {Saladin}Saladin
-{Saladin_descr}The Sultan Saladin and his bodyguard.
-{Saladin_descr_short}The Sultan Saladin and his bodyguard.
+{Saladin_descr}Saladin and his handpicked bodyguard
+{Saladin_descr_short}Saladin, Sultan of Egypt and his bodyguard
 {Saracen_Militia}Saracen Militia
 {Saracen_Militia_descr}Saracen Militia are richer townsfolk who have been levied into militia to guard their settlements. Better trained and equipped than most militias, these troops are armed with a spear and protected by mail. These are townsfolk who can look after themselves on any battlefield, useful for bolstering armies, with good defence against cavalry.
 {Saracen_Militia_descr_short}Well armoured townsfolk, these spearmen can take care of themselves on the battlefield, and fill out any army.
@@ -1016,6 +1151,9 @@
 {Scouts}Scouts
 {Scouts_descr}More accustomed to working on foot, Scouts are untrained horsemen and as such not great fighters on horseback. Scouts wear padded or light mail armour and are equipped with a spear or a large axe, as the Danes are wont to do. Cheap to recruit and equip, scouts are useful for running down fleeing troops and scattering archers.
 {Scouts_descr_short}Cheap to recruit and equip, scouts are useful for running down fleeing troops and scattering archers.
+{Seljuk_Auxiliary}Seljuk Auxiliaries
+{Seljuk_Auxiliary_descr}It is not uncommon for smaller Turkish Amirs to align themselves with the Crusaders for fear of losing their holdings to stronger neighbours or being crushed by the Crusaders themselves. Armed with bows and little armour, these Seljuks represent local troops belonging to these Amirs.
+{Seljuk_Auxiliary_descr_short}Basic Seljuk missile cavalry troops armed bows and little armour, belonging to Amirs who have aligned themselves with Crusaders.
 {Serbian_Hussars}Serbian Hussars
 {Serbian_Hussars_descr}The first Hussars are thought to have been Serbian nobles seeking refuge in Hungary. Well renowned as elite light cavalry, those that remained in their native land prefer to take lucrative work as mercenaries, since they are much in demand. Hussars are equipped with light mail, shield and armed with lance and sword.
 {Serbian_Hussars_descr_short}Renown for their hit and run tactics, Hussars are equipped with light mail, shield, lance and sword.
@@ -1028,6 +1166,9 @@
 {Sherwood_Archers}Sherwood Archers
 {Sherwood_Archers_descr}Hailing from Sherwood forest and trained in the hunt from a young age, these deadly archers have now turned their skills to hunting men. Wielding a longbow made of yew, these archers can spit a man at a hundred paces, this, coupled with their ability to camouflage themselves in any terrain, means they can lay many a terrible ambush.
 {Sherwood_Archers_descr_short}Wielding a longbow made of yew, and able to hide in any terrain these men are excellent at ambushes, and are outstanding marksmen.
+{Sibyan_al_Khass}Sibyan al-Khass
+{Sibyan_al_Khass_descr}The main corps of the Egyptian army are the Royal Mamluks. These regular soldiers belong to the Sultan himself. A small group within the Royal Mamluks are the elite Sibyan al-Khass 'Young Guard. These elite troops fight with a composite bow as well as a sword, and are protected by plate mail.REQUIRES CAIRO 
+{Sibyan_al_Khass_descr_short}Meaning 'young guard', the Sibyan al-Khass are elite troops armed with composite bows, swords and plate mail armour.REQUIRES CAIRO 
 {Sicilian_Muslim_Archers}Muslim Archers
 {Sicilian_Muslim_Archers_descr}In cosmopolitan Sicily, Greeks, Muslims and Normans live side by side in relative harmony. Valuing the protection of the King, the Muslim community provides the army with excellent archers. They are skilled wielders of the eastern style composite bow. They also carry swords, and have light armour.
 {Sicilian_Muslim_Archers_descr_short}Troops comprised of Sicilian Muslims fighting for their city, equipped with bows and light armour.
@@ -1046,6 +1187,9 @@
 {Slav_Mercenaries}Slav Mercenaries
 {Slav_Mercenaries_descr}Various Slavic peoples live throughout Eastern Europe and the Balkans. Many seek escape from village life by adopting the life of a soldier in the army of anyone who will pay. Capable but poorly equipped warriors fighting in loose formation with short spears, they are best used in a supporting role.
 {Slav_Mercenaries_descr_short}Poorly trained and equipped mercenaries from Eastern Europe, armed with spears.
+{Sodeer_Archers}Sodeer Archers
+{Sodeer_Archers_descr}Sodeer, meaning soldier, are mercenaries hired for long-term duties in Outremer. Mercenaries play an essential role in the Crusader states as they partially compensate for the lack of feudal troops. This unit of experienced and well trained archers wear little to no armour and are armed with a self bow and a knife. 
+{Sodeer_Archers_descr_short}Mercenary archers hired by the Crusader States, wearing little to no armour and equipped with a self bow.
 {Southern_Peasants}Peasants
 {Southern_Peasants_descr}Life at the bottom rung of medieval society is not easy or healthy. In times of war peasants are forced from their farms and drafted into levies, and if they are lucky, given some kind of simple weapon to fight with. Unsurprisingly, peasants are undisciplined troops who are better at fleeing than they are fighting. 
 {Southern_Peasants_descr_short}In times of war peasants are forced from their farms and drafted into levies. Good cannon fodder.
@@ -1067,6 +1211,9 @@
 {Sudanese_Tribesmen_Mercs_descr_short}Tribesmen from Africa armed with swords
 {Sudanese_Tribesmen_descr}These African infantry fight in a loose formation with swords. Although lightly armed, they are fierce warriors in battle.
 {Sudanese_Tribesmen_descr_short}Tribesmen from Africa armed with swords.
+{Sultan_Saladin}Sultan Saladin
+{Sultan_Saladin_descr}The Sultan Saladin and his bodyguard. HERO ABILITY (RIGHTEOUSNESS OF FAITH): Saladin, as an extraordinarily pious and righteous leader of men, can once per battle unleash a righteous call to arms! This call inspires all those who still remain true to the faith and have not fled from combat. They are lifted to the highest state of morale possible and stay there while the call resonates in their hearts.
+{Sultan_Saladin_descr_short}The Sultan Saladin and his bodyguard.
 {Swiss_Guard}Swiss Guard
 {Swiss_Guard_descr}These troops are the Pope's loyal guard, tasked to guard the Holy Father both at home and when the Pope goes to battle. Fiercely loyal, these elite troops are armed with deadly halberds and protected by plate armour. Renowned all over Europe as excellent troops, the Swiss Guard are well suited to guarding such an important figure.
 {Swiss_Guard_descr_short}The Pope's personal loyal guard at home and in battle. Elite troops armed with halberds and protected by plate armour.
@@ -1085,9 +1232,24 @@
 {Swordstaff_Militia}Sword Staff Militia
 {Swordstaff_Militia_descr}The sword staff 'svaerdstav' is a simple Danish polearm constructed by placing a sword blade on the end of a pole. Utilised by militias who are formed and trained in this unique weapon, it allows them all the potential of a sword but at a greater length which is perfect for garrisoning a settlement. Being armoured in plate also helps.
 {Swordstaff_Militia_descr_short}Sword staff wielding militia armoured in plate.
+{Syrian_Militia}Syrian Militia
+{Syrian_Militia_descr}Syrian Militia are drawn from native Christian Syrians hired as mercenaries, and used extensively for garrison troops. Poorly trained, these light troops are used throughout the Crusader States. 
+{Syrian_Militia_descr_short}Militia troops drawn from local Syrian Christians, often used as garrison troops, armed with basic armour and a spear.
 {Tabardariyya}Tabardariyya
 {Tabardariyya_descr}The main role of the Tabardariyya is to guard the Sultan and the palace. Armed with a large axe, 'tabar', similar to a traditional Scandinavian axe. These well armoured, elite troops are formidable on the battle field too. 
 {Tabardariyya_descr_short}Normally found guarding the Sultan's palace, these axe-wielding warriors make excellent fighters.
+{Templar_Confrere_Knights}Templar Confrere Knights
+{Templar_Confrere_Knights_descr}Confrere Knights are knights who have joined the Templars for a short term and were permitted to marry in exchange for bequeathing half their estate upon their death. While equipped with a lighter lance than their lifetime serving brethren, these excellent heavy cavalry troops are no less fearsome in battle.
+{Templar_Confrere_Knights_descr_short}Knights serving in the Templars for a short term equipped with a lance, mace and heavy armour.
+{Templar_Crossbowmen}Templar Crossbowmen
+{Templar_Crossbowmen_descr}Mercenaries play a large role in providing troops in Outremer, including providing troops for the Knightly Orders .The Templars hired and retained for long periods of service experienced and trained crossbowmen. These troops swear an oath to the Order, which is binding for as long as their service is required and payed for.
+{Templar_Crossbowmen_descr_short}Elite mercenaries equipped with crossbows, fighting for the Knights Templar. Equipped with crossbows and light mail armour.
+{Templar_Gunners}Templar Gunners
+{Templar_Gunners_descr}These are the earliest form of personal firearm. Consisting of a rudimentary metal tube mounted on a wooden pole and awkwardly ignited, this basic design left little room for aiming. Causing more panic than actual damage, enemy troops are shaken by the noise and smoke made when firing. Given their short range, their firers need to be well armoured.
+{Templar_Gunners_descr_short}Earliest hand-held firearm unit. Causes more fear than actual damage. The short range of these weapons means these troops need to be well protected.
+{Templar_Sergeant}Templar Sergeants
+{Templar_Sergeant_descr}To be a Templar Knight one has to be the son or descendant of a knight. Templar Sergeants are professional soldiers unable to become Knights. Armed with a spear and light armour, these Templar brethren are very effective against cavalry and no less belligerent on the battlefield than their knightly brothers.
+{Templar_Sergeant_descr_short}Templar Sergeants are professional soldiers unable to join the ranks of the Templar Knights. Armed with a spear and light armour,  very effective against cavalry.
 {Tercio_Pikemen}Tercio Pikemen
 {Tercio_Pikemen_descr}Tercio Pikemen are well renowned, highly disciplined professional pike troops with a fierce reputation, often supported by gunners. These pikemen are superior fighters equipped with a pike and protected by good armour. Able to present a wall of deadly pikes at oncoming enemies, this unit will give any charging cavalry second thoughts.
 {Tercio_Pikemen_descr_short}Superior armoured pikemen, known for their discipline and determination.
@@ -1112,6 +1274,9 @@
 {Trebizond_Archers}Trebizond Archers
 {Trebizond_Archers_descr}Hailing from the edge of the Black Sea and plying their trade in the service of Byzantium, these men are recruited from the peasantry but well trained in the use of the composite bow. They are effective against light infantry and when grouped in large numbers can become a thorn in the side of any opponent.
 {Trebizond_Archers_descr_short}Hailing from the edge of the Black Sea, these well trained archers wear padded armour and use a composite bow.
+{Tripolitan_Squires}Squires of Tripoli
+{Tripolitan_Squires_descr}A Squire is a knight in training. These young men hail from the County of Tripoli, their task being to learn the military arts and see to their Knightly Lord's needs. A squire's equipment depends on what his Lord can afford. Light amour, a shield and a sword are the most common equipment of the average squire in Outremer.
+{Tripolitan_Squires_descr_short}Knights in training hailing from the County of Tripoli. Equipped with light armour, shield and a sword. Reliable heavy infantry.
 {Tsars_Guard}Tsars Guard
 {Tsars_Guard_descr}These men are the elite of Russian cavalry, being the household troops of the grand princes, or "Tsars" as they were later to style themselves. They are superbly protected by the finest Asian style lamellar armour, and along with their armoured horses, they are almost immune to the arrows of steppe horse archers. With spear and shield, they are formidable fighters in close combat.
 {Tsars_Guard_descr_short}Household troops of the Tsar, these are formidable, well armoured elite Eastern European heavy cavalry.
@@ -1121,6 +1286,9 @@
 {Turkish_Archers}Turkish Archers
 {Turkish_Archers_descr}A mixture of settled tribesmen, farmers and conquered peoples, these archers come from the bottom end of Turkish society. Used to hunting with a bow and living a harsh existence, these troops are reasonably hardy and proficient with their bows, but will melt away quickly in melee combat. Useful for harassing enemy archers and flanks.
 {Turkish_Archers_descr_short}Used to hunting with a bow these troops are proficient with their bows, but will melt away quickly in melee.
+{Turkish_Crossbowmen}Turkish Crossbowmen
+{Turkish_Crossbowmen_descr}The growing popularity of the crossbow in the Middle East, amongst both Christians and Muslims corresponds to heavier armour being employed more widely amongst troops, particularly cavalry. It is no surprise then to see the crossbow amongst the Seljuk, despite their reputation for light swift troops.
+{Turkish_Crossbowmen_descr_short}Basic Turkish infantry equipped with crossbows and padded armour.
 {Turkish_Horse_Archers}Turkish Horse Archers
 {Turkish_Horse_Archers_descr}Accustomed to life in the saddle these hardy bowmen come from the poorer level of nomad society and make excellent horse archers. Wearing little or no armour these highly manoeuvrable troops pepper the enemy with arrows, and use their speed to stay out of harm's way.
 {Turkish_Horse_Archers_descr_short}Lightly armoured troops, who can pepper the enemy with arrows and use their speed to stay out of harm's way.
@@ -1178,6 +1346,9 @@
 {Zweihander}Zwei Hander
 {Zweihander_descr}Literally meaning two hander’s, in German, in reference to the grip needed to wield their massive swords. Zweihanders are very heavily armoured foot troops who can cut a bloody swathe through nearly all infantry they will encounter. This unit is deployed by the Holy Roman Empire and often forms the vanguard when assaulting enemy battlelines.
 {Zweihander_descr_short}These well trained warriors are protected by plate armour and wield a mighty two-handed sword.
+{al_Ashair}al-'Ashair infantry
+{al_Ashair_descr}The al-Ashair, are nomadic Syro-Palestinians and Lebanese tribesmen hired mainly as infantry. Originally hired as mercenaries in times of war, they became regular soldiers as they settled down alongside their Chieftains, who had been given land to hold. These tribesmen are equipped with a spear, shield and wear little to no armour. 
+{al_Ashair_descr_short}Nomadic Syro-Palestinian and Lebanese Tribesmen, armed with spear and shield, and wearing little to no armour.
 {baghlah}Baghlah
 {baghlah_descr}First used in the 13th century, this vessel of Arabic origin, is used mainly as an ocean going cargo vessel. It can weigh up to 400 tonnes and enterprising captains can mount swivel cannons on her hull to ward off pirates. It can cross great distances, making it useful for ferrying troops and supplies to far away locations.
 {baghlah_descr_short}Arabic long distance sailing ship, with mounted swivel guns, useful for transporting troops and supplies.
@@ -1217,6 +1388,9 @@
 {holk}Holk
 {holk_descr}Constructed with strong and durable oak, the Holk is an 11th century development of the Cog. It can hold and carry more soldiers for added defence and has a fore and aft castle added, giving the archers a better firing platform, as well as a place to mount small artillery, enhancing its already deadly capabilities.
 {holk_descr_short}An upgraded Cog equipped with small artillery pieces in the fore and aft castles and a durable oak hull.
+{iqta'dar}iqta'dar
+{iqta'dar_descr}The Iqa'dar is made up of soldiers who owe military service to their Amir via a feudal-like system known as Iqta'. A system whereby Amirs pay their men (essentially vassals) via land, usually captured or uncultivated land. These troops make excellent cavalry archers, capable of firing deadly volleys into enemy formations while being protected by their mobility and heavy armour.
+{iqta'dar_descr_short}These troops are given land holdings by their Amir in exchange for military service. Hard hitting, well protected missile cavalry.
 {ladya}Lad'Ya
 {ladya_descr}The Lad’ya is a Russian ship akin to a Cog crossed with a Longboat. First created around Novgorod in the 9th century, its design soon spread throughout the region. Equipped to carry soldiers and catapults as well, this ship is a deadly vessel against ill defended targets.
 {ladya_descr_short}Early Russian ship created near Novgorod. Carries soldiers and catapults for raiding land and smashing sea targets.

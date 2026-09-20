@@ -6,6 +6,7 @@
 {FACTION_STANDING_PENALTY_PRE_DESCR}You will disappoint this faction.
 {FACTION_STANDING_REWARD_DESCR}You have genuinely improved your relations with this faction.
 {FACTION_STANDING_REWARD_PRE_DESCR}You will improve your relations with this faction.
+{HASHASHINS_GUILD_MISSION_SOURCE}Hashshashins' Guild
 {HUGE_PAPAL_STANDING_REWARD_DESCR}Your reputation with the Pope has improved enormously.
 {HUGE_PAPAL_STANDING_REWARD_PRE_DESCR}Your reputation with the Pope will improve enormously. 
 {LARGE_PAPAL_STANDING_PENALTY_DESCR}Your reputation with the Pope has suffered enormously.
@@ -16,6 +17,10 @@
 {MAJOR_EXPLORERS_GUILD_POINTS_PENALTY_PRE_DESCR}The Explorers' Guild will be very disappointed in you.
 {MAJOR_EXPLORERS_GUILD_POINTS_REWARD_DESCR}The Explorers' Guild is very happy with you.
 {MAJOR_EXPLORERS_GUILD_POINTS_REWARD_PRE_DESCR}The Explorers' Guild will be very happy with you
+{MAJOR_HASHASHIN_GUILD_POINTS_PENALTY_DESCR}The Hashshashins' Guild is extremely disappointed with you.
+{MAJOR_HASHASHIN_GUILD_POINTS_PENALTY_PRE_DESCR}The Hashshashins' Guild will be extremely disappointed with you.
+{MAJOR_HASHASHIN_GUILD_POINTS_REWARD_DESCR}The Hashshashins' Guild is extremely thankful to you.
+{MAJOR_HASHASHIN_GUILD_POINTS_REWARD_PRE_DESCR}The Hashshashins' Guild will be extremely thankful to you.
 {MASONS_GUILD_MISSION_SOURCE}Masons' Guild
 {MED_PAPAL_STANDING_PENALTY_DESCR}Your reputation with the Pope has suffered significantly.
 {MED_PAPAL_STANDING_PENALTY_PRE_DESCR}Your reputation with the Pope will suffer significantly.
@@ -25,6 +30,10 @@
 {MIN_ASSASSINS_GUILD_POINTS_PENALTY_PRE_DESCR}The Assassins' Guild will be not impressed with your efforts.
 {MIN_ASSASSINS_GUILD_POINTS_REWARD_DESCR}The Assassins' Guild appreciates your efforts.
 {MIN_ASSASSINS_GUILD_POINTS_REWARD_PRE_DESCR}The Assassins' Guild is far from impressed with your efforts.
+{MIN_HASHASHIN_GUILD_POINTS_PENALTY_DESCR}The Hashshashins' Guild is disappointed with you.
+{MIN_HASHASHIN_GUILD_POINTS_PENALTY_PRE_DESCR}The Hashshashins' Guild will be disappointed with you.
+{MIN_HASHASHIN_GUILD_POINTS_REWARD_DESCR}The Hashshashins' Guild is thankful to you.
+{MIN_HASHASHIN_GUILD_POINTS_REWARD_PRE_DESCR}The Hashshashins' Guild will be thankful to you.
 {MIN_MERCHANTS_GUILD_POINTS_PENALTY_DESCR}The Merchants' Guild is now disappointed with you.
 {MIN_MERCHANTS_GUILD_POINTS_PENALTY_PRE_DESCR}The Merchants' Guild will be disappointed with you.
 {MIN_MERCHANTS_GUILD_POINTS_REWARD_DESCR}The Merchants' Guild is appreciative of your efforts.
@@ -37,6 +46,10 @@
 {MIN_THIEFS_GUILD_POINTS_PENALTY_PRE_DESCR}The Thieves' Guild will be disappointed with you.
 {MIN_THIEFS_GUILD_POINTS_REWARD_DESCR}The Thieves' Guild is appreciative of your efforts.
 {MIN_THIEFS_GUILD_POINTS_REWARD_PRE_DESCR}The Thieves' Guild will be appreciative of your efforts.
+{MOD_HASHASHIN_GUILD_POINTS_PENALTY_DESCR}The Hashshashins' Guild is very disappointed with you.
+{MOD_HASHASHIN_GUILD_POINTS_PENALTY_PRE_DESCR}The Hashshashins' Guild will be very disappointed with you.
+{MOD_HASHASHIN_GUILD_POINTS_REWARD_DESCR}The Hashshashins' Guild is very thankful to you.
+{MOD_HASHASHIN_GUILD_POINTS_REWARD_PRE_DESCR}The Hashshashins' Guild will be very thankful to you.
 {MOD_MERCHANTS_GUILD_POINTS_PENALTY_DESCR}The Merchants' Guild is impressed with you.
 {MOD_MERCHANTS_GUILD_POINTS_PENALTY_PRE_DESCR}The Merchants' Guild will be impressed with you.
 {MOD_MERCHANTS_GUILD_POINTS_REWARD_DESCR}The Merchants' Guild is thankful to you.
@@ -48,6 +61,8 @@
 {SMALL_PAPAL_STANDING_PENALTY_PRE_DESCR}Your reputation with the Pope will not be as high as it once was.
 {SMALL_PAPAL_STANDING_REWARD_DESCR}Your reputation with the Pope has improved slightly.
 {SMALL_PAPAL_STANDING_REWARD_PRE_DESCR}Your reputation with the Pope will improve slightly.
+{ST_JOHNS_CHAPTER_HOUSE_MISSION_SOURCE}Knights Hospitaller Chapter House
+{TEMPLARS_CHAPTER_HOUSE_MISSION_SOURCE}Knights Templar Chapter House
 {VNV_ADORED_BY_POPE_DESCR}The Pope considers your leader one of his closest allies.
 {VNV_ADORED_BY_POPE_PRE_DESCR}Your leader will become one of the Pope's closest allies. 
 {VNV_POPES_ENFORCER_DESCR}Your leader is the steel gauntlet of the Pope's will.
@@ -263,6 +278,27 @@
 {guild_trade_agreement_PROPOSAL}We are losing lucrative trade opportunities, as we currently have no trade Agreement with this faction. The Guild would like you to obtain a trade agreement with these people.
 {guild_trade_agreement_SUCCESS}Congratulations, you have successfully obtained a Trade Agreement with this faction; the Guild owes you its thanks.
 {guild_trade_agreement_TITLE}Obtain Trade Agreement
+{hashashin_assassinate_general_EXPIRY_ALLIED}This man has become our ally; it is no longer necessary to remove him.
+{hashashin_assassinate_general_EXPIRY_DEATH}Your target has died; you are no longer required to assassinate him.
+{hashashin_assassinate_general_EXPIRY_HIDING}Your target has gone into hiding; you are no longer required to assassinate him.
+{hashashin_assassinate_general_FAILURE}You have failed to assassinate this individual; the Hashshashins' Guild is unimpressed with this outcome.
+{hashashin_assassinate_general_PROPOSAL}The Hashshashins' Guild would like you to use your trained operatives to remove this man from existence.
+{hashashin_assassinate_general_SUCCESS}Congratulations, you have successfully assassinated this individual; the Hashshashins' Guild is impressed by your ruthlessness.
+{hashashin_assassinate_general_TITLE}Assassinate General
+{hashashin_assassinate_heir_EXPIRY_ALLIED}This man has become our ally; it is no longer necessary to remove him.
+{hashashin_assassinate_heir_EXPIRY_DEATH}Your target has died; you are no longer required to assassinate him.
+{hashashin_assassinate_heir_EXPIRY_HIDING}Your target has gone into hiding; you are no longer required to assassinate him.
+{hashashin_assassinate_heir_FAILURE}You have failed to assassinate this individual; the Hashshashins' Guild is unimpressed with this outcome.
+{hashashin_assassinate_heir_PROPOSAL}The Hashshashins' Guild believe it would be a wise move to cut your rival's family line short. They suggest you assassinate this man, an heir to your rival's throne, and move one step closer to eliminating their existence altogether!
+{hashashin_assassinate_heir_SUCCESS}Congratulations, you have successfully assassinated this individual; the Hashshashins' Guild is impressed by your ruthlessness.
+{hashashin_assassinate_heir_TITLE}Assassinate Heir
+{hashashin_assassinate_leader_EXPIRY_ALLIED}This man has become our ally; it is no longer necessary to remove him.
+{hashashin_assassinate_leader_EXPIRY_DEATH}Your target has died; you are no longer required to assassinate him.
+{hashashin_assassinate_leader_EXPIRY_HIDING}Your target has gone into hiding; you are no longer required to assassinate him.
+{hashashin_assassinate_leader_FAILURE}You have failed to assassinate this individual; the Hashshashins' Guild is unimpressed with this outcome.
+{hashashin_assassinate_leader_PROPOSAL}The Hashshashins' Guild have identified that removing this key rival would increase your future successes in reclaiming the Holy Land for your people. They suggest you send one of your skilled assassins to relieve him of his station immediately.
+{hashashin_assassinate_leader_SUCCESS}Congratulations, you have successfully assassinated this individual; the Hashshashins' Guild is impressed by your ruthlessness.
+{hashashin_assassinate_leader_TITLE}Assassinate Leader
 {jihad_active_PROPOSAL}A Jihad is moving on this settlement to clean away the infidels. It is time to dispense rightful anger upon these snakes in men's clothing.
 {jihad_active_TARGET_PROPOSAL}A great Imam has called for the warriors of Islam to take up holy Jihad against your people and descend upon this settlement! The willingness of the Muslim soldiers' to die for such a cause make this one of the most terrifying perils the people of this place will ever face... Ensure they are prepared.
 {jihad_active_TITLE}A Jihad
@@ -299,6 +335,7 @@
 {recruit_priest_TITLE}Recruit a Priest
 {regicide_EXPIRY_DEATH}My 'noble' father has perished; you are no longer required to 'intervene'.
 {regicide_EXPIRY_HIDING}My father has gone to ground like the mole he is, you are no longer required to 'intervene'. 
+{regicide_EXPIRY_SOURCE_DEATH}The heir to this man's throne has passed away and you are no longer required to carry out his dark deeds. Of course, you wouldn't want your hard work to go to waste, and there's no harm in eliminating another rival.
 {regicide_FAILURE}You have failed to deal with my wretched father as I requested, I will not forget this.
 {regicide_PROPOSAL}My father is naught but a simpering fool. If left to rule he will bring only ruin to what should be my empire. Kill him so that I may lead my empire to greatness, and our empires will rule the world side by side as brothers. I am willing to generously 'recompense' you for your troubles.
 {regicide_SUCCESS}You have my endless gratitude; you have done both my people and myself a great favour. Your deed may go unsung but it will not go unrewarded, nor forgotten.
@@ -317,6 +354,30 @@
 {send_emissary_PROPOSAL}There are foreigners almost at our very gates and we know very little of them. The Council suggests you send an emissary to this faction and initiate diplomatic relations.
 {send_emissary_SUCCESS}Congratulations, you have successfully established diplomatic relations with these people; the Council admires the ease with which you handle diplomacy.
 {send_emissary_TITLE}Send Emissary
+{st_johns_acre_EXPIRY_ALLIED}An alliance has been forged with this settlement, the Order no longer requires you to take it.
+{st_johns_acre_EXPIRY_LOST}Another has taken this settlement, the Order no longer requires you to take it.
+{st_johns_acre_FAILURE}You have failed to take this settlement; the Order is disappointed with this lack of progress.
+{st_johns_acre_PROPOSAL}The Knights Hospitallers wish you to capture the City of Acre, so they may return to the Hospitaller's citadel that lies within the city's walls.
+{st_johns_acre_SUCCESS}Congratulations, you have successfully taken this settlement; the Order owes you its thanks.
+{st_johns_acre_TITLE}Capture Acre
+{st_johns_krak_de_chev_EXPIRY_ALLIED}An alliance has been forged with this settlement, the Order no longer requires you to take it.
+{st_johns_krak_de_chev_EXPIRY_LOST}Another has taken this settlement, the Order no longer requires you to take it.
+{st_johns_krak_de_chev_FAILURE}You have failed to take this settlement; the Order is disappointed with this lack of progress.
+{st_johns_krak_de_chev_PROPOSAL}The Knights Hospitaller wish you to reclaim their mighty fortress, the Krak de Chevaliers.
+{st_johns_krak_de_chev_SUCCESS}Congratulations, you have successfully taken this settlement; the Order owes you its thanks.
+{st_johns_krak_de_chev_TITLE}Reclaim Krak de Chevaliers
+{st_johns_limassol_EXPIRY_ALLIED}An alliance has been forged with this settlement, the Order no longer requires you to take it.
+{st_johns_limassol_EXPIRY_LOST}Another has taken this settlement, the Order no longer requires you to take it.
+{st_johns_limassol_FAILURE}You have failed to take this settlement; the Order is disappointed with this lack of progress.
+{st_johns_limassol_PROPOSAL}The Knights Hospitallers wish you to capture Limassol in Cyprus, so that they make take up residence in the nearby Kolossi Castle.
+{st_johns_limassol_SUCCESS}Congratulations, you have successfully taken this settlement; the Order owes you its thanks.
+{st_johns_limassol_TITLE}Capture Limassol
+{st_johns_recruit_priest_EXPIRY_LIMIT}It appears there are enough of God's soldiers for the time being. The Order no longer requires you to recruit a priest. 
+{st_johns_recruit_priest_EXPIRY_LOST}As you have lost this settlement, the Order no longer expects you to train a Priest there.
+{st_johns_recruit_priest_FAILURE}You have failed to train a Priest; the Order is disappointed with this result.
+{st_johns_recruit_priest_PROPOSAL}The Holy word requires another soldier of faith. The Knights Hospitaller requests that you train a Priest in this settlement.
+{st_johns_recruit_priest_SUCCESS}Congratulations, you have successfully trained a Priest, the Order is very pleased.
+{st_johns_recruit_priest_TITLE}Train Priest
 {steal_general_EXPIRY_GENERAL_DEATH}Alas this marriage can never be, the general has died, and nearly left our Princess a widow.
 {steal_general_EXPIRY_PRINCESS_DEATH}Alas, the poor Princess has died; we must call the marriage off.
 {steal_general_EXPIRY_PRINCESS_RETIRED}Our Princess is now too old to marry; her time would be better spent on more solitary and contemplative pursuits. The marriage is off.
@@ -326,3 +387,27 @@
 {steal_general_PROPOSAL}Lord %S has been beguiled by the lovely Princess %S. He is willing to pay a handsome dowry for her hand in marriage. The Council recommends you arrange this marriage as soon as possible.
 {steal_general_SUCCESS}Congratulations, you have successfully arranged the marriage we recommended. This union is sure to bear fruit in time.
 {steal_general_TITLE}A Proposal for the Princess's Hand
+{templars_acre_EXPIRY_ALLIED}An alliance has been forged with this settlement, the Order no longer requires you to take it.
+{templars_acre_EXPIRY_LOST}Another has taken this settlement, the Order no longer requires you to take it.
+{templars_acre_FAILURE}You have failed to take this settlement; the Order is disappointed with this lack of progress.
+{templars_acre_PROPOSAL}The Knights Templar wish you to capture the City of Acre, as it is vital they regain access to the city's underlying tunnel to their fortress.
+{templars_acre_SUCCESS}Congratulations, you have successfully taken this settlement; the Order owes you its thanks.
+{templars_acre_TITLE}Capture Acre
+{templars_jerusalem_EXPIRY_ALLIED}An alliance has been forged with this settlement, the Order no longer requires you to take it.
+{templars_jerusalem_EXPIRY_LOST}Another has taken this settlement, the Order no longer requires you to take it.
+{templars_jerusalem_FAILURE}You have failed to take this settlement; the Order is disappointed with this lack of progress.
+{templars_jerusalem_PROPOSAL}The Knights Templar wish you to reclaim Jerusalem for the glory of Christendom, and so that they may return to the Templum Domini.
+{templars_jerusalem_SUCCESS}Congratulations, you have successfully taken this settlement; the Order owes you its thanks.
+{templars_jerusalem_TITLE}Reclaim Jerusalem
+{templars_limassol_EXPIRY_ALLIED}An alliance has been forged with this settlement, the Order no longer requires you to take it.
+{templars_limassol_EXPIRY_LOST}Another has taken this settlement, the Order no longer requires you to take it.
+{templars_limassol_FAILURE}You have failed to take this settlement; the Order is disappointed with this lack of progress.
+{templars_limassol_PROPOSAL}The Knights Templar wish you to capture Limassol in Cyprus, so that they make take up residence in the nearby Kolossi Castle.
+{templars_limassol_SUCCESS}Congratulations, you have successfully taken this settlement; the Order owes you its thanks.
+{templars_limassol_TITLE}Capture Limassol
+{templars_recruit_merchant_EXPIRY_LIMIT}It appears there are sufficient merchants for the time being. The Order no longer requires you to recruit a merchant.
+{templars_recruit_merchant_EXPIRY_LOST}As you have lost this settlement, the Order no longer expects you to train a Merchant there.
+{templars_recruit_merchant_FAILURE}You have failed to train a Merchant; the Order is disappointed with this result.
+{templars_recruit_merchant_PROPOSAL}Three things are required to make war and conquest; gold, gold and more gold. The Knights Templar suggest that you train a Merchant in this settlement.
+{templars_recruit_merchant_SUCCESS}Congratulations, you have successfully trained a Merchant, the Order is very pleased.
+{templars_recruit_merchant_TITLE}Train Merchant

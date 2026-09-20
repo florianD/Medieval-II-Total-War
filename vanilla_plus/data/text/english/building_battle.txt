@@ -43,6 +43,7 @@
 {explorers_guild}Explorers' Guild
 {fairground}Fairground
 {garrison_quarters}Garrison Quarters
+{gatehouse}Gatehouse
 {gateway}Gateway
 {gm_alchemists_guild}Alchemists' Guild Headquarters
 {gm_assassins_guild}Assassins'' Guild Headquarters

@@ -94,21 +94,21 @@
 {alchemists_lab_desc}DO NOT TRANSLATE
 {alchemists_lab_desc_short}DO NOT TRANSLATE
 {alchemists_lab_eastern_european}Alchemist's Lab
-{alchemists_lab_eastern_european_desc}The art of alchemy is a dangerous one, where the practitioners expose themselves to great risk by performing hazardous experiments in either the name of science, or greed. With the inherent risks involved dealing with dangerous compounds, the Alchemist’s Lab serves as a place to for scholarly types to conduct tests in relative safety, as well as share their findings with one another to further the art.
+{alchemists_lab_eastern_european_desc}The art of alchemy is a dangerous one, where the practitioners expose themselves to great risk by performing hazardous experiments in either the name of science, or greed. With the inherent risks involved dealing with dangerous compounds, the Alchemist’s Lab serves as a place for scholarly types to conduct tests in relative safety, as well as share their findings with one another to further the art.
 {alchemists_lab_eastern_european_desc_short}An Alchemist's Lab allows gunpowder infantry to upgrade their weapons, as well as improve the education of characters created here.
 {alchemists_lab_greek}Alchemist's Lab
-{alchemists_lab_greek_desc}The art of alchemy is a dangerous one, where the practitioners expose themselves to great risk by performing hazardous experiments in either the name of science, or greed. With the inherent risks involved dealing with dangerous compounds, the Alchemist’s Lab serves as a place to for scholarly types to conduct tests in relative safety, as well as share their findings with one another to further the art.
+{alchemists_lab_greek_desc}The art of alchemy is a dangerous one, where the practitioners expose themselves to great risk by performing hazardous experiments in either the name of science, or greed. With the inherent risks involved dealing with dangerous compounds, the Alchemist’s Lab serves as a place for scholarly types to conduct tests in relative safety, as well as share their findings with one another to further the art.
 {alchemists_lab_greek_desc_short}An Alchemist's Lab allows gunpowder infantry to upgrade their weapons, as well as improve the education of characters created here.
 {alchemists_lab_mesoamerican_desc}DO NOT TRANSLATE - NOT MEANT FOR THIS CULTURE
 {alchemists_lab_mesoamerican_desc_short}DO NOT TRANSLATE - NOT MEANT FOR THIS CULTURE
 {alchemists_lab_middle_eastern}Alchemist's Lab
-{alchemists_lab_middle_eastern_desc}The art of alchemy is a dangerous one, where the practitioners expose themselves to great risk by performing hazardous experiments in either the name of science, or greed. With the inherent risks involved dealing with dangerous compounds, the Alchemist’s Lab serves as a place to for scholarly types to conduct tests in relative safety, as well as share their findings with one another to further the art.
+{alchemists_lab_middle_eastern_desc}The art of alchemy is a dangerous one, where the practitioners expose themselves to great risk by performing hazardous experiments in either the name of science, or greed. With the inherent risks involved dealing with dangerous compounds, the Alchemist’s Lab serves as a place for scholarly types to conduct tests in relative safety, as well as share their findings with one another to further the art.
 {alchemists_lab_middle_eastern_desc_short}An Alchemist's Lab allows gunpowder infantry to upgrade their weapons, as well as improve the education of characters created here.
 {alchemists_lab_northern_european}Alchemist's Lab
-{alchemists_lab_northern_european_desc}The art of alchemy is a dangerous one, where the practitioners expose themselves to great risk by performing hazardous experiments in either the name of science, or greed. With the inherent risks involved dealing with dangerous compounds, the Alchemist’s Lab serves as a place to for scholarly types to conduct tests in relative safety, as well as share their findings with one another to further the art.
+{alchemists_lab_northern_european_desc}The art of alchemy is a dangerous one, where the practitioners expose themselves to great risk by performing hazardous experiments in either the name of science, or greed. With the inherent risks involved dealing with dangerous compounds, the Alchemist’s Lab serves as a place for scholarly types to conduct tests in relative safety, as well as share their findings with one another to further the art.
 {alchemists_lab_northern_european_desc_short}An Alchemist's Lab allows gunpowder infantry to upgrade their weapons, as well as improve the education of characters created here.
 {alchemists_lab_southern_european}Alchemist's Lab
-{alchemists_lab_southern_european_desc}The art of alchemy is a dangerous one, where the practitioners expose themselves to great risk by performing hazardous experiments in either the name of science, or greed. With the inherent risks involved dealing with dangerous compounds, the Alchemist’s Lab serves as a place to for scholarly types to conduct tests in relative safety, as well as share their findings with one another to further the art.
+{alchemists_lab_southern_european_desc}The art of alchemy is a dangerous one, where the practitioners expose themselves to great risk by performing hazardous experiments in either the name of science, or greed. With the inherent risks involved dealing with dangerous compounds, the Alchemist’s Lab serves as a place for scholarly types to conduct tests in relative safety, as well as share their findings with one another to further the art.
 {alchemists_lab_southern_european_desc_short}An Alchemist's Lab allows gunpowder infantry to upgrade their weapons, as well as improve the education of characters created here.
 {alchemy_school}alchemy_school
 {alchemy_school_desc}DO NOT TRANSLATE
@@ -171,21 +171,21 @@
 {armourer_desc}DO NOT TRANSLATE
 {armourer_desc_short}DO NOT TRANSLATE
 {armourer_eastern_european}Armourer
-{armourer_eastern_european_desc}While a smith may spend most of his time mending tools, an Armourer is a specialist. Going beyond the normal skills of civilian metalwork he has the talent to create chainmail, for example. This is a labour-intensive business, as each ring needs to be individually linked to its neighbours - many hundreds of rings in even simple chain shirt!
+{armourer_eastern_european_desc}While a smith may spend most of his time mending tools, an Armourer is a specialist. Going beyond the normal skills of civilian metalwork he has the talent to create chainmail, for example. This is a labour-intensive business, as each ring needs to be individually linked to its neighbours - many hundreds of rings in even a simple chain shirt!
 {armourer_eastern_european_desc_short}An Armourer can notably improve the armour available to new and retrained units. 
 {armourer_greek}Armourer
-{armourer_greek_desc}While a smith may spend most of his time mending tools, an Armourer is a specialist. Going beyond the normal skills of civilian metalwork he has the talent to create chainmail, for example. This is a labour-intensive business, as each ring needs to be individually linked to its neighbours - many hundreds of rings in even simple chain shirt!
+{armourer_greek_desc}While a smith may spend most of his time mending tools, an Armourer is a specialist. Going beyond the normal skills of civilian metalwork he has the talent to create chainmail, for example. This is a labour-intensive business, as each ring needs to be individually linked to its neighbours - many hundreds of rings in even a simple chain shirt!
 {armourer_greek_desc_short}An Armourer can notably improve the armour available to new and retrained units. 
 {armourer_mesoamerican_desc}DO NOT TRANSLATE - NOT MEANT FOR THIS CULTURE
 {armourer_mesoamerican_desc_short}DO NOT TRANSLATE - NOT MEANT FOR THIS CULTURE
 {armourer_middle_eastern}Armourer
-{armourer_middle_eastern_desc}While a smith may spend most of his time mending tools, an Armourer is a specialist. Going beyond the normal skills of civilian metalwork he has the talent to create chainmail, for example. This is a labour-intensive business, as each ring needs to be individually linked to its neighbours - many hundreds of rings in even simple chain shirt!
+{armourer_middle_eastern_desc}While a smith may spend most of his time mending tools, an Armourer is a specialist. Going beyond the normal skills of civilian metalwork he has the talent to create chainmail, for example. This is a labour-intensive business, as each ring needs to be individually linked to its neighbours - many hundreds of rings in even a simple chain shirt!
 {armourer_middle_eastern_desc_short}An Armourer can notably improve the armour available to new and retrained units. 
 {armourer_northern_european}Armourer
-{armourer_northern_european_desc}While a smith may spend most of his time mending tools, an Armourer is a specialist. Going beyond the normal skills of civilian metalwork he has the talent to create chainmail, for example. This is a labour-intensive business, as each ring needs to be individually linked to its neighbours - many hundreds of rings in even simple chain shirt!
+{armourer_northern_european_desc}While a smith may spend most of his time mending tools, an Armourer is a specialist. Going beyond the normal skills of civilian metalwork, he has the talent to create chainmail, for example. This is a labour-intensive business, as each ring needs to be individually linked to its neighbours - many hundreds of rings in even a simple chain shirt!
 {armourer_northern_european_desc_short}An Armourer can notably improve the armour available to new and retrained units. 
 {armourer_southern_european}Armourer
-{armourer_southern_european_desc}While a smith may spend most of his time mending tools, an Armourer is a specialist. Going beyond the normal skills of civilian metalwork he has the talent to create chainmail, for example. This is a labour-intensive business, as each ring needs to be individually linked to its neighbours - many hundreds of rings in even simple chain shirt!
+{armourer_southern_european_desc}While a smith may spend most of his time mending tools, an Armourer is a specialist. Going beyond the normal skills of civilian metalwork he has the talent to create chainmail, for example. This is a labour-intensive business, as each ring needs to be individually linked to its neighbours - many hundreds of rings in even a simple chain shirt!
 {armourer_southern_european_desc_short}An Armourer can notably improve the armour available to new and retrained units. 
 {armoury}armoury
 {armoury_desc}DO NOT TRANSLATE
@@ -441,21 +441,21 @@
 {c_armourer_desc}DO NOT TRANSLATE
 {c_armourer_desc_short}DO NOT TRANSLATE
 {c_armourer_eastern_european}Armourer
-{c_armourer_eastern_european_desc}While a smith may spend most of his time mending tools, an Armourer is a specialist. Going beyond the normal skills of civilian metalwork he has the talent to create chainmail, for example. This is a labour-intensive business, as each ring needs to be individually linked to its neighbours - many hundreds of rings in even simple chain shirt!
+{c_armourer_eastern_european_desc}While a smith may spend most of his time mending tools, an Armourer is a specialist. Going beyond the normal skills of civilian metalwork he has the talent to create chainmail, for example. This is a labour-intensive business, as each ring needs to be individually linked to its neighbours - many hundreds of rings in even a simple chain shirt!
 {c_armourer_eastern_european_desc_short}An Armourer can notably improve the armour available to new and retrained units. 
 {c_armourer_greek}Armourer
-{c_armourer_greek_desc}While a smith may spend most of his time mending tools, an Armourer is a specialist. Going beyond the normal skills of civilian metalwork he has the talent to create chainmail, for example. This is a labour-intensive business, as each ring needs to be individually linked to its neighbours - many hundreds of rings in even simple chain shirt!
+{c_armourer_greek_desc}While a smith may spend most of his time mending tools, an Armourer is a specialist. Going beyond the normal skills of civilian metalwork he has the talent to create chainmail, for example. This is a labour-intensive business, as each ring needs to be individually linked to its neighbours - many hundreds of rings in even a simple chain shirt!
 {c_armourer_greek_desc_short}An Armourer can notably improve the armour available to new and retrained units. 
 {c_armourer_mesoamerican_desc}DO NOT TRANSLATE - NOT MEANT FOR THIS CULTURE
 {c_armourer_mesoamerican_desc_short}DO NOT TRANSLATE - NOT MEANT FOR THIS CULTURE
 {c_armourer_middle_eastern}Armourer
-{c_armourer_middle_eastern_desc}While a smith may spend most of his time mending tools, an Armourer is a specialist. Going beyond the normal skills of civilian metalwork he has the talent to create chainmail, for example. This is a labour-intensive business, as each ring needs to be individually linked to its neighbours - many hundreds of rings in even simple chain shirt!
+{c_armourer_middle_eastern_desc}While a smith may spend most of his time mending tools, an Armourer is a specialist. Going beyond the normal skills of civilian metalwork he has the talent to create chainmail, for example. This is a labour-intensive business, as each ring needs to be individually linked to its neighbours - many hundreds of rings in even a simple chain shirt!
 {c_armourer_middle_eastern_desc_short}An Armourer can notably improve the armour available to new and retrained units. 
 {c_armourer_northern_european}Armourer
-{c_armourer_northern_european_desc}While a smith may spend most of his time mending tools, an Armourer is a specialist. Going beyond the normal skills of civilian metalwork he has the talent to create chainmail, for example. This is a labour-intensive business, as each ring needs to be individually linked to its neighbours - many hundreds of rings in even simple chain shirt!
+{c_armourer_northern_european_desc}While a smith may spend most of his time mending tools, an Armourer is a specialist. Going beyond the normal skills of civilian metalwork he has the talent to create chainmail, for example. This is a labour-intensive business, as each ring needs to be individually linked to its neighbours - many hundreds of rings in even a simple chain shirt!
 {c_armourer_northern_european_desc_short}An Armourer can notably improve the armour available to new and retrained units. 
 {c_armourer_southern_european}Armourer
-{c_armourer_southern_european_desc}While a smith may spend most of his time mending tools, an Armourer is a specialist. Going beyond the normal skills of civilian metalwork he has the talent to create chainmail, for example. This is a labour-intensive business, as each ring needs to be individually linked to its neighbours - many hundreds of rings in even simple chain shirt!
+{c_armourer_southern_european_desc}While a smith may spend most of his time mending tools, an Armourer is a specialist. Going beyond the normal skills of civilian metalwork he has the talent to create chainmail, for example. This is a labour-intensive business, as each ring needs to be individually linked to its neighbours - many hundreds of rings in even a simple chain shirt!
 {c_armourer_southern_european_desc_short}An Armourer can notably improve the armour available to new and retrained units. 
 {c_ballista_range}c_ballista_range
 {c_ballista_range_desc}DO NOT TRANSLATE
@@ -527,10 +527,8 @@
 {c_cannon_foundry_greek_desc_short}A Cannon Foundry allows the construction of advanced siege artillery. 
 {c_cannon_foundry_mesoamerican_desc}DO NOT TRANSLATE - NOT MEANT FOR THIS CULTURE
 {c_cannon_foundry_mesoamerican_desc_short}DO NOT TRANSLATE - NOT MEANT FOR THIS CULTURE
-{c_cannon_foundry_middle_eastern}Cannon Foundry
 {c_cannon_foundry_middle_eastern_desc}As more advanced cannon designs involving longer, narrower barrels appeared, the need for cannon makers to experiment with alloy composition and casting grew proportionately, and thus the Cannon Foundry was born. With a larger, more efficient blast furnace, the cannon foundry is simply better equipped to produce specific alloy compositions in sizable amounts than the smaller cannon workshops.
 {c_cannon_foundry_middle_eastern_desc_short}A Cannon Foundry allows the construction of advanced siege artillery. 
-{c_cannon_foundry_northern_european}Cannon Foundry
 {c_cannon_foundry_northern_european_desc}As more advanced cannon designs involving longer, narrower barrels appeared, the need for cannon makers to experiment with alloy composition and casting grew proportionately, and thus the Cannon Foundry was born. With a larger, more efficient blast furnace, the cannon foundry is simply better equipped to produce specific alloy compositions in sizable amounts than the smaller cannon workshops.
 {c_cannon_foundry_northern_european_desc_short}A Cannon Foundry allows the construction of advanced siege artillery. 
 {c_cannon_foundry_southern_european}Cannon Foundry
@@ -546,10 +544,8 @@
 {c_cannon_maker_greek_desc_short}A Cannon Maker allows the construction of simple varieties of siege artillery.
 {c_cannon_maker_mesoamerican_desc}DO NOT TRANSLATE - NOT MEANT FOR THIS CULTURE
 {c_cannon_maker_mesoamerican_desc_short}DO NOT TRANSLATE - NOT MEANT FOR THIS CULTURE
-{c_cannon_maker_middle_eastern}Cannon Maker
 {c_cannon_maker_middle_eastern_desc}As the merits of cannons became evident on the battlefield, the demand for both new cannon designs and increased production brought about the need for the Cannon Maker. Unlike the gunsmith, a cannon maker has the space and equipment required to produce barrels of varying lengths and widths, paving the way for the advent of weapons such as the mortar, ribault, or the grand bombard.
 {c_cannon_maker_middle_eastern_desc_short}A Cannon Maker allows the construction of simple varieties of siege artillery.
-{c_cannon_maker_northern_european}Cannon Maker
 {c_cannon_maker_northern_european_desc}As the merits of cannons became evident on the battlefield, the demand for both new cannon designs and increased production brought about the need for the Cannon Maker. Unlike the gunsmith, a cannon maker has the space and equipment required to produce barrels of varying lengths and widths, paving the way for the advent of weapons such as the mortar, ribault, or the grand bombard.
 {c_cannon_maker_northern_european_desc_short}A Cannon Maker allows the construction of simple varieties of siege artillery.
 {c_cannon_maker_southern_european}Cannon Maker
@@ -861,10 +857,8 @@
 {c_royal_arsenal_greek_desc_short}A Royal Arsenal allows for the construction of the finest siege artillery available.
 {c_royal_arsenal_mesoamerican_desc}DO NOT TRANSLATE - NOT MEANT FOR THIS CULTURE
 {c_royal_arsenal_mesoamerican_desc_short}DO NOT TRANSLATE - NOT MEANT FOR THIS CULTURE
-{c_royal_arsenal_middle_eastern}Royal Arsenal
 {c_royal_arsenal_middle_eastern_desc}Any settlement with a Royal Arsenal shows evidence of a ruler that embraces the cutting edge of military technology. The standout development of the royal arsenal is the ability to produce cast-iron barrels, rather than forming them from wrought-iron bars, resulting in uniformly precise firing chambers. This in turn paves the way for the construction of the most powerful artillery to come from the medieval age.
 {c_royal_arsenal_middle_eastern_desc_short}A Royal Arsenal allows for the construction of the finest siege artillery available.
-{c_royal_arsenal_northern_european}Royal Arsenal
 {c_royal_arsenal_northern_european_desc}Any settlement with a Royal Arsenal shows evidence of a ruler that embraces the cutting edge of military technology. The standout development of the royal arsenal is the ability to produce cast-iron barrels, rather than forming them from wrought-iron bars, resulting in uniformly precise firing chambers. This in turn paves the way for the construction of the most powerful artillery to come from the medieval age.
 {c_royal_arsenal_northern_european_desc_short}A Royal Arsenal allows for the construction of the finest siege artillery available.
 {c_royal_arsenal_southern_european}Royal Arsenal
@@ -936,10 +930,8 @@
 {cannon_foundry_greek_desc_short}A Cannon Foundry allows the construction of advanced siege artillery. 
 {cannon_foundry_mesoamerican_desc}DO NOT TRANSLATE - NOT MEANT FOR THIS CULTURE
 {cannon_foundry_mesoamerican_desc_short}DO NOT TRANSLATE - NOT MEANT FOR THIS CULTURE
-{cannon_foundry_middle_eastern}Cannon Foundry
 {cannon_foundry_middle_eastern_desc}As more advanced cannon designs involving longer, narrower barrels appeared, the need for cannon makers to experiment with alloy composition and casting grew proportionately, and thus the Cannon Foundry was born. With a larger, more efficient blast furnace, the cannon foundry is simply better equipped to produce specific alloy compositions in sizable amounts than the smaller cannon workshops.
 {cannon_foundry_middle_eastern_desc_short}A Cannon Foundry allows the construction of advanced siege artillery. 
-{cannon_foundry_northern_european}Cannon Foundry
 {cannon_foundry_northern_european_desc}As more advanced cannon designs involving longer, narrower barrels appeared, the need for cannon makers to experiment with alloy composition and casting grew proportionately, and thus the Cannon Foundry was born. With a larger, more efficient blast furnace, the cannon foundry is simply better equipped to produce specific alloy compositions in sizable amounts than the smaller cannon workshops.
 {cannon_foundry_northern_european_desc_short}A Cannon Foundry allows the construction of advanced siege artillery. 
 {cannon_foundry_southern_european}Cannon Foundry
@@ -955,10 +947,8 @@
 {cannon_maker_greek_desc_short}A Cannon Maker allows the construction of simple varieties of siege artillery.
 {cannon_maker_mesoamerican_desc}DO NOT TRANSLATE - NOT MEANT FOR THIS CULTURE
 {cannon_maker_mesoamerican_desc_short}DO NOT TRANSLATE - NOT MEANT FOR THIS CULTURE
-{cannon_maker_middle_eastern}Cannon Maker
 {cannon_maker_middle_eastern_desc}As the merits of cannons became evident on the battlefield, the demand for both new cannon designs and increased production brought about the need for the Cannon Maker. Unlike the gunsmith, a cannon maker has the space and equipment required to produce barrels of varying lengths and widths, paving the way for the advent of weapons such as the mortar, ribault, or the grand bombard.
 {cannon_maker_middle_eastern_desc_short}A Cannon Maker allows the construction of simple varieties of siege artillery.
-{cannon_maker_northern_european}Cannon Maker
 {cannon_maker_northern_european_desc}As the merits of cannons became evident on the battlefield, the demand for both new cannon designs and increased production brought about the need for the Cannon Maker. Unlike the gunsmith, a cannon maker has the space and equipment required to produce barrels of varying lengths and widths, paving the way for the advent of weapons such as the mortar, ribault, or the grand bombard.
 {cannon_maker_northern_european_desc_short}A Cannon Maker allows the construction of simple varieties of siege artillery.
 {cannon_maker_southern_european}Cannon Maker
@@ -1327,7 +1317,7 @@
 {council_chambers_middle_eastern_desc}As a town grows in size, it tends to been seen as the hub of a variety of local districts, each of which will either be run by land owners, or the men appointed to govern the district in his lord’s name. These men regularly gather together in the Council Chambers, to ensure the parts of a region work together as a whole, and that issues facing the region are made apparent to the ruling class.
 {council_chambers_middle_eastern_desc_short}Council Chambers help to maintain law and order, as well as reduce squalor.
 {council_chambers_northern_european}Council Chambers
-{council_chambers_northern_european_desc}As a town grows in size, it tends to been seen as the hub of a variety of local districts, each of which will either be run by land owners, or the men appointed to govern the district in his lord’s name. These men regularly gather together in the Council Chambers, to ensure the parts of a region work together as a whole, and that issues facing the region are made apparent to the ruling class.
+{council_chambers_northern_european_desc}As a town grows in size, it tends to be seen as the hub of a variety of local districts, each of which will either be run by land owners, or the men appointed to govern the district in his lord’s name. These men regularly gather together in the Council Chambers, to ensure the parts of a region work together as a whole, and that issues facing the region are made apparent to the ruling class.
 {council_chambers_northern_european_desc_short}Council Chambers help to maintain law and order, as well as reduce squalor.
 {council_chambers_southern_european}Council Chambers
 {council_chambers_southern_european_desc}As a town grows in size, it tends to been seen as the hub of a variety of local districts, each of which will either be run by land owners, or the men appointed to govern the district in his lord’s name. These men regularly gather together in the Council Chambers, to ensure the parts of a region work together as a whole, and that issues facing the region are made apparent to the ruling class.
@@ -1422,9 +1412,9 @@
 {eastern_assassins_guild_greek_desc_short}DO NOT TRANSLATE - NOT MEANT FOR THIS CULTURE
 {eastern_assassins_guild_mesoamerican_desc}DO NOT TRANSLATE - NOT MEANT FOR THIS CULTURE
 {eastern_assassins_guild_mesoamerican_desc_short}DO NOT TRANSLATE - NOT MEANT FOR THIS CULTURE
-{eastern_assassins_guild_middle_eastern}Hashashim's Guild
-{eastern_assassins_guild_middle_eastern_desc}The Hashashim are a notorious order of killers who hail from the Alborz mountains, who are infamous for their brutal efficiency at doing away with people, regardless of their station or security. When the Hashashim choose to set up a chapter house in a city, it is a true testimony to the grim cunning and determination of the young men emerging from the streets. 
-{eastern_assassins_guild_middle_eastern_desc_short}A Hashashim's Guild house improves law and order in the region, and the quality of locally trained assassins.
+{eastern_assassins_guild_middle_eastern}Hashshashin's Guild
+{eastern_assassins_guild_middle_eastern_desc}The Hashshashin are a notorious order of killers who hail from the Alborz mountains, who are infamous for their brutal efficiency at doing away with people, regardless of their station or security. When the Hashshashin choose to set up a chapter house in a city, it is a true testimony to the grim cunning and determination of the young men emerging from the streets. 
+{eastern_assassins_guild_middle_eastern_desc_short}A Hashshashin's Guild house improves law and order in the region, and the quality of locally trained assassins.
 {eastern_assassins_guild_northern_european_desc}DO NOT TRANSLATE - NOT MEANT FOR THIS CULTURE
 {eastern_assassins_guild_northern_european_desc_short}DO NOT TRANSLATE - NOT MEANT FOR THIS CULTURE
 {eastern_assassins_guild_southern_european_desc}DO NOT TRANSLATE - NOT MEANT FOR THIS CULTURE
@@ -1612,21 +1602,12 @@
 {garrison_quarters_southern_european}Garrison Quarters
 {garrison_quarters_southern_european_desc}A soldier's life is a harsh one, and can be boring too when confined to a castle garrison. Training and selection of new recruits, however, is easier under the caring eye of a sergeant-at-arms, and the castle's stores can provide all the needed apparel of a warrior too.
 {garrison_quarters_southern_european_desc_short}A garrison is a source of much military wisdom and skill for new recruits to the army.
-{generic_dismantle}Demolish
-{generic_dismantle_desc}Pull this building down over several turns, recouping part of its cost.
-{generic_dismantle_desc_short}Pull this building down, recouping part of its cost.
-{generic_convert}Convert Culture
-{generic_convert_desc}Rebuild the whole settlement in your own people's style.
-{generic_convert_desc_short}Rebuild the settlement in your own style.
-{generic_downgrade}Downgrade
-{generic_downgrade_desc}Demote this building by one level, rebuilding it as the lesser version below.
-{generic_downgrade_desc_short}Demote this building by one level.
-{generic_sidegrade}Convert Building
-{generic_sidegrade_desc}Rebuild this captured building in your own people's style, at the same level.
-{generic_sidegrade_desc_short}Rebuild this building in your own style.
-{generic_repair}Repair
-{generic_repair_desc}Repair the damage to this building.
-{generic_repair_desc_short}Repair the damage to this building.
+{generic_dismantle}DISMANTLE
+{generic_dismantle_desc}DISMANTLE BUILDING, RECOUPING SOME OF THE VALUE OF THE BUILDING
+{generic_dismantle_desc_short}DISMANTLE BUILDING, RECOUPING SOME OF THE VALUE OF THE BUILDING
+{generic_repair}REPAIR
+{generic_repair_desc}REPAIR DAMAGE TO BUILDING
+{generic_repair_desc_short}REPAIR DAMAGE TO BUILDING
 {gm_alchemists_guild}gm_alchemists_guild
 {gm_alchemists_guild_desc}DO NOT TRANSLATE
 {gm_alchemists_guild_desc_short}DO NOT TRANSLATE
@@ -1675,9 +1656,9 @@
 {gm_eastern_assassins_guild_greek_desc_short}DO NOT TRANSLATE - NOT MEANT FOR THIS CULTURE
 {gm_eastern_assassins_guild_mesoamerican_desc}DO NOT TRANSLATE - NOT MEANT FOR THIS CULTURE
 {gm_eastern_assassins_guild_mesoamerican_desc_short}DO NOT TRANSLATE - NOT MEANT FOR THIS CULTURE
-{gm_eastern_assassins_guild_middle_eastern}Hashashim's Guild Headquarters
-{gm_eastern_assassins_guild_middle_eastern_desc}This is for all intents and purposes, the home of the Hashashim order, outside of their founding fortress base at Alamut castle. Here masters of the order train the most promising young members of the order’s darkest secrets of subtlety, sabotage, and murder. The presence of the Hashashim grandmasters shall earn notoriety for any city they call home.
-{gm_eastern_assassins_guild_middle_eastern_desc_short}The Hashashim's Guild Headquarters improves law and order in the region, and the quality of locally trained assassins.
+{gm_eastern_assassins_guild_middle_eastern}Hashshashin's Guild Headquarters
+{gm_eastern_assassins_guild_middle_eastern_desc}This is for all intents and purposes, the home of the Hashshashin order, outside of their founding fortress base at Alamut castle. Here masters of the order train the most promising young members of the order’s darkest secrets of subtlety, sabotage, and murder. The presence of the Hashshashin grandmasters shall earn notoriety for any city they call home.
+{gm_eastern_assassins_guild_middle_eastern_desc_short}The Hashshashin's Guild Headquarters improves law and order in the region, and the quality of locally trained assassins.
 {gm_eastern_assassins_guild_northern_european_desc}DO NOT TRANSLATE - NOT MEANT FOR THIS CULTURE
 {gm_eastern_assassins_guild_northern_european_desc_short}DO NOT TRANSLATE - NOT MEANT FOR THIS CULTURE
 {gm_eastern_assassins_guild_southern_european_desc}DO NOT TRANSLATE - NOT MEANT FOR THIS CULTURE
@@ -1786,21 +1767,21 @@
 {gm_theologians_guild_desc}DO NOT TRANSLATE
 {gm_theologians_guild_desc_short}DO NOT TRANSLATE
 {gm_theologians_guild_eastern_european}Theologians' Guild Headquarters
-{gm_theologians_guild_eastern_european_desc}The Theologians’ Guild Headquarters is considered the premiere authority of religious research and understanding, outside of that which is written in the Bible and deigned by the Papacy. Many of the most respected members of the clergy come here to better complete their understanding of God before meeting him, and their experience is evident in the clergy fortunate enough to study here.
+{gm_theologians_guild_eastern_european_desc}The Theologians’ Guild Headquarters is considered the premiere authority of religious research and understanding, outside of that which is written in the Bible and deigned by the Papacy. Many of the most respected members of the clergy come here to better complete their understanding of God before meeting him, and their experience is evident in the clergy fortune enough to study here.
 {gm_theologians_guild_eastern_european_desc_short}The Theologians' Guild Headquarters improves the quality of priests created in the region.
 {gm_theologians_guild_greek}Theologians' Guild Headquarters
-{gm_theologians_guild_greek_desc}The Theologians’ Guild Headquarters is considered the premiere authority of religious research and understanding, outside of that which is written in the Bible and deigned by the Papacy. Many of the most respected members of the clergy come here to better complete their understanding of God before meeting him, and their experience is evident in the clergy fortunate enough to study here.
+{gm_theologians_guild_greek_desc}The Theologians’ Guild Headquarters is considered the premiere authority of religious research and understanding, outside of that which is written in the Bible and deigned by the Papacy. Many of the most respected members of the clergy come here to better complete their understanding of God before meeting him, and their experience is evident in the clergy fortune enough to study here.
 {gm_theologians_guild_greek_desc_short}The Theologians' Guild Headquarters improves the quality of priests created in the region.
 {gm_theologians_guild_mesoamerican_desc}DO NOT TRANSLATE - NOT MEANT FOR THIS CULTURE
 {gm_theologians_guild_mesoamerican_desc_short}DO NOT TRANSLATE - NOT MEANT FOR THIS CULTURE
 {gm_theologians_guild_middle_eastern}Theologians' Guild Headquarters
-{gm_theologians_guild_middle_eastern_desc}The Theologians’ Guild Headquarters is considered the premiere authority of religious research and understanding, outside of that which is written in the Qur'an and deigned by the Papacy. Many of the most respected members of the clergy come here to better complete their understanding of God before meeting him, and their experience is evident in the clergy fortunate enough to study here.
+{gm_theologians_guild_middle_eastern_desc}The Theologians’ Guild Headquarters is considered the premiere authority of religious research and understanding, outside of that which is written in the Bible and deigned by the Papacy. Many of the most respected members of the clergy come here to better complete their understanding of God before meeting him, and their experience is evident in the clergy fortune enough to study here.
 {gm_theologians_guild_middle_eastern_desc_short}The Theologians' Guild Headquarters improves the quality of priests created in the region.
 {gm_theologians_guild_northern_european}Theologians' Guild Headquarters
-{gm_theologians_guild_northern_european_desc}The Theologians’ Guild Headquarters is considered the premiere authority of religious research and understanding, outside of that which is written in the Bible and deigned by the Papacy. Many of the most respected members of the clergy come here to better complete their understanding of God before meeting him, and their experience is evident in the clergy fortunate enough to study here.
+{gm_theologians_guild_northern_european_desc}The Theologians’ Guild Headquarters is considered the premiere authority of religious research and understanding, outside of that which is written in the Bible and deigned by the Papacy. Many of the most respected members of the clergy come here to better complete their understanding of God before meeting him, and their experience is evident in the clergy fortune enough to study here.
 {gm_theologians_guild_northern_european_desc_short}The Theologians' Guild Headquarters improves the quality of priests created in the region.
 {gm_theologians_guild_southern_european}Theologians' Guild Headquarters
-{gm_theologians_guild_southern_european_desc}The Theologians’ Guild Headquarters is considered the premiere authority of religious research and understanding, outside of that which is written in the Bible and deigned by the Papacy. Many of the most respected members of the clergy come here to better complete their understanding of God before meeting him, and their experience is evident in the clergy fortunate enough to study here.
+{gm_theologians_guild_southern_european_desc}The Theologians’ Guild Headquarters is considered the premiere authority of religious research and understanding, outside of that which is written in the Bible and deigned by the Papacy. Many of the most respected members of the clergy come here to better complete their understanding of God before meeting him, and their experience is evident in the clergy fortune enough to study here.
 {gm_theologians_guild_southern_european_desc_short}The Theologians' Guild Headquarters improves the quality of priests created in the region.
 {gm_thieves_guild}gm_thieves_guild
 {gm_thieves_guild_desc}DO NOT TRANSLATE
@@ -2112,7 +2093,7 @@
 {jama_mesoamerican_desc}DO NOT TRANSLATE - NOT MEANT FOR THIS CULTURE
 {jama_mesoamerican_desc_short}DO NOT TRANSLATE - NOT MEANT FOR THIS CULTURE
 {jama_middle_eastern}Jama
-{jama_middle_eastern_desc}Each Friday, men of Islam are expected to attend the khutba sermon, typically held in a larger mosque known as a Jama. Since the Friday prayer is a mandatory weekly sermon, many men travel to reach a Jama – Thus they are invariably huge, impressive structures, showing every sign of opulence and richness that Islamic mandate allows. 
+{jama_middle_eastern_desc}Each Friday, men of Islam are expected to attend the khutba sermon, typically held in a larger mosque known as a Jama. Since the Friday prayer is a mandatory weekly sermon, many men travel to reach a Jama – thus they are invariably huge, impressive structures, showing every sign of opulence and richness that Islamic mandate allows. 
 {jama_middle_eastern_desc_short}A Jama converts a decent percentage of the region to Islam, improves happiness, and allows the Imam agent.
 {jama_northern_european_desc}DO NOT TRANSLATE - NOT MEANT FOR THIS CULTURE
 {jama_northern_european_desc_short}DO NOT TRANSLATE - NOT MEANT FOR THIS CULTURE
@@ -2218,7 +2199,7 @@
 {knights_stables_middle_eastern_desc}Sheikh’s Stables are a significantly improvement over a basic set of stables. In addition to housing an entourage of mounts, extra buildings accompany the stable house, including a small smith and yard for shoeing or breaking in horses, as well as private quarters for the commanding officers of cavalry units stationed at the castle.
 {knights_stables_middle_eastern_desc_short}Sheikh's Stables allow for the recruitment of cavalry units.
 {knights_stables_northern_european}Knight's Stables
-{knights_stables_northern_european_desc}Knight’s Stables are a significantly improvement over a basic set of stables. In addition to housing an entourage of mounts, extra buildings accompany the stable house, including a small smith and yard for shoeing or breaking in horses, as well as private quarters for the commanding officers of cavalry units stationed at the castle.
+{knights_stables_northern_european_desc}Knight’s Stables are a significant improvement over a basic set of stables. In addition to housing an entourage of mounts, extra buildings accompany the stable house, including a small smith and yard for shoeing or breaking in horses, as well as private quarters for the commanding officers of cavalry units stationed at the castle.
 {knights_stables_northern_european_desc_short}Knight's Stables allow for the recruitment of cavalry units.
 {knights_stables_southern_european}Knight's Stables
 {knights_stables_southern_european_desc}Knight’s stables are a significantly improvement over a basic set of stables. In addition to housing an entourage of mounts, extra buildings accompany the stable house, including a small smith and yard for shoeing or breaking in horses, as well as private quarters for the commanding officers of cavalry units stationed at the castle.
@@ -2371,9 +2352,9 @@
 {m_eastern_assassins_guild_greek_desc_short}DO NOT TRANSLATE - NOT MEANT FOR THIS CULTURE
 {m_eastern_assassins_guild_mesoamerican_desc}DO NOT TRANSLATE - NOT MEANT FOR THIS CULTURE
 {m_eastern_assassins_guild_mesoamerican_desc_short}DO NOT TRANSLATE - NOT MEANT FOR THIS CULTURE
-{m_eastern_assassins_guild_middle_eastern}Master Hashashim's Guild
-{m_eastern_assassins_guild_middle_eastern_desc}The Master Hashashim's' Guild house is a den of delights and death. Promising young protégés are lured into the order here in ritualistic ceremonies, and turned into lethal weapons for the promise of paradise. It keeps the common folk watching their feet and backs, for fear of losing a friend or loved one to the order, one way or another.
-{m_eastern_assassins_guild_middle_eastern_desc_short}A Master Hashashim's Guild improves law and order in the region, and the quality of locally trained assassins.
+{m_eastern_assassins_guild_middle_eastern}Master Hashshashin's Guild
+{m_eastern_assassins_guild_middle_eastern_desc}The Master Hashshashin's' Guild house is a den of delights and death. Promising young protégés are lured into the order here in ritualistic ceremonies, and turned into lethal weapons for the promise of paradise. It keeps the common folk watching their feet and backs, for fear of losing a friend or loved one to the order, one way or another.
+{m_eastern_assassins_guild_middle_eastern_desc_short}A Master Hashshashin's Guild improves law and order in the region, and the quality of locally trained assassins.
 {m_eastern_assassins_guild_northern_european_desc}DO NOT TRANSLATE - NOT MEANT FOR THIS CULTURE
 {m_eastern_assassins_guild_northern_european_desc_short}DO NOT TRANSLATE - NOT MEANT FOR THIS CULTURE
 {m_eastern_assassins_guild_southern_european_desc}DO NOT TRANSLATE - NOT MEANT FOR THIS CULTURE
@@ -2393,7 +2374,7 @@
 {m_explorers_guild_middle_eastern_desc}A Master Explorers’ Guild house is always headed by a truly well-travelled scholar, who has seen enough of known world to be considered an authority on how to discover what lies beyond. He brings enough insight into a diversity of climates and how to best survive them to genuinely assist the way the local military trains its troops.
 {m_explorers_guild_middle_eastern_desc_short}A Master Explorers' Guild house increases the movement speed of those trained in the same settlement.
 {m_explorers_guild_northern_european}Master Explorers' Guild
-{m_explorers_guild_northern_european_desc}A Master Explorers’ Guild house is always headed by a truly well-travelled scholar, who has seen enough of known world to be considered an authority on how to discover what lies beyond. He brings enough insight into a diversity of climates and how to best survive them to genuinely assist the way the local military trains its troops.
+{m_explorers_guild_northern_european_desc}A Master Explorers’ Guild house is always headed by a truly well-travelled scholar, who has seen enough of the known world to be considered an authority on how to discover what lies beyond. He brings enough insight into a diversity of climates and how to best survive them to genuinely assist the way the local military trains its troops.
 {m_explorers_guild_northern_european_desc_short}A Master Explorers' Guild house increases the movement speed of those trained in the same settlement.
 {m_explorers_guild_southern_european}Master Explorers' Guild
 {m_explorers_guild_southern_european_desc}A Master Explorers’ Guild house is always headed by a truly well-travelled scholar, who has seen enough of known world to be considered an authority on how to discover what lies beyond. He brings enough insight into a diversity of climates and how to best survive them to genuinely assist the way the local military trains its troops.
@@ -2490,7 +2471,7 @@
 {m_theologians_guild_mesoamerican_desc}DO NOT TRANSLATE - NOT MEANT FOR THIS CULTURE
 {m_theologians_guild_mesoamerican_desc_short}DO NOT TRANSLATE - NOT MEANT FOR THIS CULTURE
 {m_theologians_guild_middle_eastern}Master Theologians' Guild
-{m_theologians_guild_middle_eastern_desc}A Master Theologians’ Guild house is a true centre of spiritual exploration. Here enough learned scholars that have explored a diversity of texts are gathered in one place to understand the nature of the spirit, and the holy word to make it a place on the map for any seeking religious enlightenment. This enlightenment can be seen in the men that are trained here.
+{m_theologians_guild_middle_eastern_desc}A Master Theologians’ Guild house is a true centre of spiritual exploration. Here enough learned scholars that have explored a diversity of texts are gathered in one place to understand the nature of the spirit, and the holy word to make it a place on the map for any seeking religious enlightenment. This enlightenment can be seen in the priests that are trained here.
 {m_theologians_guild_middle_eastern_desc_short}A Master Theologians' Guild improves the quality of priests created in the region.
 {m_theologians_guild_northern_european}Master Theologians' Guild
 {m_theologians_guild_northern_european_desc}A Master Theologians’ Guild house is a true centre of spiritual exploration. Here enough learned scholars that have explored a diversity of texts are gathered in one place to understand the nature of the spirit, and the holy word to make it a place on the map for any seeking religious enlightenment. This enlightenment can be seen in the priests that are trained here.
@@ -2550,12 +2531,12 @@
 {market_middle_eastern_desc_short}A Market brings wealth and many people into a town, some to sell, others willing to sell themselves and others…
 {market_name}Trade
 {market_northern_european}Market
-{market_northern_european_desc}As a town grows trade improves if merchants are encouraged to do business. A regulated market allows locals to trade without fear of fraud and brings in outsiders too. Many things are available, from the necessities of life to shiny trinkets to distract the simple, and information for the wise...
+{market_northern_european_desc}As a town grows, trade improves if merchants are encouraged to do business. A regulated market allows locals to trade without fear of fraud and brings in outsiders too. Many things are available, from the necessities of life to shiny trinkets to distract the simple, and information for the wise...
 {market_northern_european_desc_short}A Market brings wealth and many people into a town, some to sell, others willing to sell themselves and others…
 {market_southern_european}Market
 {market_southern_european_desc}As a town grows trade improves if merchants are encouraged to do business. A regulated market allows locals to trade without fear of fraud and brings in outsiders too. Many things are available, from the necessities of life to shiny trinkets to distract the simple, and information for the wise...
 {market_southern_european_desc_short}A Market brings wealth and many people into a town, some to sell, others willing to sell themselves and others…
-{marksmans_range}marksmans_range
+{marksmans_range}Marksman's Range
 {marksmans_range_desc}DO NOT TRANSLATE
 {marksmans_range_desc_short}DO NOT TRANSLATE
 {marksmans_range_eastern_european_desc}The Marksman’s Range is the solution for a lord who will not compromise on the quality of the missile units he fields. The building itself serves multiple roles as barracks, bowyer’s workshop, practise range, and a tactical training centre. Master marksmen have permanent lodgings here, providing expert training in the use of all ranged weapons, aside from those that rely on gunpowder.
@@ -2638,7 +2619,7 @@
 {mayors_palace_mesoamerican_desc}DO NOT TRANSLATE - NOT MEANT FOR THIS CULTURE
 {mayors_palace_mesoamerican_desc_short}DO NOT TRANSLATE - NOT MEANT FOR THIS CULTURE
 {mayors_palace_middle_eastern}Sultan's Palace
-{mayors_palace_middle_eastern_desc}The Sultan's Palace represents the final frontier in terms of ensuring that the people of a great city don’t forget just who is in charge. Though the Palace belongs to the Sultan, and he would stay there when visiting, it usually serves as home and office to whoever is appointed to govern the city.
+{mayors_palace_middle_eastern_desc}The Sultan's Palace represents the final frontier in terms of ensuring that the people of a great city don’t forget just who is in charge. Though the Palace belongs to the Sultan, and he would stay there when visiting, it usually serve as home and office to whoever is appointed to govern the city.
 {mayors_palace_middle_eastern_desc_short}A Sultan's Palace does wonders to help maintain law and order, and also reduces squalor considerably.
 {mayors_palace_northern_european}Mayor's Palace
 {mayors_palace_northern_european_desc}The Mayor’s Palace represents the final frontier in terms of ensuring that the people of a great city don’t forget just who is in charge. Though the Palace is where the Mayor resides within the city walls, the building is actually the property of the crown, and will serve as home and office to whoever is appointed to govern the city.
@@ -2807,7 +2788,7 @@
 {minareted_masjid_mesoamerican_desc}DO NOT TRANSLATE - NOT MEANT FOR THIS CULTURE
 {minareted_masjid_mesoamerican_desc_short}DO NOT TRANSLATE - NOT MEANT FOR THIS CULTURE
 {minareted_masjid_middle_eastern}Minareted Masjid
-{minareted_masjid_middle_eastern_desc}Typically, truly lavish decorations are only seen in a jama, but many larger Minareted Masjids are spiritual centre to enough Muslims to warrant more spectacular representation of the power of Islam. Though most of the opulence can be found within, it is the beaten domes of metal that adorn the minarets that serve as a shining beacon drawing Islam’s faithful to Salat.
+{minareted_masjid_middle_eastern_desc}Typically, truly lavish decorations are only seen in a jama, but many larger Minareted Masjids are spiritual centres to enough Muslims to warrant more spectacular representation of the power of Islam. Though most of the opulence can be found within, it is the beaten domes of metal that adorn the minarets that serve as a shining beacon drawing Islam’s faithful to Salat.
 {minareted_masjid_middle_eastern_desc_short}A Minareted Masjid converts a moderate percentage of the region to Islam, improves happiness, and allows the Imam agent.
 {minareted_masjid_northern_european_desc}DO NOT TRANSLATE - NOT MEANT FOR THIS CULTURE
 {minareted_masjid_northern_european_desc_short}DO NOT TRANSLATE - NOT MEANT FOR THIS CULTURE
@@ -3182,10 +3163,8 @@
 {royal_arsenal_greek_desc_short}A Royal Arsenal allows for the construction of the finest siege artillery available.
 {royal_arsenal_mesoamerican_desc}DO NOT TRANSLATE - NOT MEANT FOR THIS CULTURE
 {royal_arsenal_mesoamerican_desc_short}DO NOT TRANSLATE - NOT MEANT FOR THIS CULTURE
-{royal_arsenal_middle_eastern}Royal Arsenal
 {royal_arsenal_middle_eastern_desc}Any settlement with a Royal Arsenal shows evidence of a ruler that embraces the cutting edge of military technology. The standout development of the royal arsenal is the ability to produce cast-iron barrels, rather than forming them from wrought-iron bars, resulting in uniformly precise firing chambers. This in turn paves the way for the construction of the most powerful artillery to come from the medieval age.
 {royal_arsenal_middle_eastern_desc_short}A Royal Arsenal allows for the construction of the finest siege artillery available.
-{royal_arsenal_northern_european}Royal Arsenal
 {royal_arsenal_northern_european_desc}Any settlement with a Royal Arsenal shows evidence of a ruler that embraces the cutting edge of military technology. The standout development of the royal arsenal is the ability to produce cast-iron barrels, rather than forming them from wrought-iron bars, resulting in uniformly precise firing chambers. This in turn paves the way for the construction of the most powerful artillery to come from the medieval age.
 {royal_arsenal_northern_european_desc_short}A Royal Arsenal allows for the construction of the finest siege artillery available.
 {royal_arsenal_southern_european}Royal Arsenal
@@ -3373,7 +3352,7 @@
 {st_johns_hq_middle_eastern_desc_short}DO NOT TRANSLATE - NOT MEANT FOR THIS CULTURE
 {st_johns_hq_northern_european}St Johns' Headquarters
 {st_johns_hq_northern_european_desc}St Johns’ Headquarters is the home of the order of the Hospitaller Knights, an order that has grown to become one of the Papacy’s favoured. The Knights of St John were exempt from all authority short of the Pope himself, making the Grand Master of the order a very powerful man. 
-{st_johns_hq_northern_european_desc_short}The St. Johns' Headquarters allows the recruitment of veteran Hospitaller knights.
+{st_johns_hq_northern_european_desc_short}The St. Johns' Headquarters improves the health of this settlement's population, as well as the standard of cavalry trained throughout your lands.
 {st_johns_hq_southern_european}St Johns' Headquarters
 {st_johns_hq_southern_european_desc}St Johns’ Headquarters is the home of the order of the Hospitaller Knights, an order that has grown to become one of the Papacy’s favoured. The Knights of St John were exempt from all authority short of the Pope himself, making the Grand Master of the order a very powerful man. 
 {st_johns_hq_southern_european_desc_short}The St. Johns' Headquarters allows the recruitment of veteran Hospitaller knights.
@@ -3391,7 +3370,7 @@
 {st_johns_major_ch_middle_eastern_desc_short}DO NOT TRANSLATE - NOT MEANT FOR THIS CULTURE
 {st_johns_major_ch_northern_european}St Johns' Major Chapter House
 {st_johns_major_ch_northern_european_desc}Increased call for the order’s protection brought about the need for the St. Johns’ Major Chapter House. Though the Hospitallers’ reputation as warriors of salvation has not diminished, the reality is that the order has become a small military power in its own right. This is most evident by observing the prowess of the Knights trained at a Major Chapter House.
-{st_johns_major_ch_northern_european_desc_short}A St. Johns' Major Chapter House allows the recruitment of experienced Hospitaller knights.
+{st_johns_major_ch_northern_european_desc_short}A St. Johns' Major Chapter House improves the health of this settlement's population, as well as the standard of locally trained cavalry.
 {st_johns_major_ch_southern_european}St Johns' Major Chapter House
 {st_johns_major_ch_southern_european_desc}Increased call for the order’s protection brought about the need for the St. Johns’ Major Chapter House. Though the Hospitallers’ reputation as warriors of salvation has not diminished, the reality is that the order has become a small military power in its own right. This is most evident by observing the prowess of the Knights trained at a Major Chapter House.
 {st_johns_major_ch_southern_european_desc_short}A St. Johns' Major Chapter House allows the recruitment of experienced Hospitaller knights.
@@ -3409,7 +3388,7 @@
 {st_johns_minor_ch_middle_eastern_desc_short}DO NOT TRANSLATE - NOT MEANT FOR THIS CULTURE
 {st_johns_minor_ch_northern_european}St Johns' Minor Chapter House
 {st_johns_minor_ch_northern_european_desc}The Hospitaller Knights of Saint John have formed a rather progressive order. The first St. Johns’ Minor Chapter Houses were little more than a refuge for pilgrims, established by a devout group of Christian knights in the Holy Lands. As the order decided to get involved with escorting pilgrims, the chapter houses became barracks for its highly respected troops.
-{st_johns_minor_ch_northern_european_desc_short}A St. Johns' Minor Chapter House allows the recruitment of Hospitaller knights.
+{st_johns_minor_ch_northern_european_desc_short}A St. Johns' Minor Chapter House improves the health of this settlement's population, as well as the standard of locally trained cavalry.
 {st_johns_minor_ch_southern_european}St Johns' Minor Chapter House
 {st_johns_minor_ch_southern_european_desc}The Hospitaller Knights of Saint John have formed a rather progressive order. The first St. Johns’ Minor Chapter Houses were little more than a refuge for pilgrims, established by a devout group of Christian knights in the Holy Lands. As the order decided to get involved with escorting pilgrims, the chapter houses became barracks for its highly respected troops.
 {st_johns_minor_ch_southern_european_desc_short}A St. Johns' Minor Chapter House allows the recruitment of Hospitaller knights.
@@ -3546,7 +3525,7 @@
 {templars_hq_middle_eastern_desc_short}DO NOT TRANSLATE - NOT MEANT FOR THIS CULTURE
 {templars_hq_northern_european}Templars' Headquarters
 {templars_hq_northern_european_desc}The Templars’ Headquarters is the home to arguably the most powerful knightly orders within all of Christendom. Though the order’s path to greatness was forged in acts of benevolence, it is now almost a commercial organisation, with an incredibly dedicated and powerful armed force to ensure its legitimacy is not questioned too strongly. In some respects, this building is the palace of one of Europe’s powers.
-{templars_hq_northern_european_desc_short}The Templars' Headquarters allows the recruitment of veteran Templar knights.
+{templars_hq_northern_european_desc_short}The Templars' Headquarters increases the wealth of the settlement and improves the standard of cavalry trained throughout your lands.
 {templars_hq_southern_european}Templars' Headquarters
 {templars_hq_southern_european_desc}The Templars’ Headquarters is the home to arguably the most powerful knightly orders within all of Christendom. Though the order’s path to greatness was forged in acts of benevolence, it is now almost a commercial organisation, with an incredibly dedicated and powerful armed force to ensure its legitimacy is not questioned too strongly. In some respects, this building is the palace of one of Europe’s powers.
 {templars_hq_southern_european_desc_short}The Templars' Headquarters allows the recruitment of veteran Templar knights.
@@ -3564,7 +3543,7 @@
 {templars_major_ch_middle_eastern_desc_short}DO NOT TRANSLATE - NOT MEANT FOR THIS CULTURE
 {templars_major_ch_northern_european}Templars' Major Chapter House
 {templars_major_ch_northern_european_desc}A Templars’ Major Chapter House may be the home of an order founded upon virtues that include poverty, and it may still offer safety for the humblest of pilgrims, but it is no poor house. In fact, the building itself shows splashes of opulence and decadence, although this does nothing to change the respect shown for the warriors of the order trained here.
-{templars_major_ch_northern_european_desc_short}A Templars' Major Chapter House allows the recruitment of experienced Templar knights.
+{templars_major_ch_northern_european_desc_short}A Templars' Major Chapter House increases the wealth of the settlement and improves the standard of locally trained cavalry.
 {templars_major_ch_southern_european}Templars' Major Chapter House
 {templars_major_ch_southern_european_desc}A Templars’ Major Chapter House may be the home of an order founded upon virtues that include poverty, and it may still offer safety for the humblest of pilgrims, but it is no poor house. In fact, the building itself shows splashes of opulence and decadence, although this does nothing to change the respect shown for the warriors of the order trained here.
 {templars_major_ch_southern_european_desc_short}A Templars' Major Chapter House allows the recruitment of experienced Templar knights.
@@ -3582,7 +3561,7 @@
 {templars_minor_ch_middle_eastern_desc_short}DO NOT TRANSLATE - NOT MEANT FOR THIS CULTURE
 {templars_minor_ch_northern_european}Templars' Minor Chapter House
 {templars_minor_ch_northern_european_desc}The Knights Templar are an order of warrior monks that were formed to ensure the safe passage of European Christians to the Holy Lands. A Templars' Minor Chapter House is both a hostel to pilgrims and also a place of dedication to the pursuits of the order - spiritual, and martial.
-{templars_minor_ch_northern_european_desc_short}A Templars' Minor Chapter House allows the recruitment of Templar knights.
+{templars_minor_ch_northern_european_desc_short}A Templars' Minor Chapter House increases the wealth of the settlement and improves the standard of locally trained cavalry.
 {templars_minor_ch_southern_european}Templars' Minor Chapter House
 {templars_minor_ch_southern_european_desc}The Knights Templar are an order of warrior monks that were formed to ensure the safe passage of European Christians to the Holy Lands. A Templars' Minor Chapter House is both a hostel to pilgrims and also a place of dedication to the pursuits of the order - spiritual, and martial.
 {templars_minor_ch_southern_european_desc_short}A Templars' Minor Chapter House allows the recruitment of Templar knights.
@@ -3669,7 +3648,7 @@
 {theologians_guild_mesoamerican_desc}DO NOT TRANSLATE - NOT MEANT FOR THIS CULTURE
 {theologians_guild_mesoamerican_desc_short}DO NOT TRANSLATE - NOT MEANT FOR THIS CULTURE
 {theologians_guild_middle_eastern}Theologians' Guild
-{theologians_guild_middle_eastern_desc}Rather than a place of worship, the Theologians' Guild house is a place of study, contemplation and very careful debate. The building is essentially a place of research into holy texts, relics, writings and their meanings. Profound findings are rare, as theologians struggle with being dubbed heretics, which has the benefit of making men who study here pious and proper.
+{theologians_guild_middle_eastern_desc}Rather than a place of worship, the Theologians' Guild house is a place of study, contemplation and very careful debate. The building is essentially a place of research into holy texts, relics, writings and their meanings. Profound findings are rare, as theologians struggle with being dubbed heretics, which has the benefit of making priests who study here pious and proper.
 {theologians_guild_middle_eastern_desc_short}A Theologians' Guild house improves the quality of priests created in the region.
 {theologians_guild_northern_european}Theologians' Guild
 {theologians_guild_northern_european_desc}Rather than a place of worship, the Theologians' Guild house is a place of study, contemplation and very careful debate. The building is essentially a place of research into holy texts, relics, writings and their meanings. Profound findings are rare, as theologians struggle with being dubbed heretics, which has the benefit of making priests who study here pious and proper.
@@ -3938,3 +3917,12 @@
 {woodsmens_guild_northern_european_desc_short}A Woodsmen's Guild improves the quality of archers recruited from the region.
 {woodsmens_guild_southern_european_desc}DO NOT TRANSLATE - NOT MEANT FOR THIS CULTURE
 {woodsmens_guild_southern_european_desc_short}DO NOT TRANSLATE - NOT MEANT FOR THIS CULTURE
+{generic_convert}Convert Culture
+{generic_convert_desc}Rebuild the whole settlement in your own people's style.
+{generic_convert_desc_short}Rebuild the settlement in your own style.
+{generic_downgrade}Downgrade
+{generic_downgrade_desc}Demote this building by one level, rebuilding it as the lesser version below.
+{generic_downgrade_desc_short}Demote this building by one level.
+{generic_sidegrade}Convert Building
+{generic_sidegrade_desc}Rebuild this captured building in your own people's style, at the same level.
+{generic_sidegrade_desc_short}Rebuild this building in your own style.

@@ -211,6 +211,7 @@
 {Akil}Akil
 {Akouayn}Akouayn
 {Akylos}Akylos
+{Al-Afdal}Al-Afdal
 {Al-Assel}Al-Assel
 {Al-Fayed}Al-Fayed
 {Al-Fayyoumi}Al-Fayyoumi
@@ -269,7 +270,7 @@
 {Alexandros}Alexandros
 {Alexarchos}Alexarchos
 {Alexii}Alexii
-{Alexius}Alexius
+{Alexius}Alexios
 {Alfenius}Alfenius
 {Alferius}Alferius
 {Alfgarda}Alfgarda
@@ -300,6 +301,7 @@
 {Allen}Allen
 {Allthredge}Allthredge
 {Allucingoli}Allucingoli
+{Almaric}Almaric
 {Almerico}Almerico 
 {Aloeus}Aloeus
 {Alonso}Alonso
@@ -711,6 +713,7 @@
 {Baker}Baker
 {Bakka}Bakka
 {Balaeres}Balaeres
+{Balain}Balain
 {Balani}Balani
 {Balantes}Balantes
 {Balas}Balas
@@ -948,6 +951,7 @@
 {Bomilkar}Bomilkar
 {Bon}Bon
 {Bona}Bona
+{Boniface}Boniface
 {Bonomi}Bonomi
 {Bonus}Bonus
 {Borain}Borain
@@ -1516,6 +1520,7 @@
 {Dana}Danaë
 {Danaos}Danaos
 {Danaus}Danaus
+{Dandola}Dandolo
 {Dane}Dane
 {Danea}Danea
 {Danel}Danel
@@ -2292,6 +2297,7 @@
 {Gepaepyris}Gepaepyris
 {Geragio}Geragio
 {Geraint}Geraint
+{Gerard}Gerard
 {Gerardo}Gerardo
 {Gerbert}Gerbert
 {Gerburg}Gerburg
@@ -3318,6 +3324,7 @@
 {Longchamp}Longchamp
 {Longe}Longe
 {Longinus}Longinus
+{Longsword}Longsword
 {Longus}Longus
 {Lope}Lope
 {Lopez}Lopez
@@ -4036,6 +4043,7 @@
 {Nunez}Nuñez
 {Nuno}Nuno
 {Nuntius}Nuntius
+{Nur}Nur
 {Nuzhet}Nüzhet
 {Nyambek}Nyambek
 {Nyla}Nyla
@@ -4124,6 +4132,7 @@
 {Oremus}Oremus
 {Orestes}Orestes
 {Orgetorix}Orgetorix
+{Orguilleuse}Orguilleuse
 {Orhan}Orhan
 {Orion}Orion
 {Orithyia}Orithyia
@@ -4702,6 +4711,7 @@
 {Regaino}Regaino
 {Regillus}Regillus
 {Regina}Regina
+{Reginald}Reginald
 {Regnault}Regnault
 {Regulus}Regulus
 {Reingardis}Reingardis
@@ -4714,6 +4724,7 @@
 {Respigli}Respigli
 {Reudilo}Reudilo
 {Rex}Rex
+{Reynald}Reynald
 {Rhadamsades}Rhadamsades
 {Rhaskos}Rhaskos
 {Rhaskuporis}Rhaskuporis
@@ -6322,6 +6333,7 @@
 {der_Bartige}der Bartige
 {der_Rote}der Rote
 {der_Stoltze}der Stoltze
+{des_Moulins}des Moulins
 {des_Roches}des Roches
 {di_Augusta}di Augusta
 {di_Biagio}di Biagio
@@ -6351,6 +6363,7 @@
 {do_Vinhal}do Vinhal
 {du_Guesclin}du Guesclin
 {du_Lac}du Lac
+{ed-Din}ad-Din
 {el_Valiente}el Valiente
 {le_Brun}le Brun
 {le_Gris}le Gris
@@ -6561,6 +6574,7 @@
 {of_Champa}of Champa
 {of_Chaonia}of Chaonia
 {of_Charax}of Charax
+{of_Chatillon}of Chatillon
 {of_Chelm}of Chelm
 {of_Cheltenham}of Cheltenham
 {of_Chernigov}of Chernigov
@@ -6760,6 +6774,7 @@
 {of_Hurmuz}of Hurmuz
 {of_Hyrcania}of Hyrcania
 {of_Ibaconn}of Ibaconn
+{of_Ibelin}of Ibelin
 {of_Ibera}of Ibera
 {of_Ichnae}of Ichnae
 {of_Iconium}of Iconium
@@ -6862,6 +6877,7 @@
 {of_Lublin}of Lublin
 {of_Lugdunum}of Lugdunum
 {of_Luguvalium}of Luguvalium
+{of_Lusignan}of Lusignan
 {of_Lutetia}of Lutetia
 {of_Luxor}of Luxor
 {of_Lwow}of Lwow
@@ -6908,6 +6924,7 @@
 {of_Milovsh}of Milovsh
 {of_Mithradatkart}of Mithradatkart
 {of_Moguntiacum}of Moguntiacum
+{of_Montferrat}of Montferrat
 {of_Mopsuestia}of Mopsuestia
 {of_Moray}of Moray
 {of_Morgantina}of Morgantina
@@ -7064,6 +7081,7 @@
 {of_Rhodanus}of Rhodanus
 {of_Rhodes}of Rhodes
 {of_Rhosus}of Rhosus
+{of_Ridefort}of Ridefort
 {of_Rochester}of Rochester
 {of_Ross-shire}of Ross-shire
 {of_Rothwell}of Rothwell
@@ -7207,6 +7225,7 @@
 {of_Trencsen}of Trencsen
 {of_Treverorum}of Treverorum
 {of_Trimontium}of Trimontium
+{of_Tripoli}of Tripoli
 {of_Tripolis}of Tripolis
 {of_Trogir}of Trogir
 {of_Trubetsk}of Trubetsk
