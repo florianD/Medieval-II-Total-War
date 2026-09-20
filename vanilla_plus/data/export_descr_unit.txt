@@ -4441,7 +4441,7 @@ voice_type       Light
 banner faction   main_missile
 banner holy      crusade
 soldier          Musketeers, 48, 0, 0.8
-attributes       sea_faring, hide_forest, can_withdraw, gunpowder_unit, fire_by_rank, start_not_skirmishing, gunmen, mercenary_unit
+attributes       sea_faring, hide_forest, can_withdraw, gunpowder_unit, fire_by_rank, start_not_skirmishing, gunmen
 formation        1.2, 1.2, 2.4, 2.4, 3, square
 stat_health      1, 0
 stat_pri         14, 1, musket_bullet, 180, 20, missile, missile_gunpowder, piercing, none, musket_shot_set, 25, 1
@@ -4462,8 +4462,41 @@ stat_food        60, 300
 stat_cost        1, 540, 150, 65, 50, 540, 4, 130
 armour_ug_levels 0, 2
 armour_ug_models Musketeers, Musketeers_ug1
-ownership        spain, portugal, milan, venice, france, hre, england, poland, hungary, sicily, denmark, papal_states, slave
+ownership        spain, portugal, milan, venice, france, hre, england, poland, hungary, sicily, denmark, papal_states
 era 2            spain, portugal, milan, venice, france, hre, england, poland, hungary, sicily, denmark, papal_states
+;unit_info        6, 14, 3
+ 
+ 
+type             Mercenary Musketeers
+dictionary       Mercenary_Musketeers      ; Mercenary Musketeers
+category         infantry
+class            missile
+voice_type       Light
+banner faction   main_missile
+banner holy      crusade
+soldier          Musketeers, 48, 0, 0.8
+attributes       sea_faring, hide_forest, can_withdraw, gunpowder_unit, fire_by_rank, start_not_skirmishing, gunmen, mercenary_unit
+formation        1.2, 1.2, 2.4, 2.4, 3, square
+stat_health      1, 0
+stat_pri         14, 1, musket_bullet, 180, 20, missile, missile_gunpowder, piercing, none, musket_shot_set, 25, 1
+;stat_pri_ex      0, 0, 20
+stat_pri_attr    ap
+stat_sec         6, 1, no, 0, 0, melee, melee_blade, piercing, sword, 25, 1
+;stat_sec_ex      0, 0, 0
+stat_sec_attr    no
+stat_pri_armour  0, 3, 0, flesh
+;stat_armour_ex   0, 5, 0, 0, 3, 0, 0, flesh
+stat_sec_armour  0, 0, flesh
+stat_heat        2
+stat_ground      1, -2, 3, 2
+stat_mental      3, normal, trained
+stat_charge_dist 30
+stat_fire_delay  0
+stat_food        60, 300
+stat_cost        1, 540, 150, 65, 50, 540, 4, 130
+armour_ug_levels 0, 2
+armour_ug_models Mercenary_Musketeers, Mercenary_Musketeers_ug1
+ownership        slave
 ;unit_info        6, 14, 3
  
  

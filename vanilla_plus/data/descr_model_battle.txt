@@ -3704,8 +3704,6 @@ texture				hungary, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_ve
 texture				denmark, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_venice.texture, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_normal.texture, unit_sprites/venice_Musketeers_sprite.spr
 texture				sicily, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_portugal.texture, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_normal.texture, unit_sprites/portugal_Musketeers_sprite.spr
 texture				papal_states, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_portugal.texture, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_normal.texture, unit_sprites/portugal_Musketeers_sprite.spr
-texture				slave, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_portugal.texture, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_normal.texture, unit_sprites/portugal_Musketeers_sprite.spr
-texture				merc, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_portugal.texture, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_normal.texture, unit_sprites/portugal_Musketeers_sprite.spr
 texture_attachments		spain, unit_models/AttachmentSets/Final European CB Gun_spain_diff.texture, unit_models/AttachmentSets/Final European CB Gun_spain_norm.texture
 texture_attachments		portugal, unit_models/AttachmentSets/Final European CB Gun_portugal_diff.texture, unit_models/AttachmentSets/Final European CB Gun_portugal_norm.texture
 texture_attachments		milan, unit_models/AttachmentSets/Final European CB Gun_milan_diff.texture, unit_models/AttachmentSets/Final European CB Gun_milan_norm.texture
@@ -3718,8 +3716,6 @@ texture_attachments		hungary, unit_models/AttachmentSets/Final European CB Gun_v
 texture_attachments		denmark, unit_models/AttachmentSets/Final European CB Gun_venice_diff.texture, unit_models/AttachmentSets/Final European CB Gun_venice_norm.texture
 texture_attachments		sicily, unit_models/AttachmentSets/Final European CB Gun_portugal_diff.texture, unit_models/AttachmentSets/Final European CB Gun_portugal_norm.texture
 texture_attachments		papal_states, unit_models/AttachmentSets/Final European CB Gun_portugal_diff.texture, unit_models/AttachmentSets/Final European CB Gun_portugal_norm.texture
-texture_attachments		slave, unit_models/AttachmentSets/Final European CB Gun_portugal_diff.texture, unit_models/AttachmentSets/Final European CB Gun_portugal_norm.texture
-texture_attachments		merc, unit_models/AttachmentSets/Final European CB Gun_portugal_diff.texture, unit_models/AttachmentSets/Final European CB Gun_portugal_norm.texture
 torch				16, -0.09, 0, 0, -0.35, 0.8, 0.6
 
 type				musketeers_ug1
@@ -3742,8 +3738,6 @@ texture				hungary, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_ve
 texture				denmark, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_venice.texture, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_normal.texture, unit_sprites/venice_Musketeers_ug1_sprite.spr
 texture				sicily, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_portugal.texture, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_normal.texture, unit_sprites/portugal_Musketeers_ug1_sprite.spr
 texture				papal_states, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_portugal.texture, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_normal.texture, unit_sprites/portugal_Musketeers_ug1_sprite.spr
-texture				slave, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_portugal.texture, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_normal.texture, unit_sprites/portugal_Musketeers_ug1_sprite.spr
-texture				merc, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_portugal.texture, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_normal.texture, unit_sprites/portugal_Musketeers_ug1_sprite.spr
 texture_attachments		spain, unit_models/AttachmentSets/Final European CB Gun_spain_diff.texture, unit_models/AttachmentSets/Final European CB Gun_spain_norm.texture
 texture_attachments		portugal, unit_models/AttachmentSets/Final European CB Gun_portugal_diff.texture, unit_models/AttachmentSets/Final European CB Gun_portugal_norm.texture
 texture_attachments		milan, unit_models/AttachmentSets/Final European CB Gun_milan_diff.texture, unit_models/AttachmentSets/Final European CB Gun_milan_norm.texture
@@ -3756,6 +3750,32 @@ texture_attachments		hungary, unit_models/AttachmentSets/Final European CB Gun_v
 texture_attachments		denmark, unit_models/AttachmentSets/Final European CB Gun_venice_diff.texture, unit_models/AttachmentSets/Final European CB Gun_venice_norm.texture
 texture_attachments		sicily, unit_models/AttachmentSets/Final European CB Gun_portugal_diff.texture, unit_models/AttachmentSets/Final European CB Gun_portugal_norm.texture
 texture_attachments		papal_states, unit_models/AttachmentSets/Final European CB Gun_portugal_diff.texture, unit_models/AttachmentSets/Final European CB Gun_portugal_norm.texture
+torch				16, -0.09, 0, 0, -0.35, 0.8, 0.6
+
+type				mercenary_musketeers
+skeleton			MTW2_Fast_Musket, MTW2_Non_Shield_Fast
+skeleton_attachment_primary	MTW2_Musket_Primary
+skeleton_attachment_secondary	MTW2_Sword_Primary
+mesh				unit_models/_Units/RN_Light_Lmail/musketeers_lod0.mesh, 11
+mesh				unit_models/_Units/RN_Light_Lmail/musketeers_lod1.mesh, 30
+mesh				unit_models/_Units/RN_Light_Lmail/musketeers_lod2.mesh, 50
+mesh				unit_models/_Units/RN_Light_Lmail/musketeers_lod3.mesh, 80
+texture				slave, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_portugal.texture, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_normal.texture, unit_sprites/portugal_Musketeers_sprite.spr
+texture				merc, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_portugal.texture, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_normal.texture, unit_sprites/portugal_Musketeers_sprite.spr
+texture_attachments		slave, unit_models/AttachmentSets/Final European CB Gun_portugal_diff.texture, unit_models/AttachmentSets/Final European CB Gun_portugal_norm.texture
+texture_attachments		merc, unit_models/AttachmentSets/Final European CB Gun_portugal_diff.texture, unit_models/AttachmentSets/Final European CB Gun_portugal_norm.texture
+torch				16, -0.09, 0, 0, -0.35, 0.8, 0.6
+
+type				mercenary_musketeers_ug1
+skeleton			MTW2_Fast_Musket, MTW2_Non_Shield_Fast
+skeleton_attachment_primary	MTW2_Musket_Primary
+skeleton_attachment_secondary	MTW2_Sword_Primary
+mesh				unit_models/_Units/RN_Light_Lmail/musketeers_ug1_lod0.mesh, 11
+mesh				unit_models/_Units/RN_Light_Lmail/musketeers_ug1_lod1.mesh, 30
+mesh				unit_models/_Units/RN_Light_Lmail/musketeers_ug1_lod2.mesh, 50
+mesh				unit_models/_Units/RN_Light_Lmail/musketeers_ug1_lod3.mesh, 80
+texture				slave, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_portugal.texture, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_normal.texture, unit_sprites/portugal_Musketeers_ug1_sprite.spr
+texture				merc, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_portugal.texture, unit_models/_Units/RN_Light_Lmail/textures/RN_Light_Lmail_normal.texture, unit_sprites/portugal_Musketeers_ug1_sprite.spr
 texture_attachments		slave, unit_models/AttachmentSets/Final European CB Gun_portugal_diff.texture, unit_models/AttachmentSets/Final European CB Gun_portugal_norm.texture
 texture_attachments		merc, unit_models/AttachmentSets/Final European CB Gun_portugal_diff.texture, unit_models/AttachmentSets/Final European CB Gun_portugal_norm.texture
 torch				16, -0.09, 0, 0, -0.35, 0.8, 0.6

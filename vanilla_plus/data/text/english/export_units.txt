@@ -923,6 +923,9 @@
 {Musketeers}Musketeers
 {Musketeers_descr}An improvement on the arquebus, the musket is longer, more accurate and fires a heavier shot that can pierce any armour. Like the arquebus, it fires using a matchlock mechanism, a smouldering length of rope as a fuse that ignites the gunpowder in the pan. The noise, smoke and lethality of this weapon causes fear in its targets
 {Musketeers_descr_short}The musket is an improved form of firearm. Firing a heavy shot to a good range, it causes fear, and can pierce any armour.
+{Mercenary_Musketeers}Mercenary Musketeers
+{Mercenary_Musketeers_descr}An improvement on the arquebus, the musket is longer, more accurate and fires a heavier shot that can pierce any armour. Like the arquebus, it fires using a matchlock mechanism, a smouldering length of rope as a fuse that ignites the gunpowder in the pan. The noise, smoke and lethality of this weapon causes fear in its targets
+{Mercenary_Musketeers_descr_short}The musket is an improved form of firearm. Firing a heavy shot to a good range, it causes fear, and can pierce any armour.
 {Mutatawwi'a}Mutatawwi'a
 {Mutatawwi'a_descr}Mutatawwi'a are religious troops who inspired by their faith have volunteered to fight. Untrained, reckless and fanatical, these troops are poorly equipped with hand weapons such as cudgels. These wild warriors are more of a mob rather than a disciplined unit, eager to get into hand to hand with their enemy no matter the odds.
 {Mutatawwi'a_descr_short}Wild and fanatical religious volunteers. Untrained and armed only with their zeal and a crude weapon these troops are reckless.
