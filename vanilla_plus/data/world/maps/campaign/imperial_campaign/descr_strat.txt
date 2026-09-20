@@ -7,8 +7,6 @@ playable
 	hre
 	spain
 	venice
-end
-unlockable
 	sicily
 	milan
 	scotland
@@ -21,6 +19,8 @@ unlockable
 	portugal
 	poland
 	hungary
+end
+unlockable
 end
 nonplayable
 	papal_states
@@ -1648,6 +1648,7 @@ unit		SE Spear Militia				exp 1 armour 0 weapon_lvl 0
 unit		SE Town Militia				exp 1 armour 0 weapon_lvl 0
 unit		Southern Peasants				exp 1 armour 0 weapon_lvl 0
 unit		Trebizond Archers				exp 1 armour 0 weapon_lvl 0
+unit		Greek Firethrower			exp 0 armour 0 weapon_lvl 0
 
 character	Evangelos Exotrochos, named character, male, age 34, x 216, y 88 
 traits LoyaltyStarter 1 , GoodCommander 1 , Intelligent 1 , GoodAdministrator 2 , ReligionStarter 1 
@@ -1669,6 +1670,7 @@ unit		Byzantine Spearmen				exp 0 armour 0 weapon_lvl 0
 unit		Byzantine Spearmen				exp 0 armour 0 weapon_lvl 0
 unit		Trebizond Archers				exp 1 armour 0 weapon_lvl 0
 unit		Trebizond Archers				exp 1 armour 0 weapon_lvl 0
+unit		Greek Firethrower			exp 0 armour 0 weapon_lvl 0
 
 character	Theotokios Olaskos, named character, male, age 31, x 190, y 85 
 traits Intelligent 1 , GoodAdministrator 3 , ReligionStarter 1 , LoyaltyStarter 1
