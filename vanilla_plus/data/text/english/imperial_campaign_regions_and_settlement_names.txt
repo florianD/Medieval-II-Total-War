@@ -1,0 +1,225 @@
+¬ M2TW strings
+{Acre}Acre
+{Acre_Province}Acre Region
+{Adana}Adana
+{Adana_Province}Adana Region
+{Ajaccio}Ajaccio
+{Ajaccio_Province}Ajaccio Region
+{Aleppo}Aleppo
+{Aleppo_Province}Aleppo Region
+{Alexandria}Alexandria
+{Alexandria_Province}Alexandria Region
+{Algiers}Algiers
+{Algiers_Province}Algiers Region
+{Angers}Angers
+{Angers_Province}Angers Region
+{Antioch}Antioch
+{Antioch_Province}Antioch Region
+{Antwerp}Antwerp
+{Antwerp_Province}Antwerp Region
+{Arguin}Arguin
+{Arguin_Province}Arguin Region
+{Arhus}Arhus
+{Arhus_Province}Arhus Region
+{Baghdad}Baghdad
+{Baghdad_Province}Baghdad Region
+{Bern}Bern
+{Bern_Province}Bern Region
+{Bologna}Bologna
+{Bologna_Province}Bologna Region
+{Bordeaux}Bordeaux
+{Bordeaux_Province}Bordeaux Region
+{Bran}Bran
+{Bran_Province}Bran Region
+{Brazil}Brazil
+{Breslau}Breslau
+{Breslau_Province}Breslau Region
+{Bruges}Bruges
+{Bruges_Province}Bruges Region
+{Bucharest}Bucharest
+{Bucharest_Province}Bucharest Region
+{Budapest}Budapest
+{Budapest_Province}Budapest Region
+{Bulgar}Bulgar
+{Caen}Caen
+{Caen_Province}Caen Region
+{Caernarvon}Caernarvon
+{Caernarvon_Province}Caernarvon Region
+{Caesarea}Caesarea
+{Caesarea_Province}Caesarea Region
+{Caffa}Caffa
+{Caffa_Province}Caffa Province
+{Cagliari}Cagliari
+{Cagliari_Province}Cagliari Region
+{Cairo}Cairo
+{Cairo_Province}Cairo Region
+{Caribbean}Caribbean
+{Caribbean_Isles}Caribbean Isles
+{Cholula}Cholula
+{Cholula_Province}Texcoco Region
+{Constantinople}Constantinople
+{Constantinople_Province}Constantinople Region
+{Cordoba}Cordoba
+{Cordoba_Province}Cordoba Region
+{Corinth}Corinth
+{Corinth_Province}Corinth Region
+{Cracow}Krakow
+{Cracow_Province}Krakow Region
+{Damascus}Damascus
+{Damascus_Province}Damascus Region
+{Dijon}Dijon
+{Dijon_Province}Dijon Region
+{Dongola}Dongola
+{Dongola_Province}Dongola Region
+{Dublin}Dublin
+{Dublin_Province}Dublin Region
+{Durazzo}Durazzo
+{Durazzo_Province}Durazzo Region
+{Edessa}Edessa
+{Edessa_Province}Edessa Region
+{Edinburgh}Edinburgh
+{Edinburgh_Province}Edinburgh Region
+{Florence}Florence
+{Florence_Province}Florence Region
+{Fortaleza}Fortaleza
+{Frankfurt}Frankfurt
+{Frankfurt_Province}Frankfurt Region
+{Gaza}Gaza
+{Gaza_Province}Gaza Region
+{Genoa}Genoa
+{Genoa_Province}Genoa Region
+{Granada}Granada
+{Granada_Province}Granada Region
+{Halych}Halych
+{Halych_Province}Halych Region
+{Hamburg}Hamburg
+{Hamburg_Province}Hamburg Region
+{Helsinki}Helsinki
+{Helsinki_Province}Helsinki Region
+{Hohenstauffen}Staufen
+{Hohenstauffen_Province}Staufen Region
+{Iasi}Iasi
+{Iasi_Province}Iasi Region
+{Iconium}Iconium
+{Iconium_Province}Iconium Region
+{Innsbruck}Innsbruck
+{Innsbruck_Province}Innsbruck Region
+{Inverness}Inverness
+{Inverness_Province}Inverness Region
+{Iraklion}Iraklion
+{Isle_of_Crete}Isle of Crete
+{Isle_of_Cyprus}Isle of Cyprus
+{Isle_of_Rhodes}Isle of Rhodes
+{Jedda}Jedda
+{Jedda_Province}Jedda Region
+{Jerusalem}Jerusalem
+{Jerusalem_Province}Jerusalem Region
+{Kiev}Kiev
+{Kiev_Province}Kiev Region
+{Leon}Leon
+{Leon_Province}Leon Region
+{Lisbon}Lisbon
+{Lisbon_Province}Lisbon Region
+{London}London
+{London_Province}London Region
+{Magdeburg}Magdeburg
+{Magdeburg_Province}Magdeburg Region
+{Marrakesh}Marrakesh
+{Marrakesh_Province}Marrakesh Region
+{Marseille}Marseille
+{Marseille_Province}Marseille Region
+{Metz}Metz
+{Metz_Province}Metz Region
+{Miccosukee}Miccosukee
+{Milan}Milan
+{Milan_Province}Milan Region
+{Moscow}Moscow
+{Moscow_Province}Moscow Region
+{Mosul}Mosul
+{Mosul_Province}Mosul Region
+{Naples}Naples
+{Naples_Province}Naples Region
+{Nicaea}Nicaea
+{Nicaea_Province}Nicaea Region
+{Nicosia}Nicosia
+{North_America}North America
+{Nottingham}Nottingham
+{Nottingham_Province}Nottingham Region
+{Novgorod}Novgorod
+{Novgorod_Province}Novgorod Region
+{Nuremburg}Nuremburg
+{Nuremburg_Province}Nuremburg Region
+{Oslo}Oslo
+{Oslo_Province}Oslo Region
+{Palermo}Palermo
+{Palermo_Province}Palermo Region
+{Pamplona}Pamplona
+{Pamplona_Province}Pamplona Region
+{Paris}Paris
+{Paris_Province}Paris Region
+{Prague}Prague
+{Prague_Province}Prague Region
+{Ragusa}Ragusa
+{Ragusa_Province}Ragusa Region
+{Rennes}Rennes
+{Rennes_Province}Rennes Region
+{Rheims}Rheims
+{Rheims_Province}Rheims Region
+{Rhodes}Rhodes
+{Riga}Riga
+{Riga_Province}Riga Region
+{Roman_Province}Rome Region
+{Rome}Rome
+{Ryazan}Ryazan
+{Ryazan_Province}Ryazan Region
+{Sarkel}Sarkel
+{Sarkel_Province}Sarkel Region
+{Smolensk}Smolensk
+{Smolensk_Province}Smolensk Region
+{Smyrna}Smyrna
+{Smyrna_Province}Smyrna Region
+{Sofia}Sofia
+{Sofia_Province}Sofia Region
+{Stettin}Stettin
+{Stettin_Province}Stettin Region
+{Stockholm}Stockholm
+{Stockholm_Province}Stockholm Region
+{Tbilisi}Tbilisi
+{Tbilisi_Province}Tbilisi Region
+{Tenochtitlan}Tenochtitlan
+{Tenochtitlan_Province}Tenochtitlan Region
+{Thessalonica}Thessalonica
+{Thessalonica_Province}Thessalonica Region
+{Thorn}Thorn
+{Thorn_Province}Thorn Region
+{Timbuktu}Timbuktu
+{Timbuktu_Province}Timbuktu Region
+{Tlaxcala}Tlaxcala
+{Tlaxcala_Province}Tlaxcala Region
+{Toledo}Toledo
+{Toledo_Province}Toledo Region
+{Toulouse}Toulouse
+{Toulouse_Province}Toulouse Region
+{Trebizond}Trebizond
+{Trebizond_Province}Trebizond Region
+{Tripoli}Tripoli
+{Tripoli_Province}Tripoli Region
+{Tunis}Tunis
+{Tunis_Province}Tunis Region
+{Valencia}Valencia
+{Valencia_Province}Valencia Region
+{Venice}Venice
+{Venice_Province}Venice Region
+{Vienna}Vienna
+{Vienna_Province}Vienna Region
+{Vilnius}Vilnius
+{Vilnius_Province}Vilnius Region
+{Volga-Bulgar_Province}Volga-Bulgar Region
+{Yerevan}Yerevan
+{Yerevan_Province}Yerevan Region
+{York}York
+{York_Province}York Region
+{Zagreb}Zagreb
+{Zagreb_Province}Zagreb Region
+{Zaragoza}Zaragoza
+{Zaragoza_Province}Zaragoza Region
